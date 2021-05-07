@@ -1,0 +1,106 @@
+- type: quote
+  author: Carrie Anne
+  text: The Enigma was a tough cookie to crack
+- type: youtube
+  id: jhXCTbFnK8o
+  title: 'Cryptography: Crash Course Computer Science #33'
+- type: youtube
+  id: 1P8Xpxm76e8
+  title: Cryptography 101 - Substitution Ciphers
+- type: youtube
+  id: mUoQhXWTKE0
+  title: How to use the Frequency Analysis Tool
+- type: youtube
+  id: sHsnH1u03e4
+  title: 'Cryptography: Transposition Cipher'
+- type: youtube
+  id: mO0oET8TT5E
+  title: Poles Escape With Secret of Enigma
+- type: image
+  url: enigma-patent.png
+  title: Enigma Machine
+  text: |-
+    Invented by [Arthur Scherbius][1] attacked by [Polish Cipher Bureau][2]
+
+    [1]: https://en.wikipedia.org/wiki/Arthur_Scherbius
+    [2]: https://en.wikipedia.org/wiki/Biuro_Szyfr%C3%B3w
+- type: youtube
+  id: cpRhZaQxnhw
+  title: Polish cryptologists and breaking of the Enigma
+- type: youtube
+  id: G2_Q9FoD-oQ
+  title: Enigma Machine - Numberphile
+- type: youtube
+  id: V4V2bpZlqx8
+  title: Flaw in the Enigma Code - Numberphile
+- type: youtube
+  id: dG09jv3c1sE
+  title: Typex
+- type: text
+  title: More on Wikipedia
+  text: |-
+    [Zygalski Sheets][1]
+
+    [Bomba (Polish Machine)][2]
+
+    [Bombe (British Machine)][3]
+
+    [Typex][4]
+
+    [1]: https://en.wikipedia.org/wiki/Zygalski_sheets
+    [2]: https://en.wikipedia.org/wiki/Bomba_(cryptography)
+    [3]: https://en.wikipedia.org/wiki/Bombe
+    [4]: https://en.wikipedia.org/wiki/Typex
+- type: youtube
+  id: Sy0sXa73PZA
+  title: DES encryption by hand (simple low level example at a bit view)
+- type: youtube
+  id: O4xNJsjtN6E
+  title: AES Explained (Advanced Encryption Standard) - Computerphile
+- type: youtube
+  id: pArLLJmgX10
+  title: Symmetric and Asymmetric Encryption
+- type: youtube
+  id: AQDCe585Lnc
+  title: Asymmetric encryption - Simply explained
+- type: text
+  title: Games
+  text: |-
+    [Google Capture The Flag (CTF)][1]
+
+    [NSA CRYPTOCHALLENGE - Puzzle of the week][2]
+
+    [1]: https://capturetheflag.withgoogle.com/#beginners/
+    [2]: https://cryptochallenge.io/
+- type: youtube
+  id: j9xht4K-MBk
+  title: 'Google CTF: Beginner Quest: OCR IS COOL!'
+- type: youtube
+  id: fPJoNYgXHnI
+  title: 'Kryptos: The CIA''s Unsolved Secret Code'
+- type: text
+  title: Kryptos
+  text: |-
+    [Kryptos On Wikipedia][1]
+
+    [Kryptos Transcription by Elonka Dunin][2]
+
+    [Elonka's List of Famous Unsolved Codes and Ciphers][3]
+
+    [The Cyrillic Projector Code - Cracked!][4]
+
+    [1]: https://en.wikipedia.org/wiki/Kryptos
+    [2]: https://www.elonka.com/
+    [3]: https://www.elonka.com/UnsolvedCodes.html
+    [4]: https://www.elonka.com/kryptos/CyrillicProjectorAnnouncement.html
+- type: image
+  url: kryptos.jpg
+- type: text
+  title: Kryptos Transcription
+  text: "EMUFPHZLRFAXYUSDJKZLDKRNSHGNFIVJ YQTQUXQBQVYUVLLTREVJYQTMKYRDMFD\nVFPJUDEEHZWETZYVGWHKKQETGFQJNCE GGWHKK?DQMCPFQZDQMMIAGPFXHQRLG\nTIMVMZJANQLVKQEDAGDVFRPJUNGEUNA QZGZLECGYUXUEENJTBJLBQCRTBJDFHRR\nYIZETKZEMVDUFKSJHKFWHKUWQLSZFTI HHDDDUVH?DWKBFUFPWNTDFIYCUQZERE\nEVLDKFEZMOQQJLTTUGSYQPFEUNLAVIDX FLGGTEZ?FKZBSFDQVGOGIPUFXHHDRKF\nFHQNTGPUAECNUVPDJMQCLQUMUNEDFQ ELZZVRRGKFFVOEEXBDMVPNFQXEZLGRE\nDNQFMPNZGLFLPMRJQYALMGNUVPDXVKP DQUMEBEDMHDAFMJGZNUPLGEWJLLAETG \n\n\_ABCDEFGHIJKLMNOPQRSTUVWXYZABCD AKRYPTOSABCDEFGHIJLMNQUVWXZKRYP\nBRYPTOSABCDEFGHIJLMNQUVWXZKRYPT CYPTOSABCDEFGHIJLMNQUVWXZKRYPTO\nDPTOSABCDEFGHIJLMNQUVWXZKRYPTOS ETOSABCDEFGHIJLMNQUVWXZKRYPTOSA\nFOSABCDEFGHIJLMNQUVWXZKRYPTOSAB GSABCDEFGHIJLMNQUVWXZKRYPTOSABC\nHABCDEFGHIJLMNQUVWXZKRYPTOSABCD IBCDEFGHIJLMNQUVWXZKRYPTOSABCDE\nJCDEFGHIJLMNQUVWXZKRYPTOSABCDEF KDEFGHIJLMNQUVWXZKRYPTOSABCDEFG\nLEFGHIJLMNQUVWXZKRYPTOSABCDEFGH MFGHIJLMNQUVWXZKRYPTOSABCDEFGHI \n\nENDYAHROHNLSRHEOCPTEOIBIDYSHNAIA CHTNREYULDSLLSLLNOHSNOSMRWXMNE\nTPRNGATIHNRARPESLNNELEBLPIIACAE WMTWNDITEENRAHCTENEUDRETNHAEOE\nTFOLSEDTIWENHAEIOYTEYQHEENCTAYCR EIFTBRSPAMHHEWENATAMATEGYEERLB\nTEEFOASFIOTUETUAEOTOARMAEERTNRTI BSEDDNIAAHTTMSTEWPIEROAGRIEWFEB\nAECTDDHILCEIHSITEGOEAOSDDRYDLORIT RKLMLEHAGTDHARDPNEOHMGFMFEUHE\nECDMRIPFEIMEHNLSSTTRTVDOHW?OBKR UOXOGHULBSOLIFBBWFLRVQQPRNGKSSO\nTWTQSJQSSEKZZWATJKLUDIAWINFBNYP VTTMZFPKWGDKZXTJCDIGKUHUAUEKCAR \n\nNGHIJLMNQUVWXZKRYPTOSABCDEFGHIJL OHIJLMNQUVWXZKRYPTOSABCDEFGHIJL\nPIJLMNQUVWXZKRYPTOSABCDEFGHIJLM QJLMNQUVWXZKRYPTOSABCDEFGHIJLMN\nRLMNQUVWXZKRYPTOSABCDEFGHIJLMNQ SMNQUVWXZKRYPTOSABCDEFGHIJLMNQU\nTNQUVWXZKRYPTOSABCDEFGHIJLMNQUV UQUVWXZKRYPTOSABCDEFGHIJLMNQUVW\nVUVWXZKRYPTOSABCDEFGHIJLMNQUVWX WVWXZKRYPTOSABCDEFGHIJLMNQUVWXZ\nXWXZKRYPTOSABCDEFGHIJLMNQUVWXZK YXZKRYPTOSABCDEFGHIJLMNQUVWXZKR\nZZKRYPTOSABCDEFGHIJLMNQUVWXZKRY \_ABCDEFGHIJKLMNOPQRSTUVWXYZABCD"
+- type: youtube
+  id: r-76Smf2oMk
+  title: Ancient Codes and Hieroglyphs
+- type: youtube
+  id: nVVF8dgKC38
+  title: 'Keeping Secrets: Cryptography In A Connected World'

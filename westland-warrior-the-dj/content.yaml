@@ -1,0 +1,97 @@
+- type: text
+  title: Mariana BO
+  text: |-
+    [YouTube Channel][1] / [YouTube Topic][2]
+
+    [1]: https://www.youtube.com/channel/UCXBxS3vJZmrKUTOmjG0XnKQ
+    [2]: https://www.youtube.com/channel/UC7orAmV1JD-j-cIxOW7gi3w
+- type: youtube
+  id: dQRARRAhRLc
+  title: Mariana BO (Tomorrowland Belgium 2019)
+- type: youtube
+  id: V7-JQcNm8W0
+  title: 'Mariana BO: Shankara'
+- type: text
+  title: MATTN
+  text: |-
+    [YouTube Topic][1]
+
+    [1]: https://www.youtube.com/channel/UCojmPu73tS_5hcxUOoCtHjw
+- type: youtube
+  id: ksqBDYwqkHA
+  title: MATTN (Tomorrowland Mainstage 2019)
+- type: youtube
+  id: F18eozyUKoM
+  title: 'MATTN: Jungle Fever'
+- type: text
+  title: Peggy Gou
+  text: |-
+    [YouTube Topic][1]
+
+    [1]: https://www.youtube.com/channel/UConl7T_sh6sQCwYe8WrQNbQ
+- type: youtube
+  id: '-UOMvxh4MYU'
+  title: Peggy Gou (Palais des Beaux-Arts de Lille for Cercle)
+- type: youtube
+  id: r_wwmmo6UGY
+  title: 'Peggy Gou: Starry Night'
+- type: text
+  title: Miss K8
+  text: |-
+    [YouTube Channel][1]
+
+    [1]: https://www.youtube.com/channel/UC9QwEZj-KBlYzW3hbsgwS-Q
+- type: youtube
+  id: Z0N1i7LwXXE
+  title: Miss K8 (Qlimax 2019)
+- type: youtube
+  id: k9sC2RcFsQg
+  title: 'Miss K8: Out Of The Frame'
+- type: text
+  title: Charlotte de Witte
+  text: |-
+    [YouTube Channel][1]
+
+    [1]: https://www.youtube.com/channel/UC-yOW3e6zBSo1JwLXq46Suw
+- type: youtube
+  id: AtZxg-OC5ho
+  title: Charlotte de Witte (Dour Festival 2017)
+- type: youtube
+  id: qNWQ5TGujVI
+  title: 'Charlotte de Witte: Time'
+- type: text
+  title: NERVO
+  text: |-
+    [YouTube Channel][1]
+
+    [1]: https://www.youtube.com/channel/UCPIq_wSB6DYBtoee4KqSZnw
+- type: youtube
+  id: _m9OgQkdVqQ
+  title: NERVO (Tomorrowland July 22, 2017)
+- type: youtube
+  id: rTOMpaOd31g
+  title: 'NERVO: The Way We See The World'
+- type: text
+  title: Alison Wonderland
+  text: |-
+    [YouTube Channel][1]
+
+    [1]: https://www.youtube.com/channel/UCB6R4ceqzkFiNX6FjDNzuKw
+- type: youtube
+  id: HIXwkduDI3w
+  title: Alison Wonderland (The Lab LA)
+- type: youtube
+  id: KbGV1KEXds4
+  title: 'Alison Wonderland: Peace'
+- type: text
+  title: Nina Kraviz
+  text: |-
+    [YouTube Topic][1]
+
+    [1]: https://www.youtube.com/channel/UCF6lav85ybIK3Umon9oI-dw
+- type: youtube
+  id: oFvqo1dil7M
+  title: Nina Kraviz (Tour Eiffel for Cercle)
+- type: youtube
+  id: JDJRg8sowP4
+  title: 'Nina Kraviz: Dream Machine'

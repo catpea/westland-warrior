@@ -1,0 +1,199 @@
+- type: youtube
+  id: TysXX7ZCV7g
+  title: Great Philosopher Jean Paul Sartre, plays the piano.
+- type: image
+  url: ableton.png
+  title: Important Music Tutorial
+  text: |-
+    Please visit [Learning Music][1] at Ableton, and take their music
+    composition tutorial.
+
+    [1]: https://learningmusic.ableton.com/
+- type: image
+  url: stereo-master.jpg
+  title: The Masters of the Stereo
+  text: |-
+    A **sample** of sound, is the same as a sample of cake, it is just a little
+    bit of something larger. In the world of music, that little bit, would
+    often be a defining sound in a song that captured your attention.
+- type: youtube
+  id: i9MXYZh1jcs
+  title: 'Amiga Samplers : Budget dance music in 1990'
+- type: youtube
+  id: v89CjsSOJ_c
+  title: 'Amen, Break: The Most Sampled Loop in Music History'
+- type: youtube
+  id: H3TF-hI7zKc
+  title: How sampling transformed music by Mark Ronson
+- type: text
+  title: Art of Sampling
+  text: |-
+    Creating sounds with a synthesizer can be tiring, not every sound you
+    synthesize will be ground breaking. Back in the old days, listeners were
+    not too happy with synthesized songs, people would actually call them UFO
+    Sounds.
+
+    Some choose to skip sound synthesis and create/[download][1] samples.
+    Samples can be replayed at different frequencies, depending on which piano
+    key you hit. In fact if you record a single piano key, you can almost
+    recreate the piano entirely by replaying that one piano key at different
+    frequencies/notes (A note like _middle C_, is just a named frequency, in
+    this case 261.63 Hz.)
+
+    [Sampling][2] is the art of borrowing a sound, or even a little bit of a song (as in Lofi Hip Hop) and frequently replaying it at a different frequency. You can also sample sounds around you to create unique drums, [hats][3], even piano or some lo-tech violin out of [flinging a doorstop][4]. You can give beatboxing a try and build a song out of sampling/splicing the instruments you imitated with your own voice.
+
+    Downloadable Drumkits, are collections of short samples of instruments
+    taken from various places, including other songs. Visit [r/Drumkits][5] for
+    some free downloads.
+
+    Additionally, [freesound][6] has a huge library, and [Splice][7] has a well
+    organized one aimed at musicians for $7.99/mo (the free trial is worth it).
+
+    [1]: https://old.reddit.com/r/Drumkits/
+    [2]: https://en.wikipedia.org/wiki/Sampling_(music)
+    [3]: https://en.wikipedia.org/wiki/Hi-hat
+    [4]: https://www.youtube.com/watch?v=zS4gZcjSHk4
+    [5]: https://www.reddit.com/r/Drumkits/
+    [6]: https://freesound.org/
+    [7]: https://splice.com/
+- type: youtube
+  id: mVxLhy1v-xU
+  title: LoFi Synth-Hop
+- type: youtube
+  id: DdVOwNyomw4
+  title: RZA - Flying Birds / Sample Rich Track
+- type: youtube
+  id: g4tbuu9GTaw
+  title: RZA'a Samurai Showdown (Lofi Hiphop)
+- type: youtube
+  id: ztPvUrQb9Vw
+  title: Beatboxers
+- type: youtube
+  id: d8s8e8JdGCc
+  title: The Science of Dubstep by James Humberstone
+- type: youtube
+  id: q5yxIzs5Wug
+  title: How to translate the feeling into sound by Claudio
+- type: text
+  title: Become a Rockstar!
+  text: |-
+    Please remember what Claudio teaches us. A song is a story, it is not the
+    back-beat, not the piano, not the twelve inch drum, or the bass head. A
+    song is a story told with voice and music.
+
+    Grab a pencil, draw a line. Mark all the important events along the line.
+    That's where the lyrics start or end, that's where the back-beat slows or
+    picks up, that's where your listeners will start to laugh or start to cry.
+
+    We compose music, because the greatest of stories cannot be expressed in
+    words.
+- type: text
+  title: LMMS
+  text: |-
+    [LMMS][1] is a free, cross-platform tool for music composition.
+
+    Take a look at the [showcase][2], albums of songs made with LMMS.
+
+    [1]: https://lmms.io/
+    [2]: https://lmms.io/showcase
+- type: youtube
+  id: 5j8c2qlih0M
+  title: LMMS 1.2
+- type: youtube
+  id: 4dYxV3tqTUc
+  title: 'LMMS Tutorial 1: Piano Roll, Beat/Bass Line Editor'
+- type: youtube
+  id: Ow4fHTmd1mo
+  title: 'LMMS Tutorial 2: Sidebar'
+- type: youtube
+  id: 7lI8VgbocQg
+  title: 'LMMS Tutorial 3: TripleOscillator Basics'
+- type: youtube
+  id: rJDc8p18fsE
+  title: How to Sing Any Song - Modified Lyrics - Felicia Ricci
+- type: youtube
+  id: ZATunybJm_4
+  title: How To Sing Any Song - Voice Lessons - Ken Tamplin Vocal Academy
+- type: youtube
+  id: ytyLQ2Hl-H0
+  title: How To Sing With Your Own Voice - Roger Burnley Voice Studio - Singing Vocal Lesson
+- type: text
+  title: Anne Reburn
+  text: |-
+    [Anne Reburn Channel on YouTube][1]
+
+    [1]: https://www.youtube.com/channel/UChyNJxSsIXh2KyY3VvLnI2g
+- type: youtube
+  id: zFnSCJ8h9c4
+  title: How Am I Feeling Today?
+- type: youtube
+  id: SdM5DQxfGM0
+  title: I'm A Believer
+- type: text
+  title: Studio Acapellas
+  text: |-
+    Search YouTube for [Studio Acapellas][1] to discover vocal-only tracks of
+    popular songs. It is much easier to understand what singing is about when
+    you can hear the voice without music. You can search the web for "download
+    youtube audio" and then load them into LMMS and create your own backbeat
+    and remixes.
+
+    [1]: https://www.youtube.com/results?search_query=Studio+Acapella
+- type: youtube
+  id: f5TSlm79zc0
+  title: P!nk - Fuckin' Perfect (Official Acapella) [EXPLICIT]
+- type: youtube
+  id: oRoauAOgWuw
+  title: Mad World Gary Jules Real Official Acapella
+- type: text
+  title: Izzie Naylor
+  text: |-
+    You don't need a strong beat to make a song work. Izzie Naylor is proof
+    that minimalist songs are often very beautiful.
+- type: youtube
+  id: Z8ZShEgGt-4
+  title: Smile, Ukulele Cover by Izzie Naylor
+- type: youtube
+  id: D1Nq086QB1Q
+  title: Gary Jules - Mad World (live)
+- type: text
+  title: Community Links
+  text: |-
+    *   [/r/Drumkits][1]
+    *   [/r/MakingHipHop][2]
+    *   [/r/EdmProduction][3]
+    *   [/r/TrapProduction][4]
+    *   [/r/WeAreTheMusicMakers][5]
+    *   [/r/IsolatedVocals/][6]
+
+    [1]: https://www.reddit.com/r/Drumkits/
+    [2]: https://www.reddit.com/r/MakingHipHop
+    [3]: https://www.reddit.com/r/EdmProduction
+    [4]: https://www.reddit.com/r/TrapProduction
+    [5]: https://www.reddit.com/r/WeAreTheMusicMakers
+    [6]: https://www.reddit.com/r/IsolatedVocals/
+- type: business
+  url: bandcamp.png
+  title: Bandcamp Music Sales
+  text: |-
+    Sell your music on [Bandcamp][1] (free).
+
+    [1]: https://bandcamp.com/artists
+- type: business
+  url: splice.png
+  title: Splice Sample Sales
+  text: |
+    [Sell][1] your [quality][2] music samples on [Splice][3].
+
+    Consider creating less restrictive music/sample sharing platforms (see The Founder)
+
+    [1]: https://support.splice.com/hc/en-us/articles/115006379848-Where-can-I-submit-my-own-samples-or-sample-packs-
+    [2]: https://splice.com/blog/splice-sounds-quality-principles/
+    [3]: https://splice.com/
+- type: text
+  title: How to Share
+  text: |-
+    Upload your music to [Soundcloud][1] you get 180 minues of music space for
+    free (per account).
+
+    [1]: https://soundcloud.com

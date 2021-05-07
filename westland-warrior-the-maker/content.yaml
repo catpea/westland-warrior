@@ -1,0 +1,211 @@
+- type: youtube
+  id: b694exl_oZo
+  title: My creations, a new form of life by Theo Jansen
+- type: youtube
+  id: KsqlnGMzMD4
+  title: Strandbeest Evolution 2017
+- type: text
+  title: Colin Furze
+  text: |-
+    [YouTube Channel][1]
+
+    [1]: https://www.youtube.com/user/colinfurze
+- type: youtube
+  id: soxxPyaAT1k
+  title: Homemade Hoverbike
+- type: youtube
+  id: yox9CKYh7EU
+  title: Underground Beach Hut Build
+- type: text
+  title: Jimmy Diresta
+  text: |-
+    [YouTube Channel][1]
+
+    [1]: https://www.youtube.com/user/jimmydiresta
+- type: youtube
+  id: M6v2trBW4es
+  title: Brass Hammer
+- type: youtube
+  id: gwAId02ssYs
+  title: Stained Glass Window
+- type: text
+  title: Clickspring
+  text: |-
+    [YouTube Channel][1]
+
+    [Making The Antikythera Mechanism][2]
+
+    [Making A Large Wheel Skeleton Clock][3]
+
+    [1]: https://www.youtube.com/channel/UCworsKCR-Sx6R6-BnIjS2MA
+    [2]: https://www.youtube.com/playlist?list=PLZioPDnFPNsHnyxfygxA0to4RXv4_jDU2
+    [3]: https://www.youtube.com/playlist?list=PLZioPDnFPNsETq9h35dgQq80Ryx-beOli
+- type: youtube
+  id: ML4tw_UzqZE
+  title: The Antikythera Mechanism Episode 1 - Greeks, Clocks and Rockets.
+- type: youtube
+  id: B8Y146v8HxE
+  title: How To Make A Clock In The Home Machine Shop - Part 1
+- type: text
+  title: Andre Will Do It
+  text: |-
+    [YouTube Channel][1]
+
+    [1]: https://www.youtube.com/channel/UCad1pq_FAygE4VaDLJMZ8BA
+- type: youtube
+  id: py6WEp6pKGE
+  title: Rusty Remington Clone
+- type: youtube
+  id: 86356fRR1VY
+  title: Abandoned 1886 Colt Lightning
+- type: text
+  title: Black Beard Projects
+  text: |-
+    [YouTube Channel][1]
+
+    [1]: https://www.youtube.com/channel/UC8q2GgxOUS_Dzd5KIYeJQIw
+- type: youtube
+  id: 2RVyE1wlH7E
+  title: Knifemaker Restore An Italian Chef's Knife Worth 1€
+- type: text
+  title: This Old Tony
+  text: |-
+    [YouTube Channel][1]
+
+    [1]: https://www.youtube.com/user/featony
+- type: youtube
+  id: sjn6qeFzQCA
+  title: CNC Sword
+- type: text
+  title: Alumi Tube
+  text: |-
+    [YouTube Channel][1]
+
+    [1]: https://www.youtube.com/channel/UCcDpEbrETwvQfJxnpqY6idw
+- type: youtube
+  id: 5g2DxY1Rjag
+  title: Casting REAL BRONZE THANOS Infinity Gauntlet
+- type: text
+  title: My Ford Boy
+  text: |-
+    [YouTube Channel][1]
+
+    [1]: https://www.youtube.com/user/myfordboy
+- type: youtube
+  id: 5GSHXC6fwq4
+  title: Casting and Machining a Toothed Pulley
+- type: business
+  url: ponoko.jpg
+  title: Ponoko
+  text: |-
+    [Ponoko][1] provides laser cutting & engraving services to turn your designs into custom products. You select from 99+ beautiful materials, download our design template, add your design to it, then upload it to get an instant online quote to make your design real. Pricing starts from $1. You can make 1 or 100,000. And your designs are made & delivered as fast as same day.
+
+    [1]: https://www.ponoko.com/
+- type: business
+  url: ponoko-clocks.jpg
+  title: Ponoko Clocks
+  text: |-
+    Thinking flat is about simplicity, and sometimes layers. In 3D Printing we
+    think in layers of plastic; in Laser Cutting we can think in layers of
+    whatever you are cutting.
+- type: business
+  url: ponoko-cases.jpg
+  title: Ponoko Cases
+  text: |-
+    A great example of flat layers adding up to create more than just flat
+    thing are Raspberry PI cases.
+- type: business
+  url: ponoko-wallet.jpg
+  title: Wallets
+  text: |-
+    A good example of a flat cut product that makes good money, is the wallet!
+
+    [Kickstarter][1] has an article about wallets [Why are there so many wallets on Kickstarter?][2] Take a look at [Trayvax][3] and [Dango Products][4] for more ideas.
+
+    [1]: https://www.kickstarter.com
+    [2]: https://www.kickstarter.com/stories/wallets
+    [3]: https://www.trayvax.com/
+    [4]: https://www.dangoproducts.com/
+- type: youtube
+  id: rt6TqD000-s
+  title: Dremel Laser Cutter Demo ($6,499.00 - $8,499.00)
+- type: business
+  url: leather.png
+  title: Laser-cut Leather
+  text: |
+    Sarah Kirkham and Anna Warren created a [Leatherworking][1] business where
+    they use a laser cutter to create fancy products.
+
+    Consider creating a similar business (see The Founder)
+
+    [1]: https://en.wikipedia.org/wiki/Leather_crafting
+- type: youtube
+  id: sOmhgoD7Z9U
+  title: Dremel DigiLab Laser Cutter Luggage Tag Project
+- type: business
+  url: leather2.png
+  title: Laser-cut Leather
+  text: |-
+    Visit [Tactile Craftworks][1] for product demos.
+
+    [1]: https://tactilecraftworks.com/
+- type: text
+  title: CNC Plasma Cutter Demo
+  text: |-
+    The [price][1] of the CNC plasma cutter used in [MAKE IT REAL][2] videos
+    below ranges from $30,000.00 - $45,000.00, pro version is up to $92,000.00
+
+    As the part 2 says, having someone else run cutter is actually reasonably
+    priced.
+
+    Visit the [the Hacksmith][3] YouTube Channel for more.
+
+    [1]: https://www.maverickcnc.com/pricing-page/
+    [2]: https://www.youtube.com/watch?v=2RVyE1wlH7E
+    [3]: https://www.youtube.com/channel/UCjgpFI5dU-D1-kh9H1muoxQ
+- type: youtube
+  id: HxX75eYf598
+  title: 'Building Stormbreaker: Part 1'
+- type: youtube
+  id: 449lCaylrIo
+  title: 'BRING ME THANOS! Building Stormbreaker: Part 2'
+- type: text
+  title: 'CNC Plasma Cutter Demo: Man At Arms'
+  text: |-
+    [Man At Arms][1] use a similar cutter, but tend to use the resulting product as a template/test for real blacksmithing.
+
+    [1]: https://www.youtube.com/playlist?list=PLUUGFk1wE5OFOpfPz3ggXQrCSdQdFEslx
+- type: youtube
+  id: vef62MzS6as
+  title: 'Optimus Prime''s Sword from Transformers: The Last Knight '
+- type: text
+  title: Plasma CNC in Action
+  text: |-
+    You can see the Plasma CNC in action at [4:03][1]
+
+    [1]: https://youtu.be/vef62MzS6as?t=243
+- type: text
+  title: Waterjet Cutter Demo
+  text: |-
+    A small desktop sized waterjet is about $8,000.00, take a look at
+    [Wazer][1] It can cut 0.120" Stainless Steel, Marble, Boro Glass, HDPE,
+    Silicone, and Carbon Fiber.
+
+    Here is a small business example based on a large waterjet
+    [waterjetknives.com][2]
+
+    Visit [Cut in Half][3] and [Waterjet Channel][4] for more shenanigans.
+
+    [1]: https://www.wazer.com/
+    [2]: https://waterjetknives.com/
+    [3]: https://www.youtube.com/channel/UCZ9gllpxg63WTW10FcydrHA
+    [4]: https://www.youtube.com/channel/UCY2--S73K_Ce6uvmN9UXvlw
+- type: youtube
+  id: BVL3Y1uJY68
+  title: cut in half - 1911 Airsoft pistol
+- type: youtube
+  id: o9ZDmsF3mpI
+  title: 55lb Kettlebell VS. Waterjet at 60,000 PSI
+- type: youtube
+  id: jn9Od4oP8D0
+  title: Water Trapped in Quartz Rock vs 60,000 PSI Waterjet - Enhydro Agate
