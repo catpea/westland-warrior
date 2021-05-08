@@ -1,0 +1,157 @@
+[
+  {
+    "title": "Keyboards & Command Line Interfaces",
+    "url": "https://www.youtube.com/watch?v=4RPtJ9UyHS0",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Full Playlist",
+    "url": "https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Getting Around in the Unix Command Line Interface",
+    "url": "https://www.youtube.com/watch?v=RuusmAGbnOo",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Full Raspberry Pi Tutorial Playlist »",
+    "url": "https://www.youtube.com/watch?v=Jj4pjfU_-jo&list=PLsa31gkyINsly6N_usaeHrtDPYnwxO-1Y",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "touch",
+    "url": "http://man7.org/linux/man-pages/man1/touch.1.html",
+    "hostname": "man7.org"
+  },
+  {
+    "title": "ls",
+    "url": "http://man7.org/linux/man-pages/man1/ls.1.html",
+    "hostname": "man7.org"
+  },
+  {
+    "title": "cp",
+    "url": "http://man7.org/linux/man-pages/man1/cp.1.html",
+    "hostname": "man7.org"
+  },
+  {
+    "title": "mkdir",
+    "url": "http://man7.org/linux/man-pages/man1/mkdir.1.html",
+    "hostname": "man7.org"
+  },
+  {
+    "title": "rmdir",
+    "url": "http://man7.org/linux/man-pages/man1/rmdir.1.html",
+    "hostname": "man7.org"
+  },
+  {
+    "title": "mv",
+    "url": "http://man7.org/linux/man-pages/man1/mv.1.html",
+    "hostname": "man7.org"
+  },
+  {
+    "title": "rm",
+    "url": "http://man7.org/linux/man-pages/man1/rm.1.html",
+    "hostname": "man7.org"
+  },
+  {
+    "title": "gzip",
+    "url": "https://linux.die.net/man/1/gzip",
+    "hostname": "linux.die.net"
+  },
+  {
+    "title": "tar",
+    "url": "http://man7.org/linux/man-pages/man1/tar.1.html",
+    "hostname": "man7.org"
+  },
+  {
+    "title": "bzip2",
+    "url": "https://linux.die.net/man/1/bzip2",
+    "hostname": "linux.die.net"
+  },
+  {
+    "title": "wget",
+    "url": "http://man7.org/linux/man-pages/man1/wget.1.html",
+    "hostname": "man7.org"
+  },
+  {
+    "title": "curl",
+    "url": "http://man7.org/linux/man-pages/man1/curl.1.html",
+    "hostname": "man7.org"
+  },
+  {
+    "title": "youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl/blob/master/README.md",
+    "hostname": "github.com"
+  },
+  {
+    "title": "https://www.youtube.com/watch?v=YOUR\\_VIDEO\\_ID",
+    "url": "https://www.youtube.com/watch?v=YOUR%5C_VIDEO%5C_ID",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "How To Hack Time",
+    "url": "https://www.youtube.com/watch?v=KEkrWRHCDQU",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "https://linux.die.net/man/1/ffmpeg",
+    "url": "https://linux.die.net/man/1/ffmpeg",
+    "hostname": "linux.die.net"
+  },
+  {
+    "title": "Node-RED",
+    "url": "https://www.youtube.com/watch?v=vYreeoCoQPI",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Command-line interface",
+    "url": "https://en.wikipedia.org/wiki/Command-line_interface",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "github.com/NARKOZ/hacker-scripts",
+    "url": "https://github.com/NARKOZ/hacker-scripts",
+    "hostname": "github.com"
+  },
+  {
+    "title": "fucking_coffee.js",
+    "url": "https://github.com/NARKOZ/hacker-scripts/blob/master/nodejs/fucking_coffee.js",
+    "hostname": "github.com"
+  },
+  {
+    "title": "Mr. Coffee Smart Coffeemaker enabled with WeMo",
+    "url": "https://www.mrcoffee.com/wemo-landing-page.html",
+    "hostname": "www.mrcoffee.com"
+  },
+  {
+    "title": "node.js client for WeMo",
+    "url": "https://github.com/timonreinhard/wemo-client",
+    "hostname": "github.com"
+  },
+  {
+    "title": "Raspberry PI",
+    "url": "https://www.raspberrypi.org/",
+    "hostname": "www.raspberrypi.org"
+  },
+  {
+    "title": "stream the coffeemaker",
+    "url": "https://en.wikipedia.org/wiki/Trojan_Room_coffee_pot",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "camera board module",
+    "url": "https://www.raspberrypi.org/products/camera-module-v2/",
+    "hostname": "www.raspberrypi.org"
+  },
+  {
+    "title": "fee of $9.95",
+    "url": "https://stripe.com/",
+    "hostname": "stripe.com"
+  },
+  {
+    "title": "blog about the experience",
+    "url": "https://gohugo.io/getting-started/quick-start/",
+    "hostname": "gohugo.io"
+  }
+]

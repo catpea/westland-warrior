@@ -1,0 +1,102 @@
+Quote by Albert Einstein
+
+Never memorize something that you can look up.
+
+Albert Einstein
+
+Bret Victor - Inventing on Principle
+
+Bret Victor - Inventing on Principle
+
+The poetry of programming (teaching children about computers): Linda Liukas
+
+The poetry of programming (teaching children about computers): Linda Liukas
+
+Changing the world with code by Emma Yang
+
+Changing the world with code by Emma Yang
+
+Karlie Kloss: Coding is a superpower
+
+Karlie Kloss: Coding is a superpower
+
+Making a Game: Bill Gates explains If statements.
+
+Making a Game: Bill Gates explains If statements.
+
+Bill Gates remembers his early programming career
+
+Bill Gates remembers his early programming career
+
+1991 Interview with Bill Gates
+
+1991 Interview with Bill Gates
+
+What do programmers actually do?
+
+What do programmers actually do?
+
+How I Learned to Code - and Got a Job at Airbnb!
+
+How I Learned to Code - and Got a Job at Airbnb!
+
+Learn to Code in 6 months
+
+Learn to Code in 6 months
+
+Learn JavaScript - Full Course for Beginners
+
+Learn JavaScript - Full Course for Beginners
+
+Learn Node.js - Full Tutorial for Beginners
+
+Learn Node.js - Full Tutorial for Beginners
+
+Amy Palamountain on Backbone and Marionette
+
+Amy Palamountain on Backbone and Marionette
+
+JavaScript
+
+The reason I mention JavaScript is because it is the most widely used
+programming language on github. Searching for projects with more than
+10,000 stars shows 409 JavaScript based projects, the next one down is
+Python with 117.
+
+Svelte Tutorial
+
+Svelte Tutorial
+
+Svelte
+
+A bright new JavaScript compiler/framework named Svelte (28.2k github
+stars) has recently entered the battle area.
+Previously Vue.js (154k stars) outcompeted Facebook's React (141k
+stars).
+Svelte injects its code into your programs, whereas Vue.js and React ask
+you to program their way, learning new functions and strategies.
+Svelte offers a framework for building web applications, and an
+approach to building mobile apps as well.
+
+If you are going to start programming, start with Svelte.
+They offer a fantastic live coding tutorial at
+https://svelte.dev/tutorial/basics
+
+Arduino vs. Raspberry Pi - Which is best?
+
+Arduino vs. Raspberry Pi - Which is best?
+
+You can learn Arduino in 15 minutes.
+
+You can learn Arduino in 15 minutes.
+
+
+[Searching for projects with more than
+      10,000 stars]: https://github.com/search?q=stars%3A%3E%3D10000
+[Svelte]: https://svelte.dev/
+[Vue.js]: https://vuejs.org/
+[React]: https://reactjs.org/
+[framework for building web applications]: https://sapper.svelte.dev/
+[approach to building mobile apps]: https://svelte-native.technology/
+[Svelte]: https://svelte.dev/
+[https://svelte.dev/tutorial/basics]: https://svelte.dev/tutorial/basics

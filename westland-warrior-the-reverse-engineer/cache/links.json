@@ -1,0 +1,227 @@
+[
+  {
+    "title": "Hacker Boy",
+    "url": "https://www.youtube.com/watch?v=j0orpECOYN4",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Hacker Breaks Down 26 Hacking Scenes From Movies & TV | WIRED",
+    "url": "https://www.youtube.com/watch?v=SZQz9tkEHIg",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Introduction to Reverse Engineering for Penetration Testers – SANS Pen Test HackFest Summit 2017",
+    "url": "https://www.youtube.com/watch?v=fnYp2DN_XZc",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Introduction to Reverse Engineering - Mike Anderson,",
+    "url": "https://www.youtube.com/watch?v=7v7UaMsgg_c",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Introduction to Firmware Reversing",
+    "url": "https://www.youtube.com/watch?v=GIU4yJn2-2A",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Intro to Hardware Reversing, Finding a UART and getting a shell",
+    "url": "https://www.youtube.com/watch?v=ZmZuKA-Rst0",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "DEF CON 24 - Hardware Hacking Village - Matt DuHarte - Basic Firmware Extraction",
+    "url": "https://www.youtube.com/watch?v=Kxvpbu9STU4",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Hack All The Things, 20 Devices in 45 Minutes",
+    "url": "https://www.youtube.com/watch?v=h5PRvBpLuJs",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Philippe Laulheret - Intro to Hardware Hacking - DEF CON 27 Conference",
+    "url": "https://www.youtube.com/watch?v=HuCbr2588-w",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Defcon 21 - All Your RFz Are Belong to Me - Hacking the Wireless World with Software Defined Radio",
+    "url": "https://www.youtube.com/watch?v=ZuNOD3XWp4A",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Defcon 21 - Defense by numbers, Making Problems for Script Kiddies and Scanner Monkeys",
+    "url": "https://www.youtube.com/watch?v=I3pNLB3Cq24",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "SirenJack, Cracking a 'Secure' Emergency Warning Siren System",
+    "url": "https://www.youtube.com/watch?v=49KoUmiJuts",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Writing Bad @$$ Malware For OS X",
+    "url": "https://www.youtube.com/watch?v=fv4l9yAL2sU",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "The Machines That Betrayed Their Masters by Glenn Wilkinson",
+    "url": "https://www.youtube.com/watch?v=GvrB6S_O0BE",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "How Smartcard Payment Systems Fail",
+    "url": "https://www.youtube.com/watch?v=ET0MFkRorbo",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "AirBnBeware, Short Term Rentals Long Term Pwnage",
+    "url": "https://www.youtube.com/watch?v=9fAnRkJ6N3s",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "DEF CON 26 - Eyal Itkin, Yaniv Balmas - What the Fax?!",
+    "url": "https://www.youtube.com/watch?v=qLCE8spVX9Q",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs",
+    "url": "https://www.youtube.com/watch?v=_eSAF_qT_FY",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "XSS on Google Search - Sanitizing HTML in The Client?",
+    "url": "https://www.youtube.com/watch?v=lG7U3fuNw3A",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Game of Chromes, Owning the Web with Zombie Chrome Extensions",
+    "url": "https://www.youtube.com/watch?v=UHwpusw6mPc",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "What is a Compiler and a Decompiler?",
+    "url": "https://www.youtube.com/watch?v=YakeUg_Gcno",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "How to Build A Decompiler by Tsviatko Yovtchev",
+    "url": "https://www.youtube.com/watch?v=uYZZbteb8Gc",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "UNDERWORLD - Cowgirl - [over Hackers (1995)]",
+    "url": "https://www.youtube.com/watch?v=VR8YmxDIYNQ",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Samy Kamkar, Getting Started with Reverse Engineering",
+    "url": "https://www.youtube.com/watch?v=B2MvoBRzrm4",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Samy Kamkar's Crash Course in How to Be a Hardware Hacker",
+    "url": "https://www.youtube.com/watch?v=tlwXmNnXeSY",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Digital Ding Dong Ditch Prank - hacking wireless doorbells w/Arduino and RTL-SDR",
+    "url": "https://www.youtube.com/watch?v=BnwBdeQB7vQ",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Radio Hacking, Cars, Hardware, and more! - Samy Kamkar - AppSec California 2016",
+    "url": "https://www.youtube.com/watch?v=1RipwqJG50c",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Cracking Paid Software with Reverse Engineering 😳 (GUI based)",
+    "url": "https://www.youtube.com/watch?v=iC1bGdxcNMg",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Reversing and Cracking first simple Program - bin 0x05 (Linux Based)",
+    "url": "https://www.youtube.com/watch?v=VroEiMOJPm8",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Hackers PRODIGY - voodoo people",
+    "url": "https://www.youtube.com/watch?v=W5fM6WpC_nE",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Reverse Engineering with Ghidra Class 1",
+    "url": "https://www.youtube.com/watch?v=d4Pgi5XML8E",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Reverse Engineering with Ghidra Class 2",
+    "url": "https://www.youtube.com/watch?v=uyWVztMHWtk",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Reverse Engineering with Ghidra Class 3",
+    "url": "https://www.youtube.com/watch?v=RFG5FuqY0CE",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Reverse Engineering with Ghidra Class 4",
+    "url": "https://www.youtube.com/watch?v=5QBXNF7FKxM",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Trance Orbital - Halcyon and On and On ( Hakers / 1995 )",
+    "url": "https://www.youtube.com/watch?v=33WuGp6fs3s",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Wannacry The Marcus Hutchins Story - All 3 Chapters",
+    "url": "https://www.youtube.com/watch?v=vveLaA-z3-o",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Wana Decrypt0r (Wanacry Ransomware) - Computerphile",
+    "url": "https://www.youtube.com/watch?v=88jkB1V6N9w",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "How WanaCrypt Encrypts Your Files - Computerphile",
+    "url": "https://www.youtube.com/watch?v=pLluFxHrc30",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Reversing WannaCry Part 1 - Finding the killswitch and unpacking the malware in",
+    "url": "https://www.youtube.com/watch?v=Sv8yu12y5zM",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Reversing WannaCry Part 2 - Diving into the malware with Ghidra​",
+    "url": "https://www.youtube.com/watch?v=Q90uZS3taG0",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Reversing WannaCry Part 3 - The encryption component",
+    "url": "https://www.youtube.com/watch?v=ru5VzUigKqw",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Simple reversing challenge and gaming the system - BruCON CTF part 1",
+    "url": "https://www.youtube.com/watch?v=bqaZBeZ4zf0",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "int0x80 from DualCore lent me his lockpicking set and I'm a horse - BruCON CTF part 2",
+    "url": "https://www.youtube.com/watch?v=3EB4g4_6ZjI",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "MD5 length extension and Blind SQL Injection - BruCON CTF part 3",
+    "url": "https://www.youtube.com/watch?v=sMla6_4Z-CQ",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Daft Punk - Alive",
+    "url": "https://www.youtube.com/watch?v=QmR4zLcORNc",
+    "hostname": "www.youtube.com"
+  }
+]

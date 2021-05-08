@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Albert Einstein",
+    "url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+    "hostname": "en.wikipedia.org"
+  },
+  {
+    "title": "Bret Victor - Inventing on Principle",
+    "url": "https://www.youtube.com/watch?v=PUv66718DII",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "The poetry of programming (teaching children about computers): Linda Liukas",
+    "url": "https://www.youtube.com/watch?v=-jRREn6ifEQ",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Changing the world with code by Emma Yang",
+    "url": "https://www.youtube.com/watch?v=ghqSw40pC5s",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Karlie Kloss: Coding is a superpower",
+    "url": "https://www.youtube.com/watch?v=Bwiln7v0fdc",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Making a Game: Bill Gates explains If statements.",
+    "url": "https://www.youtube.com/watch?v=m2Ux2PnJe6E",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Bill Gates remembers his early programming career",
+    "url": "https://www.youtube.com/watch?v=vYXQTrYPenQ",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "1991 Interview with Bill Gates",
+    "url": "https://www.youtube.com/watch?v=6V6Gir1Dyfs",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "What do programmers actually do?",
+    "url": "https://www.youtube.com/watch?v=g4a7_HH9Wbg",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "How I Learned to Code - and Got a Job at Airbnb!",
+    "url": "https://www.youtube.com/watch?v=kXpWLv2o7hs",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Learn to Code in 6 months",
+    "url": "https://www.youtube.com/watch?v=LCls16Tv8UE",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Learn JavaScript - Full Course for Beginners",
+    "url": "https://www.youtube.com/watch?v=PkZNo7MFNFg",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Learn Node.js - Full Tutorial for Beginners",
+    "url": "https://www.youtube.com/watch?v=RLtyhwFtXQA",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Amy Palamountain on Backbone and Marionette",
+    "url": "https://www.youtube.com/watch?v=0o2whtCJw8I",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Searching for projects with more than 10,000 stars",
+    "url": "https://github.com/search?q=stars%3A%3E%3D10000",
+    "hostname": "github.com"
+  },
+  {
+    "title": "Svelte Tutorial",
+    "url": "https://www.youtube.com/watch?v=vhGiGqZ78Rs",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "Svelte",
+    "url": "https://svelte.dev/",
+    "hostname": "svelte.dev"
+  },
+  {
+    "title": "Vue.js",
+    "url": "https://vuejs.org/",
+    "hostname": "vuejs.org"
+  },
+  {
+    "title": "React",
+    "url": "https://reactjs.org/",
+    "hostname": "reactjs.org"
+  },
+  {
+    "title": "framework for building web applications",
+    "url": "https://sapper.svelte.dev/",
+    "hostname": "sapper.svelte.dev"
+  },
+  {
+    "title": "approach to building mobile apps",
+    "url": "https://svelte-native.technology/",
+    "hostname": "svelte-native.technology"
+  },
+  {
+    "title": "https://svelte.dev/tutorial/basics",
+    "url": "https://svelte.dev/tutorial/basics",
+    "hostname": "svelte.dev"
+  },
+  {
+    "title": "Arduino vs. Raspberry Pi - Which is best?",
+    "url": "https://www.youtube.com/watch?v=7vhvnaWUZjE",
+    "hostname": "www.youtube.com"
+  },
+  {
+    "title": "You can learn Arduino in 15 minutes.",
+    "url": "https://www.youtube.com/watch?v=nL34zDTPkcs",
+    "hostname": "www.youtube.com"
+  }
+]
