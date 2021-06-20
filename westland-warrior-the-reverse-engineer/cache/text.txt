@@ -1,179 +1,89 @@
 Hacker Boy
 
-Hacker Boy
-
 Hacker Breaks Down 26 Hacking Scenes From Movies & TV | WIRED
-
-Hacker Breaks Down 26 Hacking Scenes From Movies & TV | WIRED
-
-Introduction to Reverse Engineering for Penetration Testers – SANS Pen Test HackFest Summit 2017
 
 Introduction to Reverse Engineering for Penetration Testers – SANS Pen Test HackFest Summit 2017
 
 Introduction to Reverse Engineering - Mike Anderson,
 
-Introduction to Reverse Engineering - Mike Anderson,
-
 Introduction to Firmware Reversing
-
-Introduction to Firmware Reversing
-
-Intro to Hardware Reversing, Finding a UART and getting a shell
 
 Intro to Hardware Reversing, Finding a UART and getting a shell
 
 DEF CON 24 - Hardware Hacking Village - Matt DuHarte - Basic Firmware Extraction
 
-DEF CON 24 - Hardware Hacking Village - Matt DuHarte - Basic Firmware Extraction
-
 Hack All The Things, 20 Devices in 45 Minutes
-
-Hack All The Things, 20 Devices in 45 Minutes
-
-Philippe Laulheret - Intro to Hardware Hacking - DEF CON 27 Conference
 
 Philippe Laulheret - Intro to Hardware Hacking - DEF CON 27 Conference
 
 Defcon 21 - All Your RFz Are Belong to Me - Hacking the Wireless World with Software Defined Radio
 
-Defcon 21 - All Your RFz Are Belong to Me - Hacking the Wireless World with Software Defined Radio
-
 Defcon 21 - Defense by numbers, Making Problems for Script Kiddies and Scanner Monkeys
-
-Defcon 21 - Defense by numbers, Making Problems for Script Kiddies and Scanner Monkeys
-
-SirenJack, Cracking a 'Secure' Emergency Warning Siren System
 
 SirenJack, Cracking a 'Secure' Emergency Warning Siren System
 
 Writing Bad @$$ Malware For OS X
 
-Writing Bad @$$ Malware For OS X
-
 The Machines That Betrayed Their Masters by Glenn Wilkinson
-
-The Machines That Betrayed Their Masters by Glenn Wilkinson
-
-How Smartcard Payment Systems Fail
 
 How Smartcard Payment Systems Fail
 
 AirBnBeware, Short Term Rentals Long Term Pwnage
 
-AirBnBeware, Short Term Rentals Long Term Pwnage
-
 DEF CON 26 - Eyal Itkin, Yaniv Balmas - What the Fax?!
-
-DEF CON 26 - Eyal Itkin, Yaniv Balmas - What the Fax?!
-
-GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs
 
 GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs
 
 XSS on Google Search - Sanitizing HTML in The Client?
 
-XSS on Google Search - Sanitizing HTML in The Client?
-
 Game of Chromes, Owning the Web with Zombie Chrome Extensions
-
-Game of Chromes, Owning the Web with Zombie Chrome Extensions
-
-What is a Compiler and a Decompiler?
 
 What is a Compiler and a Decompiler?
 
 How to Build A Decompiler by Tsviatko Yovtchev
 
-How to Build A Decompiler by Tsviatko Yovtchev
-
 UNDERWORLD - Cowgirl - [over Hackers (1995)]
-
-UNDERWORLD - Cowgirl - [over Hackers (1995)]
-
-Samy Kamkar, Getting Started with Reverse Engineering
 
 Samy Kamkar, Getting Started with Reverse Engineering
 
 Samy Kamkar's Crash Course in How to Be a Hardware Hacker
 
-Samy Kamkar's Crash Course in How to Be a Hardware Hacker
-
 Digital Ding Dong Ditch Prank - hacking wireless doorbells w/Arduino and RTL-SDR
-
-Digital Ding Dong Ditch Prank - hacking wireless doorbells w/Arduino and RTL-SDR
-
-Radio Hacking, Cars, Hardware, and more! - Samy Kamkar - AppSec California 2016
 
 Radio Hacking, Cars, Hardware, and more! - Samy Kamkar - AppSec California 2016
 
 Cracking Paid Software with Reverse Engineering 😳 (GUI based)
 
-Cracking Paid Software with Reverse Engineering 😳 (GUI based)
-
 Reversing and Cracking first simple Program - bin 0x05 (Linux Based)
-
-Reversing and Cracking first simple Program - bin 0x05 (Linux Based)
-
-Hackers PRODIGY - voodoo people
 
 Hackers PRODIGY - voodoo people
 
 Reverse Engineering with Ghidra Class 1
 
-Reverse Engineering with Ghidra Class 1
-
 Reverse Engineering with Ghidra Class 2
-
-Reverse Engineering with Ghidra Class 2
-
-Reverse Engineering with Ghidra Class 3
 
 Reverse Engineering with Ghidra Class 3
 
 Reverse Engineering with Ghidra Class 4
 
-Reverse Engineering with Ghidra Class 4
-
 Trance Orbital - Halcyon and On and On ( Hakers / 1995 )
-
-Trance Orbital - Halcyon and On and On ( Hakers / 1995 )
-
-Wannacry The Marcus Hutchins Story - All 3 Chapters
 
 Wannacry The Marcus Hutchins Story - All 3 Chapters
 
 Wana Decrypt0r (Wanacry Ransomware) - Computerphile
 
-Wana Decrypt0r (Wanacry Ransomware) - Computerphile
-
 How WanaCrypt Encrypts Your Files - Computerphile
-
-How WanaCrypt Encrypts Your Files - Computerphile
-
-Reversing WannaCry Part 1 - Finding the killswitch and unpacking the malware in
 
 Reversing WannaCry Part 1 - Finding the killswitch and unpacking the malware in
 
 Reversing WannaCry Part 2 - Diving into the malware with Ghidra​
 
-Reversing WannaCry Part 2 - Diving into the malware with Ghidra​
-
 Reversing WannaCry Part 3 - The encryption component
-
-Reversing WannaCry Part 3 - The encryption component
-
-Simple reversing challenge and gaming the system - BruCON CTF part 1
 
 Simple reversing challenge and gaming the system - BruCON CTF part 1
 
 int0x80 from DualCore lent me his lockpicking set and I'm a horse - BruCON CTF part 2
 
-int0x80 from DualCore lent me his lockpicking set and I'm a horse - BruCON CTF part 2
-
 MD5 length extension and Blind SQL Injection - BruCON CTF part 3
-
-MD5 length extension and Blind SQL Injection - BruCON CTF part 3
-
-Daft Punk - Alive
 
 Daft Punk - Alive

@@ -1,115 +1,57 @@
 Computing a theory of everything | Stephen Wolfram
 
-Computing a theory of everything | Stephen Wolfram
-
 What is Digital Art?
-
-What is Digital Art?
-
-How Artists Are Using Technology
 
 How Artists Are Using Technology
 
 The incredible inventions of intuitive AI | Maurice Conti
 
-The incredible inventions of intuitive AI | Maurice Conti
-
 Art in the age of machine intelligence | Refik Anadol
-
-Art in the age of machine intelligence | Refik Anadol
-
-How This Guy Uses A.I. to Create Art | Obsessed | WIRED
 
 How This Guy Uses A.I. to Create Art | Obsessed | WIRED
 
 When A.I. Becomes Creative
 
-When A.I. Becomes Creative
-
 Everybody Can Make Deepfakes Now!
-
-Everybody Can Make Deepfakes Now!
-
-Kate Compton, Creating generative art with Javascript | JSConf Iceland 2018
 
 Kate Compton, Creating generative art with Javascript | JSConf Iceland 2018
 
 Exploring generative spaces, a quickstart to generative art - GitHub Universe 2020
 
-Exploring generative spaces, a quickstart to generative art - GitHub Universe 2020
-
 Generative Art
-
-Generative Art
-
-How to Hack a Painting by Tyler Hobbs
 
 How to Hack a Painting by Tyler Hobbs
 
 Code goes in, Art comes out - Tyler Hobbs
 
-Code goes in, Art comes out - Tyler Hobbs
-
 A Box of Chaos, The Generative Artist's Toolkit by Benjamin Kovach
-
-A Box of Chaos, The Generative Artist's Toolkit by Benjamin Kovach
-
-Generative Machines with Matt DesLauriers
 
 Generative Machines with Matt DesLauriers
 
 Tim Holman - Generative Art Speedrun
 
-Tim Holman - Generative Art Speedrun
-
 Tech Talk, Douglas Welton on Generative Art
-
-Tech Talk, Douglas Welton on Generative Art
-
-Dan Lidral Porter - Generating Art In Many Worlds
 
 Dan Lidral Porter - Generating Art In Many Worlds
 
 Data, Design, Code with Shirley Wu
 
-Data, Design, Code with Shirley Wu
-
 Recreating Vintage Computer Art with Processing
-
-Recreating Vintage Computer Art with Processing
-
-exploring the beauty of algorithms with generative art - talk
 
 exploring the beauty of algorithms with generative art - talk
 
 HTML Canvas Mouse Move Animation
 
-HTML Canvas Mouse Move Animation
-
 Generative Art for Beginners | Particle System
-
-Generative Art for Beginners | Particle System
-
-Coding Challenge 47 Pixel Sorting in Processing
 
 Coding Challenge 47 Pixel Sorting in Processing
 
 Coding Challenge 124 Flocking Simulation
 
-Coding Challenge 124 Flocking Simulation
-
-Processing-tutorial, Image-Rasterizer
-
 Processing-tutorial, Image-Rasterizer
 
 What It's Like To be a Computer, An Interview with GPT-3
 
-What It's Like To be a Computer, An Interview with GPT-3
-
 Beauty and truth in physics (On Emergence)
-
-Beauty and truth in physics (On Emergence)
-
-TIMELAPSE OF FUTURE TECHNOLOGY, 2022 - 4000+
 
 TIMELAPSE OF FUTURE TECHNOLOGY, 2022 - 4000+

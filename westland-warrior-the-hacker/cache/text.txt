@@ -1,9 +1,5 @@
 What is a Hacker? with Emmanuel Goldstein.
 
-What is a Hacker? with Emmanuel Goldstein.
-
-Kids hack their Dad's computer on her Raspberry Pi
-
 Kids hack their Dad's computer on her Raspberry Pi
 
 Raspberry Pi
@@ -20,10 +16,6 @@ part review of all the popular cases here you go: Part 1 and Part
 phrases.
 
 Raspberry Pi 4
-
-Raspberry Pi 4
-
-What's inside the Raspberry Pi 4 Desktop Kit?
 
 What's inside the Raspberry Pi 4 Desktop Kit?
 
@@ -205,13 +197,7 @@ kind of science” - Oof!.
 
 Computing a theory of everything
 
-Computing a theory of everything
-
 Pentesting Android Applications
-
-Pentesting Android Applications
-
-Network Penetration Testing for Beginners
 
 Network Penetration Testing for Beginners
 
@@ -224,21 +210,13 @@ us keep our family, homes, and possessions safer and more secure.
 
 Smarter Every Day on Vulnerabilities in Smart Devices
 
-Smarter Every Day on Vulnerabilities in Smart Devices
-
 Lock Picking Lawyer
 
 Lock Picking Lawyer has 1.14M subscribers (Dec, 2019).
 
 My Wife vs. Ben & Jerry’s Ice Cream Lock
 
-My Wife vs. Ben & Jerry’s Ice Cream Lock
-
 Fortress Combination Padlock Decoded FAST and Bypassed
-
-Fortress Combination Padlock Decoded FAST and Bypassed
-
-Gallium vs. Titalium - Abus Padlock Meets a Gruesome End
 
 Gallium vs. Titalium - Abus Padlock Meets a Gruesome End
 

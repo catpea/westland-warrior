@@ -34,8 +34,6 @@ alive across centuries even as English evolves.
 
 Story of Beowulf
 
-Story of Beowulf
-
 Land of Monsters?
 
 My friends, the story of Grendles Mōdor remains unfinished, Ides
@@ -89,8 +87,6 @@ These words are still as mighty as the day I found them.
 
 The Conscience of a Hacker read by The Mentor
 
-The Conscience of a Hacker read by The Mentor
-
 You are a Genius.
 
 Because storytelling, inspiration, sharing of wisdom, is just a part of The
@@ -103,8 +99,6 @@ You think we are born with the ability for language.
 But, no.
 And not only do you learn it, your brain grows to match the complexity of
 information and tools needed to manipulate it.
-
-Neuro Genesis: You can grow new brain cells. Here's how by Sandrine Thuret
 
 Neuro Genesis: You can grow new brain cells. Here's how by Sandrine Thuret
 
@@ -136,8 +130,6 @@ across centuries.
 
 A History of English Letters
 
-A History of English Letters
-
 Good Frameworks come with Easy On-boarding
 
 Easy On-boarding means easy access to eventual mastery. It means
@@ -161,8 +153,6 @@ reader to a greater initial spectrum of Mathematics.
 
 What if Schools Taught Us How to Learn by Jonathan Levi
 
-What if Schools Taught Us How to Learn by Jonathan Levi
-
 Memorizing πr²
 
 Do you remember memorizing πr²?
@@ -182,8 +172,6 @@ People who need to invent the formulas, people who have the natural
 predisposition for abstract theoretical mathematics... The naturally
 predisposed for abstract mechanics or Mathematics, are being forced, not
 to, learn Mathematics, or be punished.
-
-Area of a circle, how to get the formula.
 
 Area of a circle, how to get the formula.
 
@@ -210,10 +198,6 @@ For example apply lessons from trains and their relativity of motion and
 distortion of sound waves, to other things...
 
 Simple Relativity - Understanding Einstein's Special Theory of Relativity
-
-Simple Relativity - Understanding Einstein's Special Theory of Relativity
-
-Einstein's Proof of E=mc2
 
 Einstein's Proof of E=mc2
 
@@ -248,8 +232,6 @@ visualizations.
 
 Karlie Kloss explains how to use math with the artist in Code Studio
 
-Karlie Kloss explains how to use math with the artist in Code Studio
-
 Easy as π
 
 Look a the ease with which Karlie Kloss teaches real, live, moving,
@@ -272,8 +254,6 @@ Kode With Klossy shows what these classes are like. What real education looks li
 
 Frameworks: Why.
 
-Frameworks: Why.
-
 Genius.
 
 Study your Frameworks.
@@ -286,16 +266,12 @@ the talking - with each new generation, doubly so.
 
 We are all connected.
 
-We are all connected.
-
 Accept The Responsibility
 
 People laugh off running out of water, but that's actually terribly simple.
 It will happen like this: U.S. drinking water widely contaminated with
 'forever chemicals'
 But remember, all problems created by Humans, can be solved by Humans too.
-
-Those That Can't Do, Teach.
 
 Those That Can't Do, Teach.
 
@@ -329,8 +305,6 @@ will become the future.
 Just, take it upon yourselves to learn on your own, it is safer this way.
 You can stay in school, learn in library and from audio books.
 Real knowledge will always beat what you memorized and forgot.
-
-Genius by Mark Diaz
 
 Genius by Mark Diaz
 
@@ -368,7 +342,6 @@ You Are The Future.
 [P5js]: https://p5js.org/examples/
 [D3]: https://d3js.org/
 [SVG]: https://developer.mozilla.org/en-US/docs/Web/SVG
-[Math as Code]: https://github.com/Jam3/math-as-code
 [Karlie teaches with]: https://en.wikipedia.org/wiki/Visual_programming_language
 [both]: https://en.wikipedia.org/wiki/Faster-than-light
 [Kode With Klossy]: https://www.kodewithklossy.com/

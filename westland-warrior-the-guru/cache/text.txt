@@ -1,7 +1,5 @@
 Keyboards & Command Line Interfaces
 
-Keyboards & Command Line Interfaces
-
 Crash Course Computer Science
 
 Watch the Full Playlist of 41 videos.
@@ -32,8 +30,6 @@ Commands Can Do Anything
 Commands usually come in groups, for example there is a group of commands
 that manage files and directories, a group of commands that compress files,
 or download files across the internet.
-
-Getting Around in the Unix Command Line Interface
 
 Getting Around in the Unix Command Line Interface
 
@@ -97,8 +93,6 @@ its innards.
 
 How To Hack Time
 
-How To Hack Time
-
 Simplicity Lost
 
 Originally, the beauty of commands was in being predictable, readable, and
@@ -134,8 +128,6 @@ User Interface
 
 While Pipes and Redirects of the Command Line are often enough. A number of
 Graphical Pipe Editors exists as well, Node-RED is a nice example.
-
-Node-RED
 
 Node-RED
 
@@ -273,7 +265,6 @@ the experience on the PI it self.
 [wget]: http://man7.org/linux/man-pages/man1/wget.1.html
 [curl]: http://man7.org/linux/man-pages/man1/curl.1.html
 [youtube-dl]: https://github.com/ytdl-org/youtube-dl/blob/master/README.md
-[https://www.youtube.com/watch?v=YOUR\_VIDEO\_ID]: https://www.youtube.com/watch?v=YOUR%5C_VIDEO%5C_ID
 [https://www.youtube.com/watch?v=YOUR\_VIDEO\_ID]: https://www.youtube.com/watch?v=YOUR%5C_VIDEO%5C_ID
 [https://linux.die.net/man/1/ffmpeg]: https://linux.die.net/man/1/ffmpeg
 [Command-line interface]: https://en.wikipedia.org/wiki/Command-line_interface

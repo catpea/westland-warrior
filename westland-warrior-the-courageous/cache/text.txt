@@ -32,8 +32,6 @@ It will make you tired.
 
 How dare you? You have stolen my dreams and my childhood.
 
-How dare you? You have stolen my dreams and my childhood.
-
 Bad News
 
 There are very few Alternate Education resources, and as you rise you
@@ -67,8 +65,6 @@ Real Education, is not about getting really educated.
 It is about Your Life, Dignity, Authenticity, Health.
 Life that revolves around sweet and easy and making everyone else happy is
 not a healthy life.
-
-Faith of the Heart
 
 Faith of the Heart
 
@@ -114,25 +110,13 @@ Visit Cmap Homepage at Florida Institute for Human & Machine Cognition
 
 Want to learn better? Start mind mapping
 
-Want to learn better? Start mind mapping
-
 How to Mind Map
-
-How to Mind Map
-
-Mind Map vs Concept Map
 
 Mind Map vs Concept Map
 
 Concept Mapping with Cmap
 
-Concept Mapping with Cmap
-
 Concept Maps 1
-
-Concept Maps 1
-
-Concept Maps 2
 
 Concept Maps 2
 
@@ -146,8 +130,6 @@ In the world of computers, teams can be distributed across the entire
 world. Some teams, can have revolving doors. And sometimes you may not even
 need doors, as you can post a BDD Test Issue on Bounty Source or
 similar.
-
-What is Behavior Driven Development?
 
 What is Behavior Driven Development?
 

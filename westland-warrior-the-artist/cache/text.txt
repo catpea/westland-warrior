@@ -13,8 +13,6 @@ opposite side of your trace to create a home made, Transfer Paper.
 
 How to Transfer an Image Using Tracing Paper
 
-How to Transfer an Image Using Tracing Paper
-
 Tracing Paper
 
 On the front you have your trace. On the back you deposit as much graphite
@@ -35,8 +33,6 @@ Graphite Paper on Amazon.
 
 Getting Started: Three Ways to Transfer an Image to Watercolor Paper
 
-Getting Started: Three Ways to Transfer an Image to Watercolor Paper
-
 Light Box
 
 Lightbox will help you with tracing and creation of new designs.
@@ -48,15 +44,11 @@ Light Boxes Paper on Amazon.
 
 How to trace a picture.
 
-How to trace a picture.
-
 Digital Projector
 
 Digital projectors ($100 - $400) are the fastest way to create murals and
 paintings.
 Digital Projectors on Amazon.
-
-Home Wall Painting Using projector - DIY
 
 Home Wall Painting Using projector - DIY
 
@@ -92,29 +84,15 @@ Reveal the brightest parts (highlights) in Mona Lisa.
 
 How to use GIMP for beginners tutorial
 
-How to use GIMP for beginners tutorial
-
 Learn GIMP in 30 minutes, Complete Tutorial for Beginners
-
-Learn GIMP in 30 minutes, Complete Tutorial for Beginners
-
-Working With Filters - GIMP Tutorials
 
 Working With Filters - GIMP Tutorials
 
 Sfumato, Unione, Chiaroscuro, Cangiante
 
-Sfumato, Unione, Chiaroscuro, Cangiante
-
-Painting the Portrait: The Grisaille Method in Oil Part 1/2
-
 Painting the Portrait: The Grisaille Method in Oil Part 1/2
 
 Painting the Portrait: The Grisaille Method in Oil Part 2/2
-
-Painting the Portrait: The Grisaille Method in Oil Part 2/2
-
-Grisaille Method with Jon deMartin
 
 Grisaille Method with Jon deMartin
 
@@ -130,8 +108,6 @@ Custom Pet Portraits. Online business where people upload an image, and you
 create a large canvas painting, or drawing. It looks like the price is
 about $50 per portrait. Throw in a bonus, record a time lapse video of the
 painting for advertising, portfolio, and internet points.
-
-Pet portrait time-lapse.
 
 Pet portrait time-lapse.
 
@@ -151,10 +127,6 @@ Museum, or even a Coffee Shop.
 
 Blending Stumps for Beginners
 
-Blending Stumps for Beginners
-
-What's an Eraser Shield?
-
 What's an Eraser Shield?
 
 
@@ -162,7 +134,6 @@ What's an Eraser Shield?
 [projector]: https://www.amazon.com/s?k=Mini+Projector&ref=nb_sb_noss_2
 [Light Boxes Paper on Amazon]: https://www.amazon.com/s?k=Light+Box+Tracing&ref=nb_sb_noss_2
 [Digital Projectors on Amazon]: https://www.amazon.com/Digital-Projectors/s?k=Digital+Projectors
-[GIMP]: https://www.gimp.org/
 [GIMP]: https://www.gimp.org/
 [BriPetPortraits on Etsy]: https://www.etsy.com/shop/BriPetPortraits
 [art

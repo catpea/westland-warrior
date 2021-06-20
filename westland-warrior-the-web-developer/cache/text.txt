@@ -1,9 +1,5 @@
 How I Became a Web Developer in 3 Months
 
-How I Became a Web Developer in 3 Months
-
-Passion, Programming, and Pragmatism by Marcella Jewell
-
 Passion, Programming, and Pragmatism by Marcella Jewell
 
 Great Battle
@@ -167,8 +163,6 @@ latest updates to the Bootstrap code base.
 
 A Software Developer's Secret to Life by Julia Menchavez
 
-A Software Developer's Secret to Life by Julia Menchavez
-
 Services Platform
 
 The Web Developer, that you need to become creates the streamlined,
@@ -218,9 +212,6 @@ employee and an employer, bugfixes and excitement.
 [all this development is going on in the back]: https://github.com/twbs/bootstrap/pulse
 [INSPINIA
       Developers]: https://wrapbootstrap.com/user/WebAppLayers
-[Bootstrap]: https://getbootstrap.com/
 [wrapbootstrap.com]: https://wrapbootstrap.com
 [themes.shopify.com]: https://themes.shopify.com/
 [shopify.com]: https://shopify.com/
-[wrapbootstrap.com]: https://wrapbootstrap.com
-[themes.shopify.com]: https://themes.shopify.com/

@@ -8,13 +8,7 @@ the underlying Operating System (OS), and the front-facing User Interface
 
 The UNIX Operating System
 
-The UNIX Operating System
-
 Unix vs Linux
-
-Unix vs Linux
-
-The mind behind Linux: Linus Torvalds
 
 The mind behind Linux: Linus Torvalds
 
@@ -34,8 +28,6 @@ Code Editor.
 
 Commodore 64 - Introduction to Programming - Level 1
 
-Commodore 64 - Introduction to Programming - Level 1
-
 Commodore 64 GEOS
 
 In 1986 Berkeley Softworks came about and made the GEOS (Graphic
@@ -51,10 +43,6 @@ Windows
 And in 1985 Microsoft released Windows version 1.0
 
 Visual The History of GUI
-
-Visual The History of GUI
-
-The history of the graphic user interface
 
 The history of the graphic user interface
 
@@ -77,8 +65,6 @@ privacy of your family and the security of your business."
 
 Librem5: Kings Cross
 
-Librem5: Kings Cross
-
 Finding Your Command Line
 
 Your own operating system has a command prompt as well. If you use Windows
@@ -86,10 +72,6 @@ it will not be as flexible as Mac, but it is still a good example of a
 Command Line Interface.
 
 How to Open Windows Command Prompt in Windows 10
-
-How to Open Windows Command Prompt in Windows 10
-
-How to run/use the Command Line on Mac
 
 How to run/use the Command Line on Mac
 
@@ -105,10 +87,6 @@ show everyone that you mean business. Get two nice monitors as well (you
 don't have to get the 4K)
 
 Raspberry Pi - Getting Started with Terminal
-
-Raspberry Pi - Getting Started with Terminal
-
-Ken Thompson and Dennis Ritchie Explain UNIX (Bell Labs)
 
 Ken Thompson and Dennis Ritchie Explain UNIX (Bell Labs)
 

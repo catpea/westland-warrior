@@ -6,21 +6,11 @@ Carrie Anne
 
 Cryptography: Crash Course Computer Science #33
 
-Cryptography: Crash Course Computer Science #33
-
-Cryptography 101 - Substitution Ciphers
-
 Cryptography 101 - Substitution Ciphers
 
 How to use the Frequency Analysis Tool
 
-How to use the Frequency Analysis Tool
-
 Cryptography: Transposition Cipher
-
-Cryptography: Transposition Cipher
-
-Poles Escape With Secret of Enigma
 
 Poles Escape With Secret of Enigma
 
@@ -30,17 +20,9 @@ Invented by Arthur Scherbius attacked by Polish Cipher Bureau
 
 Polish cryptologists and breaking of the Enigma
 
-Polish cryptologists and breaking of the Enigma
-
-Enigma Machine - Numberphile
-
 Enigma Machine - Numberphile
 
 Flaw in the Enigma Code - Numberphile
-
-Flaw in the Enigma Code - Numberphile
-
-Typex
 
 Typex
 
@@ -48,27 +30,15 @@ More on Wikipedia
 
 DES encryption by hand (simple low level example at a bit view)
 
-DES encryption by hand (simple low level example at a bit view)
-
-AES Explained (Advanced Encryption Standard) - Computerphile
-
 AES Explained (Advanced Encryption Standard) - Computerphile
 
 Symmetric and Asymmetric Encryption
-
-Symmetric and Asymmetric Encryption
-
-Asymmetric encryption - Simply explained
 
 Asymmetric encryption - Simply explained
 
 Games
 
 Google CTF: Beginner Quest: OCR IS COOL!
-
-Google CTF: Beginner Quest: OCR IS COOL!
-
-Kryptos: The CIA's Unsolved Secret Code
 
 Kryptos: The CIA's Unsolved Secret Code
 
@@ -106,10 +76,6 @@ XWXZKRYPTOSABCDEFGHIJLMNQUVWXZK YXZKRYPTOSABCDEFGHIJLMNQUVWXZKR
 ZZKRYPTOSABCDEFGHIJLMNQUVWXZKRY  ABCDEFGHIJKLMNOPQRSTUVWXYZABCD
 
 Ancient Codes and Hieroglyphs
-
-Ancient Codes and Hieroglyphs
-
-Keeping Secrets: Cryptography In A Connected World
 
 Keeping Secrets: Cryptography In A Connected World
 
