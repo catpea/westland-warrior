@@ -32,35 +32,25 @@ Amy Palamountain on Backbone and Marionette
 
 JavaScript
 
-The reason I mention JavaScript is because it is the most widely used
-programming language on github. Searching for projects with more than
-10,000 stars shows 409 JavaScript based projects, the next one down is
-Python with 117.
+The reason I mention JavaScript is because it is the most widely usedprogramming language on github. Searching for projects with more than10,000 stars shows 409 JavaScript based projects, the next one down isPython with 117.
 
 Svelte Tutorial
 
 Svelte
 
-A bright new JavaScript compiler/framework named Svelte (28.2k github
-stars) has recently entered the battle area.
-Previously Vue.js (154k stars) outcompeted Facebook's React (141k
-stars).
-Svelte injects its code into your programs, whereas Vue.js and React ask
-you to program their way, learning new functions and strategies.
-Svelte offers a framework for building web applications, and an
-approach to building mobile apps as well.
-
+A bright new JavaScript compiler/framework named Svelte (28.2k githubstars) has recently entered the battle area.
+Previously Vue.js (154k stars) outcompeted Facebook's React (141kstars).
+Svelte injects its code into your programs, whereas Vue.js and React askyou to program their way, learning new functions and strategies.
+Svelte offers a framework for building web applications, and anapproach to building mobile apps as well.
 If you are going to start programming, start with Svelte.
-They offer a fantastic live coding tutorial at
-https://svelte.dev/tutorial/basics
+They offer a fantastic live coding tutorial athttps://svelte.dev/tutorial/basics
 
 Arduino vs. Raspberry Pi - Which is best?
 
 You can learn Arduino in 15 minutes.
 
 
-[Searching for projects with more than
-      10,000 stars]: https://github.com/search?q=stars%3A%3E%3D10000
+[Searching for projects with more than10,000 stars]: https://github.com/search?q=stars%3A%3E%3D10000
 [Svelte]: https://svelte.dev/
 [Vue.js]: https://vuejs.org/
 [React]: https://reactjs.org/

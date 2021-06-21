@@ -1,7 +1,6 @@
 Startup Accelerators
 
-There are two leading Startup Accelerators in US. Y Combinator
-and Techstars.
+There are two leading Startup Accelerators in US. Y Combinatorand Techstars.
 
 Y Combinator
 
@@ -13,9 +12,7 @@ How and Why to Start A Startup - Sam Altman & Dustin Moskovitz (44 minute lectur
 
 Investors Are Waiting
 
-Y Combinator created Requests for Startups, a list of startup ideas
-they are waiting for. It includes Enterprise Software, Financial Services,
-Programming Tools, and Computer Security to name a few.
+Y Combinator created Requests for Startups, a list of startup ideasthey are waiting for. It includes Enterprise Software, Financial Services,Programming Tools, and Computer Security to name a few.
 
 YC Partner AMA at the Female Founders Conference
 
@@ -41,30 +38,20 @@ Sky Kelley, Founder of Avisare
 
 Quote by Sun Tzu
 
-Victorious warriors win first and then go to war, while defeated warriors
-go to war first and then seek to win.
+Victorious warriors win first and then go to war, while defeated warriorsgo to war first and then seek to win.
 
 Sun Tzu
 
 Mastery of Subject
 
-What Sun Tzu hoped we understood was this: "Victorious warriors, master the
-sword before the battle; while defeated warriors hope to learn how to use
-the sword during their first sword-fight."
-Creating a tiny company with a winning product, even without filling out
-any paperwork. Will give you all the tools you need to sit down with an
-Accelerator, or your first investors and show them the relationship between
-advertising budget, number of developers, and product sales.
-What may feel intimidating when all you have, is an idea; will become
-energizing, and empowering when you have some sales to show for it.
+What Sun Tzu hoped we understood was this: "Victorious warriors, master thesword before the battle; while defeated warriors hope to learn how to usethe sword during their first sword-fight."
+Creating a tiny company with a winning product, even without filling outany paperwork. Will give you all the tools you need to sit down with anAccelerator, or your first investors and show them the relationship betweenadvertising budget, number of developers, and product sales.
+What may feel intimidating when all you have, is an idea; will becomeenergizing, and empowering when you have some sales to show for it.
 
 It Is a Big World
 
-Large Startup Accelerator acceptance rates are between 1% and 3%, but there
-are many more smaller ones.
-Remember, you and your investors are connected. They make money, when you
-make money. Armed with a winning idea you already covered a great deal of
-distance towards success.
+Large Startup Accelerator acceptance rates are between 1% and 3%, but thereare many more smaller ones.
+Remember, you and your investors are connected. They make money, when youmake money. Armed with a winning idea you already covered a great deal ofdistance towards success.
 
 Good Ideas
 
@@ -76,15 +63,10 @@ Parse, because saving data, is huge. When developing applications you need User 
 
 Danger
 
-Learning Programming to begin creating such marvels, will also destroy
-the pillars behind them; as the languages twist them to meet your own
-deadlines.
-Sitting down to build your program, and invent it too, is only good for
-research, and not for meeting serious implementation goals or deadlines.
-You must separate yourself from the implementation (of which, in the end,
-there may be many).
-You must become the leader, the protector of your vision. And lead - that's
-right - lead your team to victory.
+Learning Programming to begin creating such marvels, will also destroythe pillars behind them; as the languages twist them to meet your owndeadlines.
+Sitting down to build your program, and invent it too, is only good forresearch, and not for meeting serious implementation goals or deadlines.
+You must separate yourself from the implementation (of which, in the end,there may be many).
+You must become the leader, the protector of your vision. And lead - that'sright - lead your team to victory.
 
 Source of Ideas
 

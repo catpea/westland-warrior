@@ -1,8 +1,6 @@
 Quote by Auguste Rodin
 
-Where did I learn to understand sculpture? In the woods by looking at the
-trees, along roads by observing the formation of clouds, in the studio by
-studying the model, everywhere except in the schools.
+Where did I learn to understand sculpture? In the woods by looking at thetrees, along roads by observing the formation of clouds, in the studio bystudying the model, everywhere except in the schools.
 
 Auguste Rodin
 
@@ -51,8 +49,7 @@ Speed Sculpting - What you NEED to Know
 
 3D Printing
 
-Shapeways offer printing services, but you can also purchase your own 3D
-Printer for quicker prototyping
+Shapeways offer printing services, but you can also purchase your own 3DPrinter for quicker prototyping
 
 3D Printing Cast Metals via Shapeways
 
@@ -64,9 +61,7 @@ Sell your 3D models through Printing on Demand (POD, printing only when someone 
 
 Business Practice: Scanned Model Sales
 
-You are not limited to digital models, you can experiment with 3d
-scanners as well. Take a look at the Shapeways Marketplace for
-more ideas.
+You are not limited to digital models, you can experiment with 3dscanners as well. Take a look at the Shapeways Marketplace formore ideas.
 
 Explaining 3D Scanning
 
@@ -74,12 +69,10 @@ Best 3D Scanners 2019
 
 
 [Amazon]: https://www.amazon.com/AMACO-AMA46317P-Clay-Gray-lbs/dp/B0009RRTA8/ref=sr_1_10?keywords=air+drying+clay&qid=1574898467&sr=8-10
-[3D
-      Printer]: https://en.wikipedia.org/wiki/3D_printing
+[3DPrinter]: https://en.wikipedia.org/wiki/3D_printing
 [Sell]: https://www.shapeways.com/marketplace
 [Shapeways]: https://www.shapeways.com/
 [shapejs]: https://shapejs.shapeways.com/
 [examples in JavaScript]: https://shapejs.shapeways.com/v2/examples
-[3d
-      scanners]: https://en.wikipedia.org/wiki/3D_scanning
+[3dscanners]: https://en.wikipedia.org/wiki/3D_scanning
 [Shapeways Marketplace]: https://www.shapeways.com/marketplace

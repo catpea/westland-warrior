@@ -85,7 +85,7 @@
     "hostname": "www.youtube.com"
   },
   {
-    "title": "3D Printer",
+    "title": "3DPrinter",
     "url": "https://en.wikipedia.org/wiki/3D_printing",
     "hostname": "en.wikipedia.org"
   },
@@ -120,7 +120,7 @@
     "hostname": "shapejs.shapeways.com"
   },
   {
-    "title": "3d scanners",
+    "title": "3dscanners",
     "url": "https://en.wikipedia.org/wiki/3D_scanning",
     "hostname": "en.wikipedia.org"
   },

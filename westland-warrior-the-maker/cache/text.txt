@@ -48,14 +48,11 @@ Ponoko provides laser cutting & engraving services to turn your designs into cus
 
 Business Practice: Ponoko Clocks
 
-Thinking flat is about simplicity, and sometimes layers. In 3D Printing we
-think in layers of plastic; in Laser Cutting we can think in layers of
-whatever you are cutting.
+Thinking flat is about simplicity, and sometimes layers. In 3D Printing wethink in layers of plastic; in Laser Cutting we can think in layers ofwhatever you are cutting.
 
 Business Practice: Ponoko Cases
 
-A great example of flat layers adding up to create more than just flat
-thing are Raspberry PI cases.
+A great example of flat layers adding up to create more than just flatthing are Raspberry PI cases.
 
 Business Practice: Wallets
 
@@ -66,8 +63,7 @@ Dremel Laser Cutter Demo ($6,499.00 - $8,499.00)
 
 Business Practice: Laser-cut Leather
 
-Sarah Kirkham and Anna Warren created a Leatherworking business where
-they use a laser cutter to create fancy products.
+Sarah Kirkham and Anna Warren created a Leatherworking business wherethey use a laser cutter to create fancy products.
 Consider creating a similar business (see The Founder)
 
 Dremel DigiLab Laser Cutter Luggage Tag Project
@@ -78,10 +74,8 @@ Visit Tactile Craftworks for product demos.
 
 CNC Plasma Cutter Demo
 
-The price of the CNC plasma cutter used in MAKE IT REAL videos
-below ranges from $30,000.00 - $45,000.00, pro version is up to $92,000.00
-As the part 2 says, having someone else run cutter is actually reasonably
-priced.
+The price of the CNC plasma cutter used in MAKE IT REAL videosbelow ranges from $30,000.00 - $45,000.00, pro version is up to $92,000.00
+As the part 2 says, having someone else run cutter is actually reasonablypriced.
 Visit the the Hacksmith YouTube Channel for more.
 
 Building Stormbreaker: Part 1
@@ -100,13 +94,8 @@ You can see the Plasma CNC in action at 4:03
 
 Waterjet Cutter Demo
 
-A small desktop sized waterjet is about $8,000.00, take a look at
-Wazer It can cut 0.120" Stainless Steel, Marble, Boro Glass, HDPE,
-Silicone, and Carbon Fiber.
-
-Here is a small business example based on a large waterjet
-waterjetknives.com
-
+A small desktop sized waterjet is about $8,000.00, take a look atWazer It can cut 0.120" Stainless Steel, Marble, Boro Glass, HDPE,Silicone, and Carbon Fiber.
+Here is a small business example based on a large waterjetwaterjetknives.com
 Visit Cut in Half and Waterjet Channel for more shenanigans.
 
 cut in half - 1911 Airsoft pistol
