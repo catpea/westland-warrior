@@ -78,6 +78,7 @@
     "westland-warrior-the-photographer",
     "westland-warrior-the-filmmaker",
     "westland-warrior-the-mudlark",
+
     "westland-warrior-the-artist",
     "westland-warrior-the-graffitist",
     "westland-warrior-the-typographer",
@@ -85,6 +86,8 @@
     "westland-warrior-the-generative-artist",
     "westland-warrior-the-graphician",
     "westland-warrior-the-prop-maker",
+
+
     "westland-warrior-the-futurist",
     "westland-warrior-the-cyberpunk",
     "westland-warrior-the-hacker",
@@ -92,28 +95,32 @@
     "westland-warrior-the-guru",
     "westland-warrior-the-programmer",
     "westland-warrior-the-web-developer",
-    "westland-warrior-the-cryptographer",
+
+    "westland-warrior-the-privacy-advocate",
     "westland-warrior-the-social-engineer",
     "westland-warrior-the-security-analyst",
+    "westland-warrior-the-cryptographer",
+
     "westland-warrior-the-reverse-engineer",
-    "westland-warrior-the-privacy-advocate",
+    "westland-warrior-the-inventor",
     "westland-warrior-the-electrical-engineer",
     "westland-warrior-the-engineer",
+
     "westland-warrior-the-librarian",
     "westland-warrior-the-highschooler",
     "westland-warrior-the-principal",
     "westland-warrior-the-teacher",
     "westland-warrior-the-student",
     "westland-warrior-the-self-taught",
-    "westland-warrior-the-orator",
     "westland-warrior-the-genius",
     "westland-warrior-the-polymath",
+    "westland-warrior-the-orator",
+
     "westland-warrior-the-courageous",
     "westland-warrior-the-visionary",
     "westland-warrior-the-founder",
     "westland-warrior-the-believer",
     "westland-warrior-the-human",
-    "westland-warrior-the-great-being",
-    "westland-warrior-the-inventor"
+    "westland-warrior-the-great-being"
   ]
 }
