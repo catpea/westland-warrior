@@ -1,89 +1,92 @@
-Hacker Boy
-
-Hacker Breaks Down 26 Hacking Scenes From Movies & TV | WIRED
-
-Introduction to Reverse Engineering for Penetration Testers – SANS Pen Test HackFest Summit 2017
-
-Introduction to Reverse Engineering - Mike Anderson,
-
-Introduction to Firmware Reversing
-
-Intro to Hardware Reversing, Finding a UART and getting a shell
-
-DEF CON 24 - Hardware Hacking Village - Matt DuHarte - Basic Firmware Extraction
-
-Hack All The Things, 20 Devices in 45 Minutes
-
-Philippe Laulheret - Intro to Hardware Hacking - DEF CON 27 Conference
-
-Defcon 21 - All Your RFz Are Belong to Me - Hacking the Wireless World with Software Defined Radio
-
-Defcon 21 - Defense by numbers, Making Problems for Script Kiddies and Scanner Monkeys
-
-SirenJack, Cracking a 'Secure' Emergency Warning Siren System
-
-Writing Bad @$$ Malware For OS X
-
-The Machines That Betrayed Their Masters by Glenn Wilkinson
-
-How Smartcard Payment Systems Fail
-
-AirBnBeware, Short Term Rentals Long Term Pwnage
-
-DEF CON 26 - Eyal Itkin, Yaniv Balmas - What the Fax?!
-
-GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs
-
-XSS on Google Search - Sanitizing HTML in The Client?
-
-Game of Chromes, Owning the Web with Zombie Chrome Extensions
-
-What is a Compiler and a Decompiler?
-
-How to Build A Decompiler by Tsviatko Yovtchev
-
-UNDERWORLD - Cowgirl - [over Hackers (1995)]
-
-Samy Kamkar, Getting Started with Reverse Engineering
-
-Samy Kamkar's Crash Course in How to Be a Hardware Hacker
-
-Digital Ding Dong Ditch Prank - hacking wireless doorbells w/Arduino and RTL-SDR
-
-Radio Hacking, Cars, Hardware, and more! - Samy Kamkar - AppSec California 2016
-
-Cracking Paid Software with Reverse Engineering 😳 (GUI based)
-
-Reversing and Cracking first simple Program - bin 0x05 (Linux Based)
-
-Hackers PRODIGY - voodoo people
-
-Reverse Engineering with Ghidra Class 1
-
-Reverse Engineering with Ghidra Class 2
-
-Reverse Engineering with Ghidra Class 3
-
-Reverse Engineering with Ghidra Class 4
-
-Trance Orbital - Halcyon and On and On ( Hakers / 1995 )
-
-Wannacry The Marcus Hutchins Story - All 3 Chapters
-
-Wana Decrypt0r (Wanacry Ransomware) - Computerphile
-
-How WanaCrypt Encrypts Your Files - Computerphile
-
-Reversing WannaCry Part 1 - Finding the killswitch and unpacking the malware in
-
-Reversing WannaCry Part 2 - Diving into the malware with Ghidra​
-
-Reversing WannaCry Part 3 - The encryption component
-
-Simple reversing challenge and gaming the system - BruCON CTF part 1
-
-int0x80 from DualCore lent me his lockpicking set and I'm a horse - BruCON CTF part 2
-
-MD5 length extension and Blind SQL Injection - BruCON CTF part 3
-
-Daft Punk - Alive
+Hacker Boy[1]
+Hacker Breaks Down 26 Hacking Scenes From Movies & TV | WIRED[2]
+Introduction to Reverse Engineering for Penetration Testers – SANS Pen Test HackFest Summit 2017[3]
+Introduction to Reverse Engineering - Mike Anderson,[4]
+Introduction to Firmware Reversing[5]
+Intro to Hardware Reversing, Finding a UART and getting a shell[6]
+DEF CON 24 - Hardware Hacking Village - Matt DuHarte - Basic Firmware Extraction[7]
+Hack All The Things, 20 Devices in 45 Minutes[8]
+Philippe Laulheret - Intro to Hardware Hacking - DEF CON 27 Conference[9]
+Defcon 21 - All Your RFz Are Belong to Me - Hacking the Wireless World with Software Defined Radio[10]
+Defcon 21 - Defense by numbers, Making Problems for Script Kiddies and Scanner Monkeys[11]
+SirenJack, Cracking a 'Secure' Emergency Warning Siren System[12]
+Writing Bad @$$ Malware For OS X[13]
+The Machines That Betrayed Their Masters by Glenn Wilkinson[14]
+How Smartcard Payment Systems Fail[15]
+AirBnBeware, Short Term Rentals Long Term Pwnage[16]
+DEF CON 26 - Eyal Itkin, Yaniv Balmas - What the Fax?![17]
+GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs[18]
+XSS on Google Search - Sanitizing HTML in The Client?[19]
+Game of Chromes, Owning the Web with Zombie Chrome Extensions[20]
+What is a Compiler and a Decompiler?[21]
+How to Build A Decompiler by Tsviatko Yovtchev[22]
+UNDERWORLD - Cowgirl - [over Hackers (1995)][23]
+Samy Kamkar, Getting Started with Reverse Engineering[24]
+Samy Kamkar's Crash Course in How to Be a Hardware Hacker[25]
+Digital Ding Dong Ditch Prank - hacking wireless doorbells w/Arduino and RTL-SDR[26]
+Radio Hacking, Cars, Hardware, and more! - Samy Kamkar - AppSec California 2016[27]
+Cracking Paid Software with Reverse Engineering 😳 (GUI based)[28]
+Reversing and Cracking first simple Program - bin 0x05 (Linux Based)[29]
+Hackers PRODIGY - voodoo people[30]
+Reverse Engineering with Ghidra Class 1[31]
+Reverse Engineering with Ghidra Class 2[32]
+Reverse Engineering with Ghidra Class 3[33]
+Reverse Engineering with Ghidra Class 4[34]
+Trance Orbital - Halcyon and On and On ( Hakers / 1995 )[35]
+Wannacry The Marcus Hutchins Story - All 3 Chapters[36]
+Wana Decrypt0r (Wanacry Ransomware) - Computerphile[37]
+How WanaCrypt Encrypts Your Files - Computerphile[38]
+Reversing WannaCry Part 1 - Finding the killswitch and unpacking the malware in[39]
+Reversing WannaCry Part 2 - Diving into the malware with Ghidra [40]
+Reversing WannaCry Part 3 - The encryption component[41]
+Simple reversing challenge and gaming the system - BruCON CTF part 1[42]
+int0x80 from DualCore lent me his lockpicking set and I'm a horse - BruCON CTF part 2[43]
+MD5 length extension and Blind SQL Injection - BruCON CTF part 3[44]
+Daft Punk - Alive[45]
+ 
+References
+[1]: https://www.youtube.com/watch?v=j0orpECOYN4
+[2]: https://www.youtube.com/watch?v=SZQz9tkEHIg
+[3]: https://www.youtube.com/watch?v=fnYp2DN_XZc
+[4]: https://www.youtube.com/watch?v=7v7UaMsgg_c
+[5]: https://www.youtube.com/watch?v=GIU4yJn2-2A
+[6]: https://www.youtube.com/watch?v=ZmZuKA-Rst0
+[7]: https://www.youtube.com/watch?v=Kxvpbu9STU4
+[8]: https://www.youtube.com/watch?v=h5PRvBpLuJs
+[9]: https://www.youtube.com/watch?v=HuCbr2588-w
+[10]: https://www.youtube.com/watch?v=ZuNOD3XWp4A
+[11]: https://www.youtube.com/watch?v=I3pNLB3Cq24
+[12]: https://www.youtube.com/watch?v=49KoUmiJuts
+[13]: https://www.youtube.com/watch?v=fv4l9yAL2sU
+[14]: https://www.youtube.com/watch?v=GvrB6S_O0BE
+[15]: https://www.youtube.com/watch?v=ET0MFkRorbo
+[16]: https://www.youtube.com/watch?v=9fAnRkJ6N3s
+[17]: https://www.youtube.com/watch?v=qLCE8spVX9Q
+[18]: https://www.youtube.com/watch?v=_eSAF_qT_FY
+[19]: https://www.youtube.com/watch?v=lG7U3fuNw3A
+[20]: https://www.youtube.com/watch?v=UHwpusw6mPc
+[21]: https://www.youtube.com/watch?v=YakeUg_Gcno
+[22]: https://www.youtube.com/watch?v=uYZZbteb8Gc
+[23]: https://www.youtube.com/watch?v=VR8YmxDIYNQ
+[24]: https://www.youtube.com/watch?v=B2MvoBRzrm4
+[25]: https://www.youtube.com/watch?v=tlwXmNnXeSY
+[26]: https://www.youtube.com/watch?v=BnwBdeQB7vQ
+[27]: https://www.youtube.com/watch?v=1RipwqJG50c
+[28]: https://www.youtube.com/watch?v=iC1bGdxcNMg
+[29]: https://www.youtube.com/watch?v=VroEiMOJPm8
+[30]: https://www.youtube.com/watch?v=W5fM6WpC_nE
+[31]: https://www.youtube.com/watch?v=d4Pgi5XML8E
+[32]: https://www.youtube.com/watch?v=uyWVztMHWtk
+[33]: https://www.youtube.com/watch?v=RFG5FuqY0CE
+[34]: https://www.youtube.com/watch?v=5QBXNF7FKxM
+[35]: https://www.youtube.com/watch?v=33WuGp6fs3s
+[36]: https://www.youtube.com/watch?v=vveLaA-z3-o
+[37]: https://www.youtube.com/watch?v=88jkB1V6N9w
+[38]: https://www.youtube.com/watch?v=pLluFxHrc30
+[39]: https://www.youtube.com/watch?v=Sv8yu12y5zM
+[40]: https://www.youtube.com/watch?v=Q90uZS3taG0
+[41]: https://www.youtube.com/watch?v=ru5VzUigKqw
+[42]: https://www.youtube.com/watch?v=bqaZBeZ4zf0
+[43]: https://www.youtube.com/watch?v=3EB4g4_6ZjI
+[44]: https://www.youtube.com/watch?v=sMla6_4Z-CQ
+[45]: https://www.youtube.com/watch?v=QmR4zLcORNc

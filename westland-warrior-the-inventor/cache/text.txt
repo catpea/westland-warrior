@@ -1,99 +1,102 @@
-The Walnut Heist
-
-I GOT A TALKBOX! (Plus Music Video: Don't Forget to Wear Your Dustmask.)
-
-Bushcraft Waterwheel
-
-Tim Rattles his Rattlebacks
-
-The CMY Cube has arrived!
-
-Eulers Disc
-
-Amazing Science Toys/Gadgets 1
-
-ORCA & PILOT - INVADERS
-
-Challenge to recycle Coca-Cola！/ Make a simple alcohol stove (soda can stove)
-
-Soda can Stirling engine - 860 rpm
-
-DIY Cheap and easy-ish Soda Can Stirling engine
-
-L0pht Heavy Industries Video Press Kit (1994-1999)
-
-Hackers Testifying at the United States Senate, May 19, 1998 (L0pht Heavy Industries)
-
-Confessions of a Hacker known as Kingpin - Joe Grand Story
-
-Samy Kamkar's Crash Course in How to Be a Hardware Hacker
-
-Block EVERY Online Ad with THIS - Pi-Hole on Raspberry Pi
-
-How to Block ads on YouTube Skip ads with (Vanced app)
-
-How to use uBlock Origin to protect your online privacy and security
-
-The Essential Guide to Advanced Blocking with uBlock Origin
-
-The evolution of Minecraft
-
-Dark Souls - Is too hard
-
-The case for anonymity online by Christopher 'moot' Poole
-
-Sky Rim
-
-Getting Over It
-
-Woodworking joints
-
-Otzi's Dagger
-
-Otzi's Scabbard
-
-Otzi Era Push Dagger
-
-Brass Push Dagger
-
-Canadian Iceman's Knife
-
-Blowpipe Maker Shares Rare, Ancient Craft
-
-sharpest Cardboard kitchen knife in the world
-
-How To Make A Wooden Pocket Knife With Hand Tools
-
-Popsicle Stick KARAMBIT
-
-sharpest Bismuth kitchen knife in the world
-
-Chisel Knife
-
-Weird Folding Knife
-
-Wooden Katana
-
-BAMBOO KATANA
-
-the secret world of the japanese swordsmith
-
-Making Snowflake Shurikens
-
-How To Make Composite Shuriken
-
-Double Wheels Wooden Crossbowfishing
-
-Circuit Board + Resin Jewelry
-
-MP3 music player board REVIEW (Suspicious Quality)
-
-MP3 Music Box (Very Simple)
-
-DIY Bluetooth USB SD and FM Amplifier using 6283ic Board and 4440ic Board
-
-Pallet Bluetooth Speaker V3 DIY
-
-$220 Lightsaber
-
-Glitterbomb 3.0 vs. Porch Pirates
+The Walnut Heist[1]
+I GOT A TALKBOX! (Plus Music Video: Don't Forget to Wear Your Dustmask.)[2]
+Bushcraft Waterwheel[3]
+Tim Rattles his Rattlebacks[4]
+The CMY Cube has arrived![5]
+Eulers Disc[6]
+Amazing Science Toys/Gadgets 1[7]
+ORCA & PILOT - INVADERS[8]
+Challenge to recycle Coca-Cola！/ Make a simple alcohol stove (soda can stove)[9]
+Soda can Stirling engine - 860 rpm[10]
+DIY Cheap and easy-ish Soda Can Stirling engine[11]
+L0pht Heavy Industries Video Press Kit (1994-1999)[12]
+Hackers Testifying at the United States Senate, May 19, 1998 (L0pht Heavy Industries)[13]
+Confessions of a Hacker known as Kingpin - Joe Grand Story[14]
+Samy Kamkar's Crash Course in How to Be a Hardware Hacker[15]
+Block EVERY Online Ad with THIS - Pi-Hole on Raspberry Pi[16]
+How to Block ads on YouTube Skip ads with (Vanced app)[17]
+How to use uBlock Origin to protect your online privacy and security[18]
+The Essential Guide to Advanced Blocking with uBlock Origin[19]
+The evolution of Minecraft[20]
+Dark Souls - Is too hard[21]
+The case for anonymity online by Christopher 'moot' Poole[22]
+Sky Rim[23]
+Getting Over It[24]
+Woodworking joints[25]
+Otzi's Dagger[26]
+Otzi's Scabbard[27]
+Otzi Era Push Dagger[28]
+Brass Push Dagger[29]
+Canadian Iceman's Knife[30]
+Blowpipe Maker Shares Rare, Ancient Craft[31]
+sharpest Cardboard kitchen knife in the world[32]
+How To Make A Wooden Pocket Knife With Hand Tools[33]
+Popsicle Stick KARAMBIT[34]
+sharpest Bismuth kitchen knife in the world[35]
+Chisel Knife[36]
+Weird Folding Knife[37]
+Wooden Katana[38]
+BAMBOO KATANA[39]
+the secret world of the japanese swordsmith[40]
+Making Snowflake Shurikens[41]
+How To Make Composite Shuriken[42]
+Double Wheels Wooden Crossbowfishing[43]
+Circuit Board + Resin Jewelry[44]
+MP3 music player board REVIEW (Suspicious Quality)[45]
+MP3 Music Box (Very Simple)[46]
+DIY Bluetooth USB SD and FM Amplifier using 6283ic Board and 4440ic Board[47]
+Pallet Bluetooth Speaker V3 DIY[48]
+$220 Lightsaber[49]
+Glitterbomb 3.0 vs. Porch Pirates[50]
+ 
+References
+[1]: https://www.youtube.com/watch?v=DTvS9lvRxZ8
+[2]: https://www.youtube.com/watch?v=3xl8M-FPRgc
+[3]: https://www.youtube.com/watch?v=war9v2DxMs4
+[4]: https://www.youtube.com/watch?v=11NHjiEYnI0
+[5]: https://www.youtube.com/watch?v=SIjzjMhlCDk
+[6]: https://www.youtube.com/watch?v=rFtYzVJcWyA
+[7]: https://www.youtube.com/watch?v=l9o33uBi40U
+[8]: https://www.youtube.com/watch?v=niUe0M8fZnw
+[9]: https://www.youtube.com/watch?v=pl72sLFZbsg
+[10]: https://www.youtube.com/watch?v=W9cK_TMLvjI
+[11]: https://www.youtube.com/watch?v=_c7BGP94eHI
+[12]: https://www.youtube.com/watch?v=P5j7chCzzPA
+[13]: https://www.youtube.com/watch?v=VVJldn_MmMY
+[14]: https://www.youtube.com/watch?v=5bcbmef4I3I
+[15]: https://www.youtube.com/watch?v=tlwXmNnXeSY
+[16]: https://www.youtube.com/watch?v=KBXTnrD_Zs4
+[17]: https://www.youtube.com/watch?v=4CEnIzrHmu8
+[18]: https://www.youtube.com/watch?v=2lisQQmWQkY
+[19]: https://www.youtube.com/watch?v=SIYcI2tEqo8
+[20]: https://www.youtube.com/watch?v=t0eqSgkDuW0
+[21]: https://www.youtube.com/watch?v=_hHdG-BEJ3I
+[22]: https://www.youtube.com/watch?v=a_1UEAGCo30
+[23]: https://www.youtube.com/watch?v=q6yHoSvrTss
+[24]: https://www.youtube.com/watch?v=8qGCleYV4cw
+[25]: https://www.youtube.com/watch?v=WFXieuIcPdU
+[26]: https://www.youtube.com/watch?v=1K-UX_U0F7I
+[27]: https://www.youtube.com/watch?v=oyNqRytVhtU
+[28]: https://www.youtube.com/watch?v=VEbNNwZ9K2I
+[29]: https://www.youtube.com/watch?v=zXpf60oWLok
+[30]: https://www.youtube.com/watch?v=bJlrvffB34M
+[31]: https://www.youtube.com/watch?v=pJBpkz29-DQ
+[32]: https://www.youtube.com/watch?v=jvo86AHovFc
+[33]: https://www.youtube.com/watch?v=bRoJ_G4hw2A
+[34]: https://www.youtube.com/watch?v=dXAsT2_c5Aw
+[35]: https://www.youtube.com/watch?v=FgdHZqSIO1M
+[36]: https://www.youtube.com/watch?v=ql2cz0aNnUU
+[37]: https://www.youtube.com/watch?v=QYJfmjs8hwA
+[38]: https://www.youtube.com/watch?v=2nshBD9EbxE
+[39]: https://www.youtube.com/watch?v=pKH8GGV0zP0
+[40]: https://www.youtube.com/watch?v=gxwWf-MfZVk
+[41]: https://www.youtube.com/watch?v=HF0CreAkAVg
+[42]: https://www.youtube.com/watch?v=HZXxy9hIhOs
+[43]: https://www.youtube.com/watch?v=ozhvBknRwTI
+[44]: https://www.youtube.com/watch?v=ryK6aYZqkoM
+[45]: https://www.youtube.com/watch?v=F5jizOQtenU
+[46]: https://www.youtube.com/watch?v=lswfhea17WY
+[47]: https://www.youtube.com/watch?v=87kF5xJlLnE
+[48]: https://www.youtube.com/watch?v=tU8lUlx3pPY
+[49]: https://www.youtube.com/watch?v=VzlkSjFXRlM
+[50]: https://www.youtube.com/watch?v=h4T_LlK1VE4

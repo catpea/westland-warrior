@@ -1,73 +1,76 @@
-How to use a BreadBoard - Electronics Basics 10
-
-Complete beginner's guide to using a breadboard
-
-How to Use a Breadboard
-
-Electronics Tutorials For Noobs - How to power an LED properly
-
-LED Resistor Calculation
-
-Volts, Amps, and Watts Explained
-
-LED Circuit Design - How to design LED circuits
-
-How to use a Digital Multimeter - Best Multimeter for Beginners
-
-How to select resistor value for LEDs
-
-How to Build a Simple LED Circuit - Electronics for Absolute Beginners
-
-Top 3 LED Projects for Beginners
-
-TOP 3 LED PROJECTS FOR BEGINNERS
-
-Top 5 Simple Electronic projects
-
-How to make world's simplest LED flasher
-
-Top 3 Simple LED Flasher Circuits
-
-LED Basics
-
-How Blue LEDs Changed the World
-
-The LED - How LEDs work? - English version
-
-History of LED Lights (light emitting diodes) | Basic Electronics
-
-A Brilliant Idea, Nick Holonyak, Jr. and the LED
-
-What is a resistor?
-
-How to use Resistors in Circuits
-
-Basic Electricity - Resistance and Ohm's law
-
-How a RESISTOR works ⚡ What is a RESISTOR
-
-The History of the RESISTOR
-
-How a Transistor Works ⚡ What is a Transistor
-
-What is a Transistor | Working Principles
-
-Transistors - NPN & PNP - Basic Introduction
-
-Transistors Explained - How transistors work
-
-Transistor Full Documentary
-
-Battery Capacity (mAh) and Usage - Electronics Basics 18
-
-Battery amp-hour, watt-hour and C rating tutorial
-
-Will China's 18650 Battery Beat LG, Samsung, Sony & Panasonic? Let's find out!
-
-Fake Lithium Ion Batteries from eBay
-
-Which AA Battery is Best? Can Amazon Basics beat Energizer? Let's find out!
-
-Are Lithium Batteries Dangerous? Is it safe to drive Tesla Car? :)
-
-Smartphone Battery Explosion? We will show you how it's like! Three Brands :)
+How to use a BreadBoard - Electronics Basics 10[1]
+Complete beginner's guide to using a breadboard[2]
+How to Use a Breadboard[3]
+Electronics Tutorials For Noobs - How to power an LED properly[4]
+LED Resistor Calculation[5]
+Volts, Amps, and Watts Explained[6]
+LED Circuit Design - How to design LED circuits[7]
+How to use a Digital Multimeter - Best Multimeter for Beginners[8]
+How to select resistor value for LEDs[9]
+How to Build a Simple LED Circuit - Electronics for Absolute Beginners[10]
+Top 3 LED Projects for Beginners[11]
+TOP 3 LED PROJECTS FOR BEGINNERS[12]
+Top 5 Simple Electronic projects[13]
+How to make world's simplest LED flasher[14]
+Top 3 Simple LED Flasher Circuits[15]
+LED Basics[16]
+How Blue LEDs Changed the World[17]
+The LED - How LEDs work? - English version[18]
+History of LED Lights (light emitting diodes) | Basic Electronics[19]
+A Brilliant Idea, Nick Holonyak, Jr. and the LED[20]
+What is a resistor?[21]
+How to use Resistors in Circuits[22]
+Basic Electricity - Resistance and Ohm's law[23]
+How a RESISTOR works ⚡ What is a RESISTOR[24]
+The History of the RESISTOR[25]
+How a Transistor Works ⚡ What is a Transistor[26]
+What is a Transistor | Working Principles[27]
+Transistors - NPN & PNP - Basic Introduction[28]
+Transistors Explained - How transistors work[29]
+Transistor Full Documentary[30]
+Battery Capacity (mAh) and Usage - Electronics Basics 18[31]
+Battery amp-hour, watt-hour and C rating tutorial[32]
+Will China's 18650 Battery Beat LG, Samsung, Sony & Panasonic? Let's find out![33]
+Fake Lithium Ion Batteries from eBay[34]
+Which AA Battery is Best? Can Amazon Basics beat Energizer? Let's find out![35]
+Are Lithium Batteries Dangerous? Is it safe to drive Tesla Car? :)[36]
+Smartphone Battery Explosion? We will show you how it's like! Three Brands :)[37]
+ 
+References
+[1]: https://www.youtube.com/watch?v=fq6U5Y14oM4
+[2]: https://www.youtube.com/watch?v=XpMZoR3fgd0
+[3]: https://www.youtube.com/watch?v=6WReFkfrUIk
+[4]: https://www.youtube.com/watch?v=R1OKljx5b9k
+[5]: https://www.youtube.com/watch?v=EeCh68a1GEg
+[6]: https://www.youtube.com/watch?v=mvuHsu8S6v8
+[7]: https://www.youtube.com/watch?v=7d4ymjU9NqM
+[8]: https://www.youtube.com/watch?v=la0rr9jvH4M
+[9]: https://www.youtube.com/watch?v=hduuUDiku80
+[10]: https://www.youtube.com/watch?v=yQ2-yVXFMeE
+[11]: https://www.youtube.com/watch?v=zmLCQOB4OVo
+[12]: https://www.youtube.com/watch?v=GzoosBSMwTY
+[13]: https://www.youtube.com/watch?v=77FkWW75dX4
+[14]: https://www.youtube.com/watch?v=tpKssr9p2rc
+[15]: https://www.youtube.com/watch?v=0y12m1_HGhs
+[16]: https://www.youtube.com/watch?v=Yo6JI_bzUzo
+[17]: https://www.youtube.com/watch?v=idwKHQEw78g
+[18]: https://www.youtube.com/watch?v=4y7p9R2No-4
+[19]: https://www.youtube.com/watch?v=a0_TpENvYBw
+[20]: https://www.youtube.com/watch?v=cvIHUt0HhZA
+[21]: https://www.youtube.com/watch?v=Gc1wVdbVI0E
+[22]: https://www.youtube.com/watch?v=I0imvhcwyHc
+[23]: https://www.youtube.com/watch?v=NfcgA1axPLo
+[24]: https://www.youtube.com/watch?v=tyJCwWGNiBE
+[25]: https://www.youtube.com/watch?v=HJv_damcJ4o
+[26]: https://www.youtube.com/watch?v=dpUAecLQNnw
+[27]: https://www.youtube.com/watch?v=YtM_MnM0qT4
+[28]: https://www.youtube.com/watch?v=AcxDiesy-nI
+[29]: https://www.youtube.com/watch?v=J4oO7PT_nzQ
+[30]: https://www.youtube.com/watch?v=U4XknGqr3Bo
+[31]: https://www.youtube.com/watch?v=2ZXxcXXRCvE
+[32]: https://www.youtube.com/watch?v=cxkVxi9P0EA
+[33]: https://www.youtube.com/watch?v=qMZuHMlRw_0
+[34]: https://www.youtube.com/watch?v=s5QwHcQfbMs
+[35]: https://www.youtube.com/watch?v=V7-ghrTqA44
+[36]: https://www.youtube.com/watch?v=CUgbmCSmSNY
+[37]: https://www.youtube.com/watch?v=y-a405s1eio

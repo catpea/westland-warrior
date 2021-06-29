@@ -1,35 +1,38 @@
-On a Rocket Launch to Space
-
-Gravity Visualized
-
-Introduction to Lunar Free-Return Trajectories
-
-Balloon to Near Space
-
-Rocket Science in 120, Orbital Mechanics
-
-Rocket Science in 120, Orbital Maneuvers
-
-Orbital Mechanics by Nick Morgan
-
-Space Flight, The Application of Orbital Mechanics
-
-How do spacecraft navigate in space?
-
-Free Return Trajectory Tutorial (Kerbal Space Program, Computer Game)
-
-Advanced Orbital Mechanics (Kerbal Space Program, Computer Game)
-
-Earth's motion around the Sun
-
-If the universe is only 14 billion years old, how can it be 92 billion light years wide?
-
-Space Junk Around Earth
-
-STARLINK satellites train seen from earth - SpaceX Elon Musk
-
-SpaceX Starlink satellite train at dusk
-
-Crazy Engineering, CubeSats
-
-5 REAL Possibilities for Interstellar Travel
+On a Rocket Launch to Space[1]
+Gravity Visualized[2]
+Introduction to Lunar Free-Return Trajectories[3]
+Balloon to Near Space[4]
+Rocket Science in 120, Orbital Mechanics[5]
+Rocket Science in 120, Orbital Maneuvers[6]
+Orbital Mechanics by Nick Morgan[7]
+Space Flight, The Application of Orbital Mechanics[8]
+How do spacecraft navigate in space?[9]
+Free Return Trajectory Tutorial (Kerbal Space Program, Computer Game)[10]
+Advanced Orbital Mechanics (Kerbal Space Program, Computer Game)[11]
+Earth's motion around the Sun[12]
+If the universe is only 14 billion years old, how can it be 92 billion light years wide?[13]
+Space Junk Around Earth[14]
+STARLINK satellites train seen from earth - SpaceX Elon Musk[15]
+SpaceX Starlink satellite train at dusk[16]
+Crazy Engineering, CubeSats[17]
+5 REAL Possibilities for Interstellar Travel[18]
+ 
+References
+[1]: https://www.youtube.com/watch?v=bDoh8zQDT38
+[2]: https://www.youtube.com/watch?v=MTY1Kje0yLg
+[3]: https://www.youtube.com/watch?v=UmDoHDVuZfo
+[4]: https://www.youtube.com/watch?v=3y0nHhFGXDo
+[5]: https://www.youtube.com/watch?v=Pk6qgWRG1c0
+[6]: https://www.youtube.com/watch?v=2wIrKOYMyNg
+[7]: https://www.youtube.com/watch?v=tJiAkBxuqfs
+[8]: https://www.youtube.com/watch?v=Am7EwmxBAW8
+[9]: https://www.youtube.com/watch?v=YAnxt1YPWbk
+[10]: https://www.youtube.com/watch?v=OTB27qWSIt4
+[11]: https://www.youtube.com/watch?v=MJ3QZvGq-po
+[12]: https://www.youtube.com/watch?v=82p-DYgGFjI
+[13]: https://www.youtube.com/watch?v=vIJTwYOZrGU
+[14]: https://www.youtube.com/watch?v=w_PWL0oZzOc
+[15]: https://www.youtube.com/watch?v=pgysWWwESfU
+[16]: https://www.youtube.com/watch?v=T6v47CmRA7A
+[17]: https://www.youtube.com/watch?v=7RrWZJHkREI
+[18]: https://www.youtube.com/watch?v=EzZGPCyrpSU

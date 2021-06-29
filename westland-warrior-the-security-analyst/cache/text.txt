@@ -1,61 +1,64 @@
-Facial Recognition, Last Week Tonight with John Oliver (HBO)
-
-From 1 to 100 pixels by Adam Harvey
-
-Retail Surveillance / Retail Countersurveillance (33c3)
-
-Defeating Facial Recognition - Retia on Hak5
-
-How China Tracks Everyone
-
-How to spot spy cameras in everyday objects | A Current Affair
-
-Can you find hidden spy cameras with a cheap spy camera detector or free app?
-
-How many spycams can Stacey Dooley find in a love motel bedroom?
-
-Geek Girl Spy Cam Teardown with Becky Stern and Estefannie
-
-4K Wifi Functional Receptacle Wall Socket Outlet Hidden Nanny Camera
-
-CNN, How to spot hidden cameras
-
-Phone Phreak Captain Crunch Rare Interview from '78
-
-Kevin Mitnick, Live Hack at CeBIT Global Conferences 2015
-
-Samy Kamkar (Hacker) | TNW Conference | Secret Hacking Techniques
-
-How hackers take over your accounts using social engineering (Marketplace)
-
-Identity theft, How criminals use a low-interest credit card scam to steal from you (Marketplace)
-
-How hackers threaten everything from your bank account to national security (2016)
-
-What is a honeypot, How to install and what can we see from honeypots?
-
-This Toy Can Open Any Garage
-
-Radio Hacking, Cars, Hardware, and more! - Samy Kamkar - AppSec California 2016
-
-DEF CON 27, The WiFi Kraken with D4rkm4tter - Hak5 2602
-
-DEF CON 27, El Kentaro's Deauth Detector - Hak5 2601
-
-Watch these hackers crack an ATM in seconds
-
-Smartphone apps designed to detect gas skimmers
-
-Man finds ATM skimmer
-
-Credit Card, Identity Fraud Spike Despite Security Chips
-
-Credit Card Skimmers - Security 101 - Episode 21
-
-DEF CON 27, Finding ATM Skimmers with Hunter Cat - Hak5 2604
-
-World's Most Famous Hacker Kevin Mitnick & KnowBe4's Stu Sjouwerman Opening Keynote
-
-I'll Let Myself In! Tactics of Physical Pen Testers
-
-Catch Me If You Can | Frank Abagnale | Talks at Google
+Facial Recognition, Last Week Tonight with John Oliver (HBO)[1]
+From 1 to 100 pixels by Adam Harvey[2]
+Retail Surveillance / Retail Countersurveillance (33c3)[3]
+Defeating Facial Recognition - Retia on Hak5[4]
+How China Tracks Everyone[5]
+How to spot spy cameras in everyday objects | A Current Affair[6]
+Can you find hidden spy cameras with a cheap spy camera detector or free app?[7]
+How many spycams can Stacey Dooley find in a love motel bedroom?[8]
+Geek Girl Spy Cam Teardown with Becky Stern and Estefannie[9]
+4K Wifi Functional Receptacle Wall Socket Outlet Hidden Nanny Camera[10]
+CNN, How to spot hidden cameras[11]
+Phone Phreak Captain Crunch Rare Interview from '78[12]
+Kevin Mitnick, Live Hack at CeBIT Global Conferences 2015[13]
+Samy Kamkar (Hacker) | TNW Conference | Secret Hacking Techniques[14]
+How hackers take over your accounts using social engineering (Marketplace)[15]
+Identity theft, How criminals use a low-interest credit card scam to steal from you (Marketplace)[16]
+How hackers threaten everything from your bank account to national security (2016)[17]
+What is a honeypot, How to install and what can we see from honeypots?[18]
+This Toy Can Open Any Garage[19]
+Radio Hacking, Cars, Hardware, and more! - Samy Kamkar - AppSec California 2016[20]
+DEF CON 27, The WiFi Kraken with D4rkm4tter - Hak5 2602[21]
+DEF CON 27, El Kentaro's Deauth Detector - Hak5 2601[22]
+Watch these hackers crack an ATM in seconds[23]
+Smartphone apps designed to detect gas skimmers[24]
+Man finds ATM skimmer[25]
+Credit Card, Identity Fraud Spike Despite Security Chips[26]
+Credit Card Skimmers - Security 101 - Episode 21[27]
+DEF CON 27, Finding ATM Skimmers with Hunter Cat - Hak5 2604[28]
+World's Most Famous Hacker Kevin Mitnick & KnowBe4's Stu Sjouwerman Opening Keynote[29]
+I'll Let Myself In! Tactics of Physical Pen Testers[30]
+Catch Me If You Can | Frank Abagnale | Talks at Google[31]
+ 
+References
+[1]: https://www.youtube.com/watch?v=jZjmlJPJgug
+[2]: https://www.youtube.com/watch?v=bfhcco9gS30
+[3]: https://www.youtube.com/watch?v=LLKmyY5ujeU
+[4]: https://www.youtube.com/watch?v=tbdcL5Ux-9Y
+[5]: https://www.youtube.com/watch?v=CLo3e1Pak-Y
+[6]: https://www.youtube.com/watch?v=u3AJ7e55M4Q
+[7]: https://www.youtube.com/watch?v=hnv3S5a93dU
+[8]: https://www.youtube.com/watch?v=ggYIsnUgUdU
+[9]: https://www.youtube.com/watch?v=87OI-P-kRr0
+[10]: https://www.youtube.com/watch?v=MByOZZlIBck
+[11]: https://www.youtube.com/watch?v=teD-tqmZ8eI
+[12]: https://www.youtube.com/watch?v=n6TjjE8NHV0
+[13]: https://www.youtube.com/watch?v=NtzZBTjKngw
+[14]: https://www.youtube.com/watch?v=kJyGZDXCbmA
+[15]: https://www.youtube.com/watch?v=Ck_r2GYLdCI
+[16]: https://www.youtube.com/watch?v=2xBddrmbG7w
+[17]: https://www.youtube.com/watch?v=bUXtuMf2o10
+[18]: https://www.youtube.com/watch?v=0WUaI2pNiPI
+[19]: https://www.youtube.com/watch?v=CNodxp9Jy4A
+[20]: https://www.youtube.com/watch?v=1RipwqJG50c
+[21]: https://www.youtube.com/watch?v=8LQYgnSx3lI
+[22]: https://www.youtube.com/watch?v=daLhn8lIbGo
+[23]: https://www.youtube.com/watch?v=a2A5Ld-QWnU
+[24]: https://www.youtube.com/watch?v=UkbxmUcGkdU
+[25]: https://www.youtube.com/watch?v=yRNj02ngrTI
+[26]: https://www.youtube.com/watch?v=z6OZvaDX01w
+[27]: https://www.youtube.com/watch?v=XWiNw1BpqcU
+[28]: https://www.youtube.com/watch?v=gKrm0MM_Ils
+[29]: https://www.youtube.com/watch?v=iFGve5MUUnE
+[30]: https://www.youtube.com/watch?v=rnmcRTnTNC8
+[31]: https://www.youtube.com/watch?v=vsMydMDi3rI

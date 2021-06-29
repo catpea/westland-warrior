@@ -1,56 +1,68 @@
-Introduction to Fusion
+Introduction to Fusion[1]
 
-Quote by Carl Sagan
+QUOTE BY CARL SAGAN
 
-Somewhere, something incredible is waiting to be known.
+> Somewhere, something incredible is waiting to be known.
+> 
+> Carl Sagan[2]
 
-Carl Sagan
+Cold Fusion Press Conference at University of Utah (March 23, 1989)[3]
 
-Cold Fusion Press Conference at University of Utah (March 23, 1989)
+QUOTE BY WINSTON CHURCHILL
 
-Quote by Winston Churchill
+> Success is not final, failure is not fatal: it is the courage to continue
+> that counts.
+> 
+> Winston Churchill[4]
 
-Success is not final, failure is not fatal: it is the courage to continuethat counts.
+Newton's Cannon[5]
+Newton - Gravitation universelle[6]
 
-Winston Churchill
+NEWTON'S PRINCIPIA
 
-Newton's Cannon
+To paraphrase Alexander Pope "Nature and Nature's laws lay hid in night:
+Thus Nature said, Let Newton be! and all was light." You can find a
+translated digital copy of Newton's Principia here[7].
 
-Newton - Gravitation universelle
+PHILOSOPHY
 
-Newton's Principia
+Newton's Orbital Cannon is on page 518[8].
+Theory of relativity explained in 7 mins[9]
+Gravity Visualized[10]
+Light Speed – fast, but slow[11]
 
-To paraphrase Alexander Pope "Nature and Nature's laws lay hid in night:Thus Nature said, Let Newton be! and all was light." You can find atranslated digital copy of Newton's Principia here.
+ROYAL INSTITUTION CHRISTMAS LECTURES
 
-Philosophy
+The Royal Institution Christmas Lectures[12] are a series of lectures on a
+single topic each, which have been held at the Royal Institution in London
+each year since 1825. The lectures present scientific subjects to a general
+audience, including young people, in an informative and entertaining manner.
+Take a look at Highlights from the Christmas Lectures Archive[13] (51
+videos) on YouTube's Royal Institution Channel[14].
+Visit YouTube's Popular Royal Institution Christmas Lectures & RoyalInstitution[15] for more.
+Carl Sagan: The Earth as a Planet (1977)[16]
 
-Newton's Orbital Cannon is on page 518.
+FULL PLAYLIST
 
-Theory of relativity explained in 7 mins
-
-Gravity Visualized
-
-Light Speed – fast, but slow
-
-Royal Institution Christmas Lectures
-
-The Royal Institution Christmas Lectures are a series of lectures on asingle topic each, which have been held at the Royal Institution in Londoneach year since 1825. The lectures present scientific subjects to a generalaudience, including young people, in an informative and entertaining manner.
-Take a look at Highlights from the Christmas Lectures Archive (51videos) on YouTube's Royal Institution Channel.
-Visit YouTube's Popular Royal Institution Christmas Lectures & RoyalInstitution for more.
-
-Carl Sagan: The Earth as a Planet (1977)
-
-Full Playlist
-
-Full Playlist »
-
-Richard Dawkins: Growing up in the Universe (1991)
-
-
-[here]: https://archive.org/stream/newtonspmathema00newtrich
-[page 518]: https://archive.org/stream/newtonspmathema00newtrich#page/n517/mode/2up
-[Royal Institution Christmas Lectures]: https://en.wikipedia.org/wiki/Royal_Institution_Christmas_Lectures
-[Highlights from the Christmas Lectures Archive]: https://www.youtube.com/watch?v=OLNFrxgMJ6E&list=PLbnrZHfNEDZy9ZL0GpfoRi93hipIKUjFy
-[Royal Institution Channel]: https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw
-[Popular Royal Institution Christmas Lectures & RoyalInstitution]: https://www.youtube.com/watch?v=23TlCfIw7C0&list=PLuiGSPzbQ86-VokKGxJcnF1vQuKWe82NP
-[Full Playlist »]: https://www.youtube.com/watch?v=BdXtjNSDi4s&list=PLzEZRwmmqC4FTciK3pyF2JsuSFyiysVYM
+Full Playlist »[17]
+Richard Dawkins: Growing up in the Universe (1991)[18]
+ 
+References
+[1]: https://www.youtube.com/watch?v=jf_4z4AKwJg
+[2]: https://en.wikipedia.org/wiki/Carl_Sagan
+[3]: https://www.youtube.com/watch?v=6CfHaeQo6oU
+[4]: https://en.wikipedia.org/wiki/Winston_Churchill
+[5]: https://www.youtube.com/watch?v=51mxBkwwSB8
+[6]: https://www.youtube.com/watch?v=MpiknSRTmT4
+[7]: https://archive.org/stream/newtonspmathema00newtrich
+[8]: https://archive.org/stream/newtonspmathema00newtrich#page/n517/mode/2up
+[9]: https://www.youtube.com/watch?v=ttZCKAMpcAo
+[10]: https://www.youtube.com/watch?v=MTY1Kje0yLg
+[11]: https://www.youtube.com/watch?v=nQUwHdSAhmw
+[12]: https://en.wikipedia.org/wiki/Royal_Institution_Christmas_Lectures
+[13]: https://www.youtube.com/watch?v=OLNFrxgMJ6E&list=PLbnrZHfNEDZy9ZL0GpfoRi93hipIKUjFy
+[14]: https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw
+[15]: https://www.youtube.com/watch?v=23TlCfIw7C0&list=PLuiGSPzbQ86-VokKGxJcnF1vQuKWe82NP
+[16]: https://www.youtube.com/watch?v=BdXtjNSDi4s
+[17]: https://www.youtube.com/watch?v=BdXtjNSDi4s&list=PLzEZRwmmqC4FTciK3pyF2JsuSFyiysVYM
+[18]: https://www.youtube.com/watch?v=dw4w1UsOafQ

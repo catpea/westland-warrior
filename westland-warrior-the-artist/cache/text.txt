@@ -1,110 +1,143 @@
-Quote by Frida Kahlo
+QUOTE BY FRIDA KAHLO
 
-I never paint dreams or nightmares. I paint my own reality.
+> I never paint dreams or nightmares. I paint my own reality.
+> 
+> Frida Kahlo[1]
 
-Frida Kahlo
-
-Tracing Paper
+TRACING PAPER
 
 Tracing paper does not need batteries, just a pencil.
-Anybody can trace a printout of something they like with tracing paper.What many don't understand is that after tracing, you need to black out theopposite side of your trace to create a home made, Transfer Paper.
+Anybody can trace a printout of something they like with tracing paper.
+What many don't understand is that after tracing, you need to black out the
+opposite side of your trace to create a home made, Transfer Paper.
+How to Transfer an Image Using Tracing Paper[2]
 
-How to Transfer an Image Using Tracing Paper
+TRACING PAPER
 
-Tracing Paper
+On the front you have your trace. On the back you deposit as much graphite
+as needed.
+Then you place your trace on proper Drawing Paper. Then, go over your trace
+one more time, the graphite on the back will now transfer to your drawing
+paper.
 
-On the front you have your trace. On the back you deposit as much graphiteas needed.
-Then you place your trace on proper Drawing Paper. Then, go over your traceone more time, the graphite on the back will now transfer to your drawingpaper.
-
-Graphite Paper
+GRAPHITE PAPER
 
 By blacking out the back of your trace you create Graphite Paper.
-You can skip this step by buying pre-made Graphite Paper. (Pre-madeGraphite Paper is a lot darker and sharper. If you trace something thathas a lot of small details, you should use Graphite Paper.)
-Now you will place Graphite Paper over your Drawing paper, and then putyour trace on top, and then go over it with a pencil.
-Graphite Paper on Amazon.
+You can skip this step by buying pre-made Graphite Paper. (Pre-made
+Graphite Paper is a lot darker and sharper. If you trace something that
+has a lot of small details, you should use Graphite Paper.)
+Now you will place Graphite Paper over your Drawing paper, and then put
+your trace on top, and then go over it with a pencil.
+Graphite Paper on Amazon[3].
+Getting Started: Three Ways to Transfer an Image to Watercolor Paper[4]
 
-Getting Started: Three Ways to Transfer an Image to Watercolor Paper
-
-Light Box
+LIGHT BOX
 
 Lightbox will help you with tracing and creation of new designs.
-A light box is an interesting addition to the process of tracing, it doesneed batteries, or a USB port. When buying an inexpensive light box ($25),you might want to consider getting a tiny battery powered projector($75) as well.
-Light Boxes Paper on Amazon.
+A light box is an interesting addition to the process of tracing, it does
+need batteries, or a USB port. When buying an inexpensive light box ($25),
+you might want to consider getting a tiny battery powered projector[5]
+($75) as well.
+Light Boxes Paper on Amazon[6].
+How to trace a picture.[7]
 
-How to trace a picture.
+DIGITAL PROJECTOR
 
-Digital Projector
+Digital projectors ($100 - $400) are the fastest way to create murals and
+paintings.
+Digital Projectors on Amazon[8].
+Home Wall Painting Using projector - DIY[9]
 
-Digital projectors ($100 - $400) are the fastest way to create murals andpaintings.
-Digital Projectors on Amazon.
+DIGITAL PROJECTOR
 
-Home Wall Painting Using projector - DIY
-
-Digital Projector
-
-You can take a selfie, connect your phone to the projector, and beginpainting.
-Even better you can connect your Raspberry PI, or Laptop and use a programlike GIMP where you can manipulate your source material to revealedges, colors, or adjust contrast while painting to reveal the brightestparts of your source material.
-Tip: Consider putting registration marks in your image and on your canvas,it is easier to resume your work after you bump the projector or call it anight.
+You can take a selfie, connect your phone to the projector, and begin
+painting.
+Even better you can connect your Raspberry PI, or Laptop and use a program
+like GIMP[10] where you can manipulate your source material to reveal
+edges, colors, or adjust contrast while painting to reveal the brightest
+parts of your source material.
+Tip: Consider putting registration marks in your image and on your canvas,
+it is easier to resume your work after you bump the projector or call it a
+night.
 Idea: Record your painting progress and upload a sped up movie to YouTube.
 
-Mona Lisa
+MONA LISA
 
-Using the Mona Lisa to show what you can get by connecting your projectorto your laptop, and using a program like GIMP.
+Using the Mona Lisa to show what you can get by connecting your projector
+to your laptop, and using a program like GIMP[11].
 
-Mona Lisa Edge Detection
+MONA LISA EDGE DETECTION
 
 Discover all the hard edges where color changes abruptly.
 
-Mona Lisa Simplified Color Palette
+MONA LISA SIMPLIFIED COLOR PALETTE
 
 Show the color palette.
 
-Mona Lisa Highlights
+MONA LISA HIGHLIGHTS
 
 Reveal the brightest parts (highlights) in Mona Lisa.
+How to use GIMP for beginners tutorial[12]
+Learn GIMP in 30 minutes, Complete Tutorial for Beginners[13]
+Working With Filters - GIMP Tutorials[14]
+Sfumato, Unione, Chiaroscuro, Cangiante[15]
+Painting the Portrait: The Grisaille Method in Oil Part 1/2[16]
+Painting the Portrait: The Grisaille Method in Oil Part 2/2[17]
+Grisaille Method with Jon deMartin[18]
 
-How to use GIMP for beginners tutorial
+BUSINESS PRACTICE: BRIANNA SCHRETLEN AND HER FUR KIDS
 
-Learn GIMP in 30 minutes, Complete Tutorial for Beginners
+"I'm a professional graphic designer and illustrator with a soft spot for
+fur kids. I've always loved painting and drawing animals. Our pets are like
+family, and I truly enjoy working on tributes to these silly, lovable,
+trusting and loyal creatures. In addition to Bri Pet Portraits, I am also
+on Etsy under the shop Bri Baby Art - a shop featuring custom artworks for
+nurseries and kids room decor." (from BriPetPortraits on Etsy[19])
+Custom Pet Portraits. Online business where people upload an image, and you
+create a large canvas painting, or drawing. It looks like the price is
+about $50 per portrait. Throw in a bonus, record a time lapse video of the
+painting for advertising, portfolio, and internet points.
+Pet portrait time-lapse.[20]
 
-Working With Filters - GIMP Tutorials
+QUOTE BY HENRI MATISSE
 
-Sfumato, Unione, Chiaroscuro, Cangiante
+> Creativity takes courage.
+> 
+> Henri Matisse[21]
 
-Painting the Portrait: The Grisaille Method in Oil Part 1/2
+PLEASE, NEVER DRAW ALONE.
 
-Painting the Portrait: The Grisaille Method in Oil Part 2/2
-
-Grisaille Method with Jon deMartin
-
-Business Practice: Brianna Schretlen and her Fur Kids
-
-"I'm a professional graphic designer and illustrator with a soft spot forfur kids. I've always loved painting and drawing animals. Our pets are likefamily, and I truly enjoy working on tributes to these silly, lovable,trusting and loyal creatures. In addition to Bri Pet Portraits, I am alsoon Etsy under the shop Bri Baby Art - a shop featuring custom artworks fornurseries and kids room decor." (from BriPetPortraits on Etsy)
-Custom Pet Portraits. Online business where people upload an image, and youcreate a large canvas painting, or drawing. It looks like the price isabout $50 per portrait. Throw in a bonus, record a time lapse video of thepainting for advertising, portfolio, and internet points.
-
-Pet portrait time-lapse.
-
-Quote by Henri Matisse
-
-Creativity takes courage.
-
-Henri Matisse
-
-Please, never draw alone.
-
-If you are going to draw with pencils make sure to use blending stumps andsmudge the graphite to give it a photo-realistic look. Get an artboard, Drawing Paper (not Sketching Paper), tin of pencils,battery powered eraser and eraser shield, and head for the DIA, or aMuseum, or even a Coffee Shop.
-
-Blending Stumps for Beginners
-
-What's an Eraser Shield?
-
-
-[Graphite Paper on Amazon]: https://www.amazon.com/graphite-paper/s?k=graphite+paper
-[projector]: https://www.amazon.com/s?k=Mini+Projector&ref=nb_sb_noss_2
-[Light Boxes Paper on Amazon]: https://www.amazon.com/s?k=Light+Box+Tracing&ref=nb_sb_noss_2
-[Digital Projectors on Amazon]: https://www.amazon.com/Digital-Projectors/s?k=Digital+Projectors
-[GIMP]: https://www.gimp.org/
-[BriPetPortraits on Etsy]: https://www.etsy.com/shop/BriPetPortraits
-[artboard]: https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Darts-crafts&field-keywords=Sketch+Tote+Drawing+
-[tin of pencils]: https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Doffice-products&field-keywords=Staedtler+Lumograph+Graphite+Drawing
-[DIA]: https://www.dia.org/
+If you are going to draw with pencils make sure to use blending stumps and
+smudge the graphite to give it a photo-realistic look. Get an artboard[22], Drawing Paper (not Sketching Paper), tin of pencils[23],
+battery powered eraser and eraser shield, and head for the DIA[24], or a
+Museum, or even a Coffee Shop.
+Blending Stumps for Beginners[25]
+What's an Eraser Shield?[26]
+ 
+References
+[1]: https://en.wikipedia.org/wiki/Frida_Kahlo
+[2]: https://www.youtube.com/watch?v=JW5PYVbc6ho
+[3]: https://www.amazon.com/graphite-paper/s?k=graphite+paper
+[4]: https://www.youtube.com/watch?v=fN-VtUBC7Ys
+[5]: https://www.amazon.com/s?k=Mini+Projector&ref=nb_sb_noss_2
+[6]: https://www.amazon.com/s?k=Light+Box+Tracing&ref=nb_sb_noss_2
+[7]: https://www.youtube.com/watch?v=cQGeOMCGh0U
+[8]: https://www.amazon.com/Digital-Projectors/s?k=Digital+Projectors
+[9]: https://www.youtube.com/watch?v=iGDfa4T9yTE
+[10]: https://www.gimp.org/
+[11]: https://www.gimp.org/
+[12]: https://www.youtube.com/watch?v=7LXyClky6A8
+[13]: https://www.youtube.com/watch?v=IeABb8cwdUg
+[14]: https://www.youtube.com/watch?v=BB6LM9IYcco
+[15]: https://www.youtube.com/watch?v=Rp4G1pXx-cs
+[16]: https://www.youtube.com/watch?v=1183SVMyJVI
+[17]: https://www.youtube.com/watch?v=vN6aZSSGKGs
+[18]: https://www.youtube.com/watch?v=JPar_nzAEL0
+[19]: https://www.etsy.com/shop/BriPetPortraits
+[20]: https://www.youtube.com/watch?v=Aqn363Z1f5A
+[21]: https://en.wikipedia.org/wiki/Henri_Matisse
+[22]: https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Darts-crafts&field-keywords=Sketch+Tote+Drawing+
+[23]: https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Doffice-products&field-keywords=Staedtler+Lumograph+Graphite+Drawing
+[24]: https://www.dia.org/
+[25]: https://www.youtube.com/watch?v=zHiaJMf7m9Y
+[26]: https://www.youtube.com/watch?v=bluffx6sB04

@@ -1,57 +1,60 @@
-Computing a theory of everything | Stephen Wolfram
-
-What is Digital Art?
-
-How Artists Are Using Technology
-
-The incredible inventions of intuitive AI | Maurice Conti
-
-Art in the age of machine intelligence | Refik Anadol
-
-How This Guy Uses A.I. to Create Art | Obsessed | WIRED
-
-When A.I. Becomes Creative
-
-Everybody Can Make Deepfakes Now!
-
-Kate Compton, Creating generative art with Javascript | JSConf Iceland 2018
-
-Exploring generative spaces, a quickstart to generative art - GitHub Universe 2020
-
-Generative Art
-
-How to Hack a Painting by Tyler Hobbs
-
-Code goes in, Art comes out - Tyler Hobbs
-
-A Box of Chaos, The Generative Artist's Toolkit by Benjamin Kovach
-
-Generative Machines with Matt DesLauriers
-
-Tim Holman - Generative Art Speedrun
-
-Tech Talk, Douglas Welton on Generative Art
-
-Dan Lidral Porter - Generating Art In Many Worlds
-
-Data, Design, Code with Shirley Wu
-
-Recreating Vintage Computer Art with Processing
-
-exploring the beauty of algorithms with generative art - talk
-
-HTML Canvas Mouse Move Animation
-
-Generative Art for Beginners | Particle System
-
-Coding Challenge 47 Pixel Sorting in Processing
-
-Coding Challenge 124 Flocking Simulation
-
-Processing-tutorial, Image-Rasterizer
-
-What It's Like To be a Computer, An Interview with GPT-3
-
-Beauty and truth in physics (On Emergence)
-
-TIMELAPSE OF FUTURE TECHNOLOGY, 2022 - 4000+
+Computing a theory of everything | Stephen Wolfram[1]
+What is Digital Art?[2]
+How Artists Are Using Technology[3]
+The incredible inventions of intuitive AI | Maurice Conti[4]
+Art in the age of machine intelligence | Refik Anadol[5]
+How This Guy Uses A.I. to Create Art | Obsessed | WIRED[6]
+When A.I. Becomes Creative[7]
+Everybody Can Make Deepfakes Now![8]
+Kate Compton, Creating generative art with Javascript | JSConf Iceland 2018[9]
+Exploring generative spaces, a quickstart to generative art - GitHub Universe 2020[10]
+Generative Art[11]
+How to Hack a Painting by Tyler Hobbs[12]
+Code goes in, Art comes out - Tyler Hobbs[13]
+A Box of Chaos, The Generative Artist's Toolkit by Benjamin Kovach[14]
+Generative Machines with Matt DesLauriers[15]
+Tim Holman - Generative Art Speedrun[16]
+Tech Talk, Douglas Welton on Generative Art[17]
+Dan Lidral Porter - Generating Art In Many Worlds[18]
+Data, Design, Code with Shirley Wu[19]
+Recreating Vintage Computer Art with Processing[20]
+exploring the beauty of algorithms with generative art - talk[21]
+HTML Canvas Mouse Move Animation[22]
+Generative Art for Beginners | Particle System[23]
+Coding Challenge 47 Pixel Sorting in Processing[24]
+Coding Challenge 124 Flocking Simulation[25]
+Processing-tutorial, Image-Rasterizer[26]
+What It's Like To be a Computer, An Interview with GPT-3[27]
+Beauty and truth in physics (On Emergence)[28]
+TIMELAPSE OF FUTURE TECHNOLOGY, 2022 - 4000+[29]
+ 
+References
+[1]: https://www.youtube.com/watch?v=60P7717-XOQ
+[2]: https://www.youtube.com/watch?v=2RWop0Gln24
+[3]: https://www.youtube.com/watch?v=Nxh-5EXXGaM
+[4]: https://www.youtube.com/watch?v=aR5N2Jl8k14
+[5]: https://www.youtube.com/watch?v=UxQDG6WQT5s
+[6]: https://www.youtube.com/watch?v=I-EIVlHvHRM
+[7]: https://www.youtube.com/watch?v=KZ7BnJb30Cc
+[8]: https://www.youtube.com/watch?v=mUfJOQKdtAk
+[9]: https://www.youtube.com/watch?v=tJ49bTJ6fbs
+[10]: https://www.youtube.com/watch?v=meqHPIOzk-U
+[11]: https://www.youtube.com/watch?v=qtPi0JvmWbs
+[12]: https://www.youtube.com/watch?v=5R9eywArFTE
+[13]: https://www.youtube.com/watch?v=LBpqoj2nOQo
+[14]: https://www.youtube.com/watch?v=kZNTozzsNqk
+[15]: https://www.youtube.com/watch?v=8Uo6zFwSO78
+[16]: https://www.youtube.com/watch?v=4Se0_w0ISYk
+[17]: https://www.youtube.com/watch?v=0qhiCgTUixU
+[18]: https://www.youtube.com/watch?v=vLlbEZt-3j0
+[19]: https://www.youtube.com/watch?v=M88-GpXGqhM
+[20]: https://www.youtube.com/watch?v=LaarVR1AOvs
+[21]: https://www.youtube.com/watch?v=Y1bPsh1mFUI
+[22]: https://www.youtube.com/watch?v=EMJ9T7zStYY
+[23]: https://www.youtube.com/watch?v=vDnsnsozSBo
+[24]: https://www.youtube.com/watch?v=JUDYkxU6J0o
+[25]: https://www.youtube.com/watch?v=mhjuuHl6qHM
+[26]: https://www.youtube.com/watch?v=XO8u0Y75FRk
+[27]: https://www.youtube.com/watch?v=PqbB07n_uQ4
+[28]: https://www.youtube.com/watch?v=UuRxRGR3VpM
+[29]: https://www.youtube.com/watch?v=wD6hyGXRcgk

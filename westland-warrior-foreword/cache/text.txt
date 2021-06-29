@@ -1,4 +1,6 @@
-A Warrior is She that thrives and triumphs where’er She be
+A WARRIOR IS SHE THAT THRIVES AND TRIUMPHS WHERE’ER SHE BE
+
+Listen[1]
 
 A Warrior is She that thrives and triumphs where’er She be.
 You cannot be broken, you must use your misfortune to light your way.
@@ -66,7 +68,8 @@ Get ready to walk,
 and then run, day, after day, slightly longer.
 
 And then lift your weights, the way you learned to run,
-and then lift for longer,and never rest.
+and then lift for longer,
+and never rest.
 
 And then, with your sweetest audio-book.
 
@@ -90,3 +93,6 @@ Everything Makes You Fight Longer.
 
 You,
 Are A Warrior.
+ 
+References
+[1]: /audio/id145.mp3

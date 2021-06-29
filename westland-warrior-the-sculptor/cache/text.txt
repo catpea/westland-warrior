@@ -1,78 +1,83 @@
-Quote by Auguste Rodin
+QUOTE BY AUGUSTE RODIN
 
-Where did I learn to understand sculpture? In the woods by looking at thetrees, along roads by observing the formation of clouds, in the studio bystudying the model, everywhere except in the schools.
+> Where did I learn to understand sculpture? In the woods by looking at the
+> trees, along roads by observing the formation of clouds, in the studio by
+> studying the model, everywhere except in the schools.
+> 
+> Auguste Rodin[1]
 
-Auguste Rodin
+Cubli[2]
+Water No. 33 by Dean O'Callaghan[3]
+Colibri by Derek Hugger[4]
+Kinetic Sculptures Intro[5]
+Kinetic sculptures by Alex Harrell[6]
+Kinetic Sculpture by David Roy[7]
+Kinetic Masterpieces by Anthony Howe[8]
+Wintergatan by Martin Molin[9]
 
-Cubli
-
-Water No. 33 by Dean O'Callaghan
-
-Colibri by Derek Hugger
-
-Kinetic Sculptures Intro
-
-Kinetic sculptures by Alex Harrell
-
-Kinetic Sculpture by David Roy
-
-Kinetic Masterpieces by Anthony Howe
-
-Wintergatan by Martin Molin
-
-Blender
+BLENDER
 
 Blender is a Free and Open Source Program with a large developer community.
+MODELING For Absolute Beginners - Blender Tutorial[10]
+B3d/ZB/MD: Threadox Pt.1[11]
+Blender 2.8 Mecha Sculpting In Dyntopo - Blender Tutorial[12]
 
-MODELING For Absolute Beginners - Blender Tutorial
-
-B3d/ZB/MD: Threadox Pt.1
-
-Blender 2.8 Mecha Sculpting In Dyntopo - Blender Tutorial
-
-ZBrush
+ZBRUSH
 
 Zbrush is a commercial product priced at $1,000.
 (I recommend learning Blender)
+Organic Sculpting with Maria Panfilova[13]
+Joker Speed Art (Zbrush)[14]
+Speedsculpt Zbrush[15]
 
-Organic Sculpting with Maria Panfilova
+AIR DRY CLAY
 
-Joker Speed Art (Zbrush)
+Air Dry clay can be purchased for $25 for 25lb at Amazon[16]
+Speed Sculpting - What you NEED to Know[17]
 
-Speedsculpt Zbrush
+3D PRINTING
 
-Air Dry Clay
+Shapeways offer printing services, but you can also purchase your own 3DPrinter[18] for quicker prototyping
+3D Printing Cast Metals via Shapeways[19]
+Why This Is the Best 3D Printer - Comparing ALL My Printers!!![20]
 
-Air Dry clay can be purchased for $25 for 25lb at Amazon
+BUSINESS PRACTICE: SHAPEWAYS LASER PRINTING
 
-Speed Sculpting - What you NEED to Know
+Sell[21] your 3D models through Printing on Demand (POD, printing only when someone pays for your product) at Shapeways[22] and similar 3d print shops. Shapeways created shapejs[23] a programmable product creator with many examples in JavaScript[24], this can be used to generate a large number of unique products (antique coin pendants, tiny statues of art in public domain, odd bobble heads, skeleton wallets, waveform rings, UPC/QR code bracelets or keychain doodads.).
 
-3D Printing
+BUSINESS PRACTICE: SCANNED MODEL SALES
 
-Shapeways offer printing services, but you can also purchase your own 3DPrinter for quicker prototyping
-
-3D Printing Cast Metals via Shapeways
-
-Why This Is the Best 3D Printer - Comparing ALL My Printers!!!
-
-Business Practice: Shapeways Laser Printing
-
-Sell your 3D models through Printing on Demand (POD, printing only when someone pays for your product) at Shapeways and similar 3d print shops. Shapeways created shapejs a programmable product creator with many examples in JavaScript, this can be used to generate a large number of unique products (antique coin pendants, tiny statues of art in public domain, odd bobble heads, skeleton wallets, waveform rings, UPC/QR code bracelets or keychain doodads.).
-
-Business Practice: Scanned Model Sales
-
-You are not limited to digital models, you can experiment with 3dscanners as well. Take a look at the Shapeways Marketplace formore ideas.
-
-Explaining 3D Scanning
-
-Best 3D Scanners 2019
-
-
-[Amazon]: https://www.amazon.com/AMACO-AMA46317P-Clay-Gray-lbs/dp/B0009RRTA8/ref=sr_1_10?keywords=air+drying+clay&qid=1574898467&sr=8-10
-[3DPrinter]: https://en.wikipedia.org/wiki/3D_printing
-[Sell]: https://www.shapeways.com/marketplace
-[Shapeways]: https://www.shapeways.com/
-[shapejs]: https://shapejs.shapeways.com/
-[examples in JavaScript]: https://shapejs.shapeways.com/v2/examples
-[3dscanners]: https://en.wikipedia.org/wiki/3D_scanning
-[Shapeways Marketplace]: https://www.shapeways.com/marketplace
+You are not limited to digital models, you can experiment with 3dscanners[25] as well. Take a look at the Shapeways Marketplace[26] for
+more ideas.
+Explaining 3D Scanning[27]
+Best 3D Scanners 2019[28]
+ 
+References
+[1]: https://en.wikipedia.org/wiki/Auguste_Rodin
+[2]: https://www.youtube.com/watch?v=n_6p-1J551Y
+[3]: https://www.youtube.com/watch?v=ZqzjAmPFND8
+[4]: https://www.youtube.com/watch?v=1scj5sotD-E
+[5]: https://www.youtube.com/watch?v=zqNnOYoU5ls
+[6]: https://www.youtube.com/watch?v=Ibq1crh0OFA
+[7]: https://www.youtube.com/watch?v=nxdcj2tLQGE
+[8]: https://www.youtube.com/watch?v=J4l5rHNSq9s
+[9]: https://www.youtube.com/watch?v=IvUU8joBb1Q
+[10]: https://www.youtube.com/watch?v=ICBP-7x7Chc
+[11]: https://www.youtube.com/watch?v=lp9JO7qpIO4
+[12]: https://www.youtube.com/watch?v=a-Nsphndbj8
+[13]: https://www.youtube.com/watch?v=G3SVAN9TPbo
+[14]: https://www.youtube.com/watch?v=k00bCwWH92E
+[15]: https://www.youtube.com/watch?v=GhYwHcp-UV8
+[16]: https://www.amazon.com/AMACO-AMA46317P-Clay-Gray-lbs/dp/B0009RRTA8/ref=sr_1_10?keywords=air+drying+clay&qid=1574898467&sr=8-10
+[17]: https://www.youtube.com/watch?v=H4WtpO8vfTU
+[18]: https://en.wikipedia.org/wiki/3D_printing
+[19]: https://www.youtube.com/watch?v=9uxE_r9kEE8
+[20]: https://www.youtube.com/watch?v=YzF5YnUuN4Q
+[21]: https://www.shapeways.com/marketplace
+[22]: https://www.shapeways.com/
+[23]: https://shapejs.shapeways.com/
+[24]: https://shapejs.shapeways.com/v2/examples
+[25]: https://en.wikipedia.org/wiki/3D_scanning
+[26]: https://www.shapeways.com/marketplace
+[27]: https://www.youtube.com/watch?v=TTCiOoedUco
+[28]: https://www.youtube.com/watch?v=20b2JWz2TfE

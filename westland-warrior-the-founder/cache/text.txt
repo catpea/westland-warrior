@@ -1,98 +1,119 @@
-Startup Accelerators
+STARTUP ACCELERATORS
 
-There are two leading Startup Accelerators in US. Y Combinatorand Techstars.
+There are two leading Startup Accelerators[1] in US. Y Combinator[2]
+and Techstars[3].
 
-Y Combinator
+Y COMBINATOR
 
-Website · Y Combinator on YouTube
+Website[4] · Y Combinator on YouTube[5]
+Startup School Videos[6]
+What is Y Combinator?[7]
+How and Why to Start A Startup - Sam Altman & Dustin Moskovitz (44 minute lecture)[8]
 
-What is Y Combinator?
+INVESTORS ARE WAITING
 
-How and Why to Start A Startup - Sam Altman & Dustin Moskovitz (44 minute lecture)
+Y Combinator created Requests for Startups[9], a list of startup ideas
+they are waiting for. It includes Enterprise Software, Financial Services,
+Programming Tools, and Computer Security to name a few.
+YC Partner AMA at the Female Founders Conference[10]
+Fundraising Advice from Female Founders[11]
+The Most Important Decision is Getting Started – Laura Behrens Wu[12]
+Mariya Nurislamova, Founder of Scentbird at the Female Founders Conference[13]
+Emily Weiss on the Insights That Grew Glossier - With Amy Buechler at the Female Founders Conference[14]
 
-Investors Are Waiting
+TECHSTARS
 
-Y Combinator created Requests for Startups, a list of startup ideasthey are waiting for. It includes Enterprise Software, Financial Services,Programming Tools, and Computer Security to name a few.
+Website[15] · Techstars on YouTube[16]
+What is Techstars?[17]
+What Techstars Gave Me - Founder Stories[18]
+Mary Haskett, Founder of Blink Identity[19]
+Sky Kelley, Founder of Avisare[20]
 
-YC Partner AMA at the Female Founders Conference
+QUOTE BY SUN TZU
 
-Fundraising Advice from Female Founders
+> Victorious warriors win first and then go to war, while defeated warriors
+> go to war first and then seek to win.
+> 
+> Sun Tzu[21]
 
-The Most Important Decision is Getting Started – Laura Behrens Wu
+MASTERY OF SUBJECT
 
-Mariya Nurislamova, Founder of Scentbird at the Female Founders Conference
+What Sun Tzu hoped we understood was this: "Victorious warriors, master the
+sword before the battle; while defeated warriors hope to learn how to use
+the sword during their first sword-fight."
+Creating a tiny company with a winning product, even without filling out
+any paperwork. Will give you all the tools you need to sit down with an
+Accelerator, or your first investors and show them the relationship between
+advertising budget, number of developers, and product sales.
+What may feel intimidating when all you have, is an idea; will become
+energizing, and empowering when you have some sales to show for it.
 
-Emily Weiss on the Insights That Grew Glossier - With Amy Buechler at the Female Founders Conference
+IT IS A BIG WORLD
 
-Techstars
+Large Startup Accelerator acceptance rates are between 1% and 3%, but there
+are many more[22] smaller ones.
+Remember, you and your investors are connected. They make money, when you
+make money. Armed with a winning idea you already covered a great deal of
+distance towards success.
 
-Website · Techstars on YouTube
-
-What is Techstars?
-
-What Techstars Gave Me - Founder Stories
-
-Mary Haskett, Founder of Blink Identity
-
-Sky Kelley, Founder of Avisare
-
-Quote by Sun Tzu
-
-Victorious warriors win first and then go to war, while defeated warriorsgo to war first and then seek to win.
-
-Sun Tzu
-
-Mastery of Subject
-
-What Sun Tzu hoped we understood was this: "Victorious warriors, master thesword before the battle; while defeated warriors hope to learn how to usethe sword during their first sword-fight."
-Creating a tiny company with a winning product, even without filling outany paperwork. Will give you all the tools you need to sit down with anAccelerator, or your first investors and show them the relationship betweenadvertising budget, number of developers, and product sales.
-What may feel intimidating when all you have, is an idea; will becomeenergizing, and empowering when you have some sales to show for it.
-
-It Is a Big World
-
-Large Startup Accelerator acceptance rates are between 1% and 3%, but thereare many more smaller ones.
-Remember, you and your investors are connected. They make money, when youmake money. Armed with a winning idea you already covered a great deal ofdistance towards success.
-
-Good Ideas
+GOOD IDEAS
 
 A good idea, already has desperate customers searching for a way in.
-Google Ads is a Good Idea. Every business person on the internet needs to advertise to get customers to come over. Google has a unique position where many people come to visit its pages, thus they can display ads; they have an advertising network. They have something everybody needs the moment they are ready for their first sale.
-Squarespace or similar, is another great idea. It is a website that can generate a start-up website, based on some screenshots and text. Every start-up has screenshots, and no time to work on the website.
-Wrap Bootstrap: User Interfaces are hard. Having your team create a powerful computer program is one thing, but making it look nice; is another. This is why theme websites make sales. They have all the code, with all the colors and fonts matching, and it saves so much work to focus on the program and have the UI snippets ready.
-Parse, because saving data, is huge. When developing applications you need User Accounts, but also some place to store information. Parse has been Open Sourced, and all of the code is available here: https://parseplatform.org/
+Google Ads[23] is a Good Idea. Every business person on the internet needs to advertise to get customers to come over. Google has a unique position where many people come to visit its pages, thus they can display ads; they have an advertising network. They have something everybody needs the moment they are ready for their first sale.
+Squarespace[24] or similar, is another great idea. It is a website that can generate a start-up website, based on some screenshots and text. Every start-up has screenshots, and no time to work on the website.
+Wrap Bootstrap[25]: User Interfaces are hard. Having your team create a powerful computer program is one thing, but making it look nice; is another. This is why theme websites make sales. They have all the code, with all the colors and fonts matching, and it saves so much work to focus on the program and have the UI snippets ready.
+Parse[26], because saving data, is huge. When developing applications you need User Accounts, but also some place to store information. Parse has been Open Sourced, and all of the code is available here: https://parseplatform.org/[27]
 
-Danger
+DANGER
 
-Learning Programming to begin creating such marvels, will also destroythe pillars behind them; as the languages twist them to meet your owndeadlines.
-Sitting down to build your program, and invent it too, is only good forresearch, and not for meeting serious implementation goals or deadlines.
-You must separate yourself from the implementation (of which, in the end,there may be many).
-You must become the leader, the protector of your vision. And lead - that'sright - lead your team to victory.
+Learning Programming to begin creating such marvels, will also destroy
+the pillars behind them; as the languages twist them to meet your own
+deadlines.
+Sitting down to build your program, and invent it too, is only good for
+research, and not for meeting serious implementation goals or deadlines.
+You must separate yourself from the implementation (of which, in the end,
+there may be many).
+You must become the leader, the protector of your vision. And lead - that's
+right - lead your team to victory[28].
 
-Source of Ideas
+SOURCE OF IDEAS
 
-The best source of ideas, is a list of Winning Companies.
-Investors Requesting for Startups.
-List of mergers and acquisitions by Alphabet.
-Profit Hunt (a play on Product Hunt) has many smaller ideas along with Monthly Recurring Revenue (MRR).
-
-
-[Startup Accelerators]: https://en.wikipedia.org/wiki/Startup_accelerator
-[Y Combinator]: https://en.wikipedia.org/wiki/Y_Combinator_(company)
-[Techstars]: https://en.wikipedia.org/wiki/Techstars
-[Website]: https://www.ycombinator.com/
-[Y Combinator on YouTube]: https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg
-[Requests for Startups]: https://www.ycombinator.com/rfs/
-[Website]: https://www.techstars.com/
-[Techstars on YouTube]: https://www.youtube.com/channel/UClebMzrpRNTWVfZXw2jfsSw
-[many more]: https://duckduckgo.com/?q=List+of+Startup+Accelerators&t=ffab&ia=web
-[Google Ads]: https://www.youtube.com/watch?v=NV4DCdyLNgU
-[Squarespace]: https://www.squarespace.com/
-[Wrap Bootstrap]: https://wrapbootstrap.com/
-[Parse]: https://www.youtube.com/watch?v=89xIe8FbR2g
-[https://parseplatform.org/]: https://parseplatform.org/
-[lead your team to victory]: https://www.youtube.com/watch?v=ljqra3BcqWM
-[Winning Companies]: https://www.ycombinator.com/topcompanies/
-[Requesting for Startups]: https://www.ycombinator.com/rfs/
-[List of mergers and acquisitions by Alphabet]: https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Alphabet
-[Profit Hunt]: http://profithunt.co/
-[Product Hunt]: https://en.wikipedia.org/wiki/Product_Hunt
+The best source of ideas, is a list of Winning Companies[29].
+Investors Requesting for Startups[30].
+List of mergers and acquisitions by Alphabet[31].
+Profit Hunt[32] (a play on Product Hunt[33]) has many smaller ideas along with Monthly Recurring Revenue (MRR).
+ 
+References
+[1]: https://en.wikipedia.org/wiki/Startup_accelerator
+[2]: https://en.wikipedia.org/wiki/Y_Combinator_(company)
+[3]: https://en.wikipedia.org/wiki/Techstars
+[4]: https://www.ycombinator.com/
+[5]: https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg
+[6]: https://www.youtube.com/playlist?list=PLQ-uHSnFig5MiLRb-l6yiCBGyqfVyVf17
+[7]: https://www.youtube.com/watch?v=_4JtyLKDjXk
+[8]: https://www.youtube.com/watch?v=ZoqgAy3h4OM
+[9]: https://www.ycombinator.com/rfs/
+[10]: https://www.youtube.com/watch?v=waYiVrIGQ_0
+[11]: https://www.youtube.com/watch?v=GHoTciAH8Uo
+[12]: https://www.youtube.com/watch?v=ZAkzs4rgjOo
+[13]: https://www.youtube.com/watch?v=gmA-BOIVKQU
+[14]: https://www.youtube.com/watch?v=ex-fXyRJTU8
+[15]: https://www.techstars.com/
+[16]: https://www.youtube.com/channel/UClebMzrpRNTWVfZXw2jfsSw
+[17]: https://www.youtube.com/watch?v=S-3YgWroCdo
+[18]: https://www.youtube.com/watch?v=Apr2B7Ix0zs
+[19]: https://www.youtube.com/watch?v=NE6jxVk7G-8
+[20]: https://www.youtube.com/watch?v=oRjHsum2ImI
+[21]: https://en.wikipedia.org/wiki/Sun_Tzu
+[22]: https://duckduckgo.com/?q=List+of+Startup+Accelerators&t=ffab&ia=web
+[23]: https://www.youtube.com/watch?v=NV4DCdyLNgU
+[24]: https://www.squarespace.com/
+[25]: https://wrapbootstrap.com/
+[26]: https://www.youtube.com/watch?v=89xIe8FbR2g
+[27]: https://parseplatform.org/
+[28]: https://www.youtube.com/watch?v=ljqra3BcqWM
+[29]: https://www.ycombinator.com/topcompanies/
+[30]: https://www.ycombinator.com/rfs/
+[31]: https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Alphabet
+[32]: http://profithunt.co/
+[33]: https://en.wikipedia.org/wiki/Product_Hunt

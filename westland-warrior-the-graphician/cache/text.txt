@@ -1,34 +1,34 @@
-Demoscene
+DEMOSCENE
 
-Demoscene has been closely related to the world of pixel art, demos for computers like the Commodore 64 (1982) still feature in the Demoscene today. The demoscene is an international computer art subculture focused on producing demos: self-contained, sometimes extremely small, computer programs that produce audio-visual presentations. The purpose of a demo is to show off programming, visual art, and musical skills. Demos and other demoscene productions are shared at festivals known as demoparties, voted on by those who attend, and released online. Take a look at Best Of Demoscene 2019 on YouTube
-
-Commodore 64 Demoscene - February 2019
-
-Demoscene - fermi paradox - mercury
-
-Demoscene, The Strangest (and Coolest) Computer Subculture - Inside Gaming Explains
-
-Commodore 64 Black Box 4 Super Cartrige PL
-
-Intro by Fairlight
-
-Triad Intro Collection! Commodore 64 (C64) !
-
-Ikari Intro Collection ! Commodore 64 (C64)
-
-64 Legendary C64 Crack Intros
-
-C64 SID Music Compilation
-
-SID music, Jeff revisited in stereo Dolby Headphone
-
-Amiga Music, Jogeir Liljedahl Compilation #1
-
-The Black Lotus - Eon - Amiga Demo (50 FPS)
-
-Commodore Amiga best demos 1989-2004
-
-
-[Demoscene]: https://en.wikipedia.org/wiki/Demoscene
-[Commodore 64]: https://en.wikipedia.org/wiki/Commodore_64
-[Best Of Demoscene 2019 on YouTube]: https://www.youtube.com/watch?v=AmldRs7P8wI&list=PL9HVvEQXdWVY3_QkiBh-aWRfxKW7DJezG
+Demoscene[1] has been closely related to the world of pixel art, demos for computers like the Commodore 64[2] (1982) still feature in the Demoscene today. The demoscene is an international computer art subculture focused on producing demos: self-contained, sometimes extremely small, computer programs that produce audio-visual presentations. The purpose of a demo is to show off programming, visual art, and musical skills. Demos and other demoscene productions are shared at festivals known as demoparties, voted on by those who attend, and released online. Take a look at Best Of Demoscene 2019 on YouTube[3]
+Commodore 64 Demoscene - February 2019[4]
+Demoscene - fermi paradox - mercury[5]
+Demoscene, The Strangest (and Coolest) Computer Subculture - Inside Gaming Explains[6]
+Commodore 64 Black Box 4 Super Cartrige PL[7]
+Intro by Fairlight[8]
+Triad Intro Collection! Commodore 64 (C64) ![9]
+Ikari Intro Collection ! Commodore 64 (C64)[10]
+64 Legendary C64 Crack Intros[11]
+C64 SID Music Compilation[12]
+SID music, Jeff revisited in stereo Dolby Headphone[13]
+Amiga Music, Jogeir Liljedahl Compilation #1[14]
+The Black Lotus - Eon - Amiga Demo (50 FPS)[15]
+Commodore Amiga best demos 1989-2004[16]
+ 
+References
+[1]: https://en.wikipedia.org/wiki/Demoscene
+[2]: https://en.wikipedia.org/wiki/Commodore_64
+[3]: https://www.youtube.com/watch?v=AmldRs7P8wI&list=PL9HVvEQXdWVY3_QkiBh-aWRfxKW7DJezG
+[4]: https://www.youtube.com/watch?v=9dZj33gr-yw
+[5]: https://www.youtube.com/watch?v=JZ6ZzJeWgpY
+[6]: https://www.youtube.com/watch?v=VENFVhQqGls
+[7]: https://www.youtube.com/watch?v=JwNCNO615qQ
+[8]: https://www.youtube.com/watch?v=78D9MwLPidw
+[9]: https://www.youtube.com/watch?v=dwHUWC4P0rw
+[10]: https://www.youtube.com/watch?v=dTLswakQHKo
+[11]: https://www.youtube.com/watch?v=SFqBkSJOYOQ
+[12]: https://www.youtube.com/watch?v=2wbwKdV89pE
+[13]: https://www.youtube.com/watch?v=MiSlPuCqEoM
+[14]: https://www.youtube.com/watch?v=eclMFa0mD1c
+[15]: https://www.youtube.com/watch?v=uAjEUEbmCJw
+[16]: https://www.youtube.com/watch?v=b9J03KNy2mE

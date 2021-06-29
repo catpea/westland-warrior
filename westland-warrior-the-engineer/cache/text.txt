@@ -1,83 +1,88 @@
-7 MILLION VOLT TASER
-
-How to make a Wildlife Camera (using a Raspberry Pi!) | Maddie Moate
-
-DIY ARDUINO CAT FOOD DISPENSER
-
-HOW TO SOLDER
-
-What is worth desoldering from old electronics?
-
-Let´s build - BARKING DOG ALARM!
-
-Building my first ROBOT ARM!
-
-My first ROBOT - say hello to mBot
-
-ODROID-GO DIY GameBoy
-
-How to Make a Smart Security Camera With Movement Notification - Under 60$
-
-My First Raspberry Pi Smart Mirror
-
-ALEXA in my MagicMirror
-
-Pimoroni Pirate Audio Boards for Raspberry Pi
-
-Arduino vs. Raspberry Pi - Which is best?
-
-Raspberry Pi Cameras - The BIG Picture
-
-Sabre Builds a Raspberry Pi-Boy! (Gameboy Emulator)
-
-Porch Pirate Raspberry Pi HQ Camera | MotioneyeOS
-
-My Top 5 Raspberry Pi Projects
-
-How to 3D Print from your smartphone with Raspberry Pi, Octoprint and Astroprint
-
-Smart CCTV Camera (with Face Recognition) using Raspberry Pi 4 | Full Tutorial
-
-Raspberry Pi HQ Camera Ep 1 - Intro
-
-5 Best Budget 3D Printers in 2020
-
-3D Printing - 13 Things I Wish I Knew When I Got Started
-
-Soldering Tutorial Part 1 - Tools
-
-Soldering Tutorial Part 2 - Through Hole
-
-Soldering Tutorial Part 3 - Surface Mount
-
-How To Set Up An Electronics Lab
-
-EEVblog #532 - Silicon Chip Wafer Fab Mailbag
-
-EEVblog #951 - Mailbag
-
-EEVblog #686 - Mailbag
-
-How NOT to Make an Electric Guitar (The Hazards of Electricity)
-
-Making a Jacob's Ladder to Celebrate a Million Subs!
-
-Almost MELTING Metal with Induction Heater
-
-Graphite and Its Awesome Properties
-
-Building a Van De Graaff HIGH VOLTAGE Generator
-
-Am I Too Old To Learn Coding?! | Mimo App (Python Language)
-
-Coding For Kids in Python (Multipart Tutorial)
-
-Functions (Multipart Tutorial, Python)
-
-Hello World in Python
-
-The Art of Code - Dylan Beattie (Multi-language)
-
-Programming as Performance | Sam Aaron (Ruby Language)
-
-CS50 - Welcome To Harvard
+7 MILLION VOLT TASER[1]
+How to make a Wildlife Camera (using a Raspberry Pi!) | Maddie Moate[2]
+DIY ARDUINO CAT FOOD DISPENSER[3]
+HOW TO SOLDER[4]
+What is worth desoldering from old electronics?[5]
+Let´s build - BARKING DOG ALARM![6]
+Building my first ROBOT ARM![7]
+My first ROBOT - say hello to mBot[8]
+ODROID-GO DIY GameBoy[9]
+How to Make a Smart Security Camera With Movement Notification - Under 60$[10]
+My First Raspberry Pi Smart Mirror[11]
+ALEXA in my MagicMirror[12]
+Pimoroni Pirate Audio Boards for Raspberry Pi[13]
+Arduino vs. Raspberry Pi - Which is best?[14]
+Raspberry Pi Cameras - The BIG Picture[15]
+Sabre Builds a Raspberry Pi-Boy! (Gameboy Emulator)[16]
+Porch Pirate Raspberry Pi HQ Camera | MotioneyeOS[17]
+My Top 5 Raspberry Pi Projects[18]
+How to 3D Print from your smartphone with Raspberry Pi, Octoprint and Astroprint[19]
+Smart CCTV Camera (with Face Recognition) using Raspberry Pi 4 | Full Tutorial[20]
+Raspberry Pi HQ Camera Ep 1 - Intro[21]
+5 Best Budget 3D Printers in 2020[22]
+3D Printing - 13 Things I Wish I Knew When I Got Started[23]
+[24]
+Soldering Tutorial Part 1 - Tools[25]
+Soldering Tutorial Part 2 - Through Hole[26]
+Soldering Tutorial Part 3 - Surface Mount[27]
+How To Set Up An Electronics Lab[28]
+EEVblog #532 - Silicon Chip Wafer Fab Mailbag[29]
+EEVblog #951 - Mailbag[30]
+EEVblog #686 - Mailbag[31]
+How NOT to Make an Electric Guitar (The Hazards of Electricity)[32]
+Making a Jacob's Ladder to Celebrate a Million Subs![33]
+Almost MELTING Metal with Induction Heater[34]
+Graphite and Its Awesome Properties[35]
+Building a Van De Graaff HIGH VOLTAGE Generator[36]
+Am I Too Old To Learn Coding?! | Mimo App (Python Language)[37]
+Coding For Kids in Python (Multipart Tutorial)[38]
+Functions (Multipart Tutorial, Python)[39]
+Hello World in Python[40]
+The Art of Code - Dylan Beattie (Multi-language)[41]
+Programming as Performance | Sam Aaron (Ruby Language)[42]
+CS50 - Welcome To Harvard[43]
+ 
+References
+[1]: https://www.youtube.com/watch?v=DOMs7mYm_zs
+[2]: https://www.youtube.com/watch?v=IiOH5LUVkWo
+[3]: https://www.youtube.com/watch?v=Gn0ZUJUjnf4
+[4]: https://www.youtube.com/watch?v=ZwU9SqO0udU
+[5]: https://www.youtube.com/watch?v=Nb78wF1Tkwc
+[6]: https://www.youtube.com/watch?v=DMwRPjqXCnI
+[7]: https://www.youtube.com/watch?v=G3zEjdOkGgE
+[8]: https://www.youtube.com/watch?v=I7a2cbYHXDk
+[9]: https://www.youtube.com/watch?v=1Zdq8cLC19s
+[10]: https://www.youtube.com/watch?v=lM8ocJeryEg
+[11]: https://www.youtube.com/watch?v=wdaBi33nd3k
+[12]: https://www.youtube.com/watch?v=CPyGChvNEaA
+[13]: https://www.youtube.com/watch?v=dGiC3B_XZs8
+[14]: https://www.youtube.com/watch?v=7vhvnaWUZjE
+[15]: https://www.youtube.com/watch?v=MVgr302PNwY
+[16]: https://www.youtube.com/watch?v=RXpgLFpSBHY
+[17]: https://www.youtube.com/watch?v=kdsnmEEF3dw
+[18]: https://www.youtube.com/watch?v=LIggVgEc94c
+[19]: https://www.youtube.com/watch?v=8m8fDGqDIv8
+[20]: https://www.youtube.com/watch?v=6nY-V_WG7oI
+[21]: https://www.youtube.com/watch?v=M1yaenrGF1o
+[22]: https://www.youtube.com/watch?v=xpykWSymAhU
+[23]: https://www.youtube.com/watch?v=LvGKfevdf_Q
+[24]: https://www.youtube.com/watch?v=T-Z3GmM20JM
+[25]: https://www.youtube.com/watch?v=J5Sb21qbpEQ
+[26]: https://www.youtube.com/watch?v=fYz5nIHH0iY
+[27]: https://www.youtube.com/watch?v=b9FC9fAlfQE
+[28]: https://www.youtube.com/watch?v=R_PbjbRaO2E
+[29]: https://www.youtube.com/watch?v=y0WEx0Gwk1E
+[30]: https://www.youtube.com/watch?v=t-vNo6H5gww
+[31]: https://www.youtube.com/watch?v=RRgjgs3NnnE
+[32]: https://www.youtube.com/watch?v=TwIvUbOhcKE
+[33]: https://www.youtube.com/watch?v=lT3vGaOLWqE
+[34]: https://www.youtube.com/watch?v=hFJeIt_JcEc
+[35]: https://www.youtube.com/watch?v=5YBwDNfOaxU
+[36]: https://www.youtube.com/watch?v=im-PLK7ePhQ
+[37]: https://www.youtube.com/watch?v=Hyuk9dlRY8M
+[38]: https://www.youtube.com/watch?v=uzyiCpsS0qQ
+[39]: https://www.youtube.com/watch?v=5owr-6suOl0
+[40]: https://www.youtube.com/watch?v=KOdfpbnWLVo
+[41]: https://www.youtube.com/watch?v=6avJHaC3C2U
+[42]: https://www.youtube.com/watch?v=TK1mBqKvIyU
+[43]: https://www.youtube.com/watch?v=jjqgP9dpD1k

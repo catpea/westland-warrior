@@ -1,43 +1,46 @@
-Introduction to Interactive Fiction
-
-Harvesting Interactive Fiction (IF)
-
-GDC Microtalk: Emily Short - Creating Great Protagonists
-
-AdventureX 2016 - Emily Short: The Past, Present and Future of Interactive Fiction
-
-Gaming Culture: What ever happened with Text Adventure Games ? (Interactive Fiction)
-
-GET LAMP: The Text Adventure Documentary
-
-Infocom: The Documentary
-
-Classic Game Postmortem: Infocom's Zork
-
-Text Adventures - Lost Treasures of Infocom
-
-Colossal Cave Adventure
-
-Colossal Cave Adventure play-through
-
-ZORK I Illustrated Part I: The Mysterious White House
-
-Animated Text Adventures - ZORK - PART 1/2
-
-Animated Text Adventures - ZORK - PART 2/2
-
-Let's play One Room (1983) — the first single-room text adventure game?
-
-Interactive Storytelling - Intro to Twine
-
-Beginning Interactive Fiction with Twine and SugarCube - E1 - Getting Started
-
-Beginning Interactive Fiction with Twine and SugarCube - E2 - Formatting
-
-Beginning Interactive Fiction with Twine and SugarCube - E3 - Variables
-
-Beginning Interactive Fiction with Twine and SugarCube - E4 - If Statements, Part One
-
-Beginning Interactive Fiction with Twine and SugarCube - E5 - If Statements, Part Two
-
-Games like Bandersnatch | The evolution of interactive fiction on PC
+Introduction to Interactive Fiction[1]
+Harvesting Interactive Fiction (IF)[2]
+GDC Microtalk: Emily Short - Creating Great Protagonists[3]
+AdventureX 2016 - Emily Short: The Past, Present and Future of Interactive Fiction[4]
+Gaming Culture: What ever happened with Text Adventure Games ? (Interactive Fiction)[5]
+GET LAMP: The Text Adventure Documentary[6]
+Infocom: The Documentary[7]
+Classic Game Postmortem: Infocom's Zork[8]
+Text Adventures - Lost Treasures of Infocom[9]
+Colossal Cave Adventure[10]
+Colossal Cave Adventure play-through[11]
+ZORK I Illustrated Part I: The Mysterious White House[12]
+Animated Text Adventures - ZORK - PART 1/2[13]
+Animated Text Adventures - ZORK - PART 2/2[14]
+Let's play One Room (1983) — the first single-room text adventure game?[15]
+Interactive Storytelling - Intro to Twine[16]
+Beginning Interactive Fiction with Twine and SugarCube - E1 - Getting Started[17]
+Beginning Interactive Fiction with Twine and SugarCube - E2 - Formatting[18]
+Beginning Interactive Fiction with Twine and SugarCube - E3 - Variables[19]
+Beginning Interactive Fiction with Twine and SugarCube - E4 - If Statements, Part One[20]
+Beginning Interactive Fiction with Twine and SugarCube - E5 - If Statements, Part Two[21]
+Games like Bandersnatch | The evolution of interactive fiction on PC[22]
+ 
+References
+[1]: https://www.youtube.com/watch?v=dJoe9BQ6z6c
+[2]: https://www.youtube.com/watch?v=EXW1ts6tZh4
+[3]: https://www.youtube.com/watch?v=xefWN5qEY3A
+[4]: https://www.youtube.com/watch?v=bx5ZLGBZAWs
+[5]: https://www.youtube.com/watch?v=EpR4Txswh6E
+[6]: https://www.youtube.com/watch?v=LRhbcDzbGSU
+[7]: https://www.youtube.com/watch?v=OXNLWy7rwH4
+[8]: https://www.youtube.com/watch?v=FXdmo2j_CiQ
+[9]: https://www.youtube.com/watch?v=DVZfj9aR98o
+[10]: https://www.youtube.com/watch?v=LaKTaAV5Lyg
+[11]: https://www.youtube.com/watch?v=O3etkSoHrR8
+[12]: https://www.youtube.com/watch?v=-4k2QzT9yqg
+[13]: https://www.youtube.com/watch?v=f4ZVzl_H_2w
+[14]: https://www.youtube.com/watch?v=exwXHX6PpuY
+[15]: https://www.youtube.com/watch?v=FuJQqBVZGnw
+[16]: https://www.youtube.com/watch?v=ZnARX2ToqYc
+[17]: https://www.youtube.com/watch?v=sKdAjohLUtk
+[18]: https://www.youtube.com/watch?v=_pJHIao5lz4
+[19]: https://www.youtube.com/watch?v=GvIznSekEM4
+[20]: https://www.youtube.com/watch?v=htytAxryZsA
+[21]: https://www.youtube.com/watch?v=Bj2-je1f5Ms
+[22]: https://www.youtube.com/watch?v=S1R-mtX-2rs
