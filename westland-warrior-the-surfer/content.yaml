@@ -110,18 +110,6 @@
   title: "Red Bull King Of The Air 2020 - The Queen Angely Bouillot"
 
 - type: youtube
-  id: X0A1suBPSoY
-  title: "Kiteboarding is Awesome 1"
-
-- type: youtube
-  id: 1MO7gXF05-8
-  title: "Kiteboarding is Awesome 2"
-
-- type: youtube
-  id: UiTmqRhU4l4
-  title: "Kiteboarding is Awesome 3"
-
-- type: youtube
   id: ZXnFUADgmls
   title: "Kite Trip Tips, Zanzibar"
 
@@ -136,6 +124,18 @@
 - type: youtube
   id: dlI3NiuZQ58
   title: "Awesome Kiteboarding Action in Rio and Teahupoo"
+
+- type: youtube
+  id: X0A1suBPSoY
+  title: "Kiteboarding is Awesome 1"
+
+- type: youtube
+  id: 1MO7gXF05-8
+  title: "Kiteboarding is Awesome 2"
+
+- type: youtube
+  id: UiTmqRhU4l4
+  title: "Kiteboarding is Awesome 3"
 
 
 # Kiteboarding Lesson Overview
