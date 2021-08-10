@@ -137,23 +137,6 @@
 
 
 
-# DIY
-
-- type: youtube
-  id: G2IX2ocEC9U
-  title: "Cantoya Fest 2018 Pátzcuaro Mexico"
-
-- type: youtube
-  id: NFkGJEI2eUQ
-  title: "How to make a hot air balloon"
-
-- type: youtube
-  id: a27s18j05aQ
-  title: "Aerostat DIY"
-
-- type: youtube
-  id: mfD6wPs5vnE
-  title: "An Extreme Flying!"
 
 # Camera Up
 
@@ -184,6 +167,25 @@
 - type: youtube
   id: kAhaIDNVyC0
   title: "Bobblehead in Space"
+
+
+# DIY
+
+- type: youtube
+  id: G2IX2ocEC9U
+  title: "Cantoya Fest 2018 Pátzcuaro Mexico"
+
+- type: youtube
+  id: NFkGJEI2eUQ
+  title: "How to make a hot air balloon"
+
+- type: youtube
+  id: a27s18j05aQ
+  title: "Aerostat DIY"
+
+- type: youtube
+  id: mfD6wPs5vnE
+  title: "An Extreme Flying!"
 
 # End
 
