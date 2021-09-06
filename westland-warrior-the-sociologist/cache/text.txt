@@ -1,9 +1,9 @@
 The Lucifer effect - an interview by DPU with Philip G. Zimbardo[1]
 The Stanford Prison Experiment Official Trailer (About Philip Zimbardo's Research)[2]
 History vs. Richard Nixon - Alex Gendler[3]
-Stanislav Petrov[4]
-Vasili Arkhipov[5]
-The history of the Cuban Missile Crisis - Matthew A. Jordan[6]
+The history of the Cuban Missile Crisis - Matthew A. Jordan[4]
+Stanislav Petrov[5]
+Vasili Arkhipov[6]
 The rise and fall of the Berlin Wall - Konrad H. Jarausch[7]
 What “Machiavellian” really means - Pazit Cahlon and Alex Gendler[8]
 What makes something "Kafkaesque"? - Noah Tavlin[9]
@@ -49,9 +49,9 @@ References
 [1]: https://www.youtube.com/watch?v=sTX-XGbPFHE
 [2]: https://www.youtube.com/watch?v=3XN2X72jrFk
 [3]: https://www.youtube.com/watch?v=MX_HYL6-0Co
-[4]: https://www.youtube.com/watch?v=L7EmLf4Xlq0
-[5]: https://www.youtube.com/watch?v=iLokpu4ixQE
-[6]: https://www.youtube.com/watch?v=bwWW3sbk4EU
+[4]: https://www.youtube.com/watch?v=bwWW3sbk4EU
+[5]: https://www.youtube.com/watch?v=L7EmLf4Xlq0
+[6]: https://www.youtube.com/watch?v=iLokpu4ixQE
 [7]: https://www.youtube.com/watch?v=A9fQPzZ1-hg
 [8]: https://www.youtube.com/watch?v=fUlGtrHCGzs
 [9]: https://www.youtube.com/watch?v=wkPR4Rcf4ww
