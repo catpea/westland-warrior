@@ -1,32 +1,74 @@
-https://www.youtube.com/watch?v=lYGbfKWTplk
-Purpose of Education by Claire Boonstra
+- type: youtube
+  id: yprpoPc2g0k
+  title: 'How a Double Agent Prevented Nuclear War'
 
-https://www.youtube.com/watch?v=Ke4IqLjOrHA
-What is education for? by Deborah Duncan
+- type: youtube
+  id: L7EmLf4Xlq0
+  title: 'Stanislav Petrov, who averted possible nuclear war'
 
-https://www.youtube.com/watch?v=pI1GtWRI55A
-The Power of Potential: Student Centered Learning by Ayla Postelnek
-
-https://www.youtube.com/watch?v=3SDO3TMwfCE
-Rote Learning Messed Me Up As An Adult
-
-https://www.youtube.com/watch?v=-XTCSTW24Ss
-Sir Ken Robinson - Leading a Learning Revolution
+- type: youtube
+  id: iLokpu4ixQE
+  title: 'Vasili Arkhipov, Award winner for averting nuclear war'
 
 ###
 
-https://www.youtube.com/watch?v=JVqMAlgAnlo
-Education Is a System of Indoctrination of the Young - Noam Chomsky
+- type: youtube
+  id: pUanS5OWy_k
+  title: 'If Student Loans Were Honest - Honest Ads (College Debt)'
 
-https://www.youtube.com/watch?v=DdNAUJWJN08
-Noam Chomsky - The Purpose of Education
+- type: youtube
+  id: bNpx7gpSqbY
+  title: 'The single biggest reason why start-ups succeed | Bill Gross'
 
-https://www.youtube.com/watch?v=e_EgdShO1K8
-Education For Whom and For What?
+- type: youtube
+  id: DVD8YRgA-ck
+  title: 'Daring Classrooms by Brené Brown'
 
-https://www.youtube.com/watch?v=HQy4yDx01bA
-Jason Stanley - Education vs Indoctrination
+- type: youtube
+  id: lYGbfKWTplk
+  title: 'Purpose of Education by Claire Boonstra'
 
+- type: youtube
+  id: Ke4IqLjOrHA
+  title: 'What is education for? by Deborah Duncan'
+
+- type: youtube
+  id: pI1GtWRI55A
+  title: 'The Power of Potential: Student Centered Learning by Ayla Postelnek'
+
+- type: youtube
+  id: 3SDO3TMwfCE
+  title: 'Rote Learning Messed Me Up As An Adult'
+
+- type: youtube
+  id: -XTCSTW24Ss
+  title: 'Sir Ken Robinson - Leading a Learning Revolution'
+
+###
+
+- type: youtube
+  id: JVqMAlgAnlo
+  title: 'Education Is a System of Indoctrination of the Young - Noam Chomsky'
+
+- type: youtube
+  id: DdNAUJWJN08
+  title: 'Noam Chomsky - The Purpose of Education'
+
+- type: youtube
+  id: e_EgdShO1K8
+  title: 'Education For Whom and For What?'
+
+- type: youtube
+  id: HQy4yDx01bA
+  title: 'Jason Stanley - Education vs Indoctrination'
+
+- type: youtube
+  id: BQ2_BwqcFsc
+  title: 'How Falling Behind Can Get You Ahead by David Epstein'
+
+- type: youtube
+  id: zuoPZkFcLVs
+  title: "Rethinking Challenging Kids-Where There's a Skill There's a Way | J. Stuart Ablon"
 
 - type: youtube
   id: VqWnumbraI4
@@ -40,67 +82,141 @@ Jason Stanley - Education vs Indoctrination
   id: 5g8tHEXtCXE
   title: 'Why Most Parenting Advice is Wrong'
 
+- type: youtube
+  id: 6fL09e8Tm9c
+  title: 'How To Raise Emotionally Intelligent Children | Lael Stone'
+
+- type: youtube
+  id: NXhddUqNNjo
+  title: '5 Dangerous Things You Should Let Your Children Do: Gever Tulley'
+
+
 ### Publication Bias
 
-https://www.youtube.com/watch?v=DSlye63OlCE
-Understanding Publication Bias in Research
+- type: youtube
+  id: DSlye63OlCE
+  title: 'Understanding Publication Bias in Research'
 
 ### Reproducibility
 
-https://www.youtube.com/watch?v=FpCrY7x5nEE
-Is there a reproducibility crisis in science? - Matt Anticole
+- type: youtube
+  id: FpCrY7x5nEE
+  title: 'Is there a reproducibility crisis in science? - Matt Anticole'
 
-https://www.youtube.com/watch?v=GUpd2HJHUt8
-Not all scientific studies are created equal - David H. Schwartz
+- type: youtube
+  id: GUpd2HJHUt8
+  title: 'Not all scientific studies are created equal - David H. Schwartz'
 
-https://www.youtube.com/watch?v=n0v0jUeFGQ0
-If Antidepressant Commercials Were Honest - Honest Ads
+- type: youtube
+  id: n0v0jUeFGQ0
+  title: 'If Antidepressant Commercials Were Honest - Honest Ads'
 
 ## Overmedication
 
-https://www.youtube.com/watch?v=Wd3_Iq8P3Fo
-'Psych-Drugs Harm - One: Robert Whitaker - A History'
+- type: youtube
+  id: Wd3_Iq8P3Fo
+  title: 'Psych-Drugs Harm - One: Robert Whitaker - A History'
 
-https://www.youtube.com/watch?v=GNpGe5r0jI0
-'Psych-Drugs Harm - Two: Peter Gøtzsche - Few Benefit, Many Harmed'
+- type: youtube
+  id: GNpGe5r0jI0
+  title: 'Psych-Drugs Harm - Two: Peter Gøtzsche - Few Benefit, Many Harmed'
 
-https://www.youtube.com/watch?v=vy6HnFIxO3U
-'There\'s No Such Thing as an Antidepressant: UCLA Professor David Cohen, PhD'
+- type: youtube
+  id: vy6HnFIxO3U
+  title: "There's No Such Thing as an Antidepressant: UCLA Professor David Cohen, PhD"
 
 ##
 
-https://www.youtube.com/watch?v=78qcDIjRO8I
-China Is Threatening Academic Freedom in Australian Universities
+- type: youtube
+  id: o65l1YAVaYc
+  title: "Vaccines Don't Cause Autism"
 
-https://www.youtube.com/watch?v=l8wWoQ3_F00
-The Extreme 996 Work Culture in China
+
+- type: youtube
+  id: c0Z7KeNCi7g
+  title: 'Homeopathy, quackery and fraud | James Randi'
+
+- type: youtube
+  id: IzZh2wstj88
+  title: 'Richard Dawkins - The God Delusion - Full Documentary'
+
+- type: youtube
+  id: 5sRBGGzdsl8
+  title: 'Richard Dawkins: The God Delusion + Questions and Answers'
+
+- type: youtube
+  id: n7IHU28aR2E
+  title: 'The Four Horseman - Hitchens, Dawkins, Dennet, Harris'
+
+- type: youtube
+  id: NJG-lgmPvYA
+  title: 'Hells Angel (Mother Teresa) - Christopher Hitchens'
+
+
+
+##
+
+- type: youtube
+  id: 78qcDIjRO8I
+  title: 'China Is Threatening Academic Freedom in Australian Universities'
+
+- type: youtube
+  id: l8wWoQ3_F00
+  title: 'The Extreme 996 Work Culture in China'
+
+### Led
+
+- type: youtube
+  id: esPRsT-lmw8
+  title: 'The most important lesson from 83,000 brain scans | Daniel Amen'
+
+- type: youtube
+  id: -fSwH4kO0Lo
+  title: 'Know a hero: Clair Patterson'
+
+- type: youtube
+  id: pqg9jH1xwjI
+  title: 'Lead for Life - the history of leaded gasoline - an excerpt'
 
 ###
 
-https://www.youtube.com/watch?v=Jb4NvK7aVYM
-Millions of People in the US Live Without Access to Safe Water
+- type: youtube
+  id: Jb4NvK7aVYM
+  title: 'Millions of People in the US Live Without Access to Safe Water'
 
-https://www.youtube.com/watch?v=xfMFVR9Hyn8
-The Devastating Impact of Criminalizing Abortion in Ecuador
+- type: youtube
+  id: xfMFVR9Hyn8
+  title: 'The Devastating Impact of Criminalizing Abortion in Ecuador'
 ### Ending
 
-https://www.youtube.com/watch?v=cTEDJPW5BI8
-Prison is Horrible But Not For the Reason You Think
+- type: youtube
+  id: cTEDJPW5BI8
+  title: 'Prison is Horrible But Not For the Reason You Think'
 
-https://www.youtube.com/watch?v=CwsVZKXWhxc
-Why I've Been In Prison 46yrs
+- type: youtube
+  id: A343tlP5iUA
+  title: 'The Power of Deliberate LIstening | Ronnie Polaneczky'
 
-https://www.youtube.com/watch?v=TfjZhrVOLXs
-My 46th Christmas Dinner in Prison
+- type: youtube
+  id: CwsVZKXWhxc
+  title: "Why I've Been In Prison 46yrs"
 
-https://www.youtube.com/watch?v=8LeHjY5T4Rw
-Viktor Frankl: Why education is failing
+- type: youtube
+  id: TfjZhrVOLXs
+  title: 'My 46th Christmas Dinner in Prison'
 
-https://www.youtube.com/watch?v=ImonPWt7VOA
-Viktor Frankl: Youngsters need challenges
+- type: youtube
+  id: 8LeHjY5T4Rw
+  title: 'Viktor Frankl: Why education is failing'
 
-https://www.youtube.com/watch?v=A41CQzqUj8c
-WILD 2014 - El Condor Pasa - Paul Simon & Garfunkel
+- type: youtube
+  id: ImonPWt7VOA
+  title: 'Viktor Frankl: Youngsters need challenges'
 
-https://www.youtube.com/watch?v=hPSvdKTEZug
-What is the Appalachian Trail?
+- type: youtube
+  id: A41CQzqUj8c
+  title: 'WILD 2014 - El Condor Pasa - Paul Simon & Garfunkel'
+
+- type: youtube
+  id: hPSvdKTEZug
+  title: 'What is the Appalachian Trail?'
