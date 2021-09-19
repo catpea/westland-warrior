@@ -1,16 +1,40 @@
-# "westland-warrior-the-ecologist"
-
 - type: youtube
   id: GEcE1FLRDL0
   title: "Hamilton - Moby Dick : Call Me Ishmael"
 
+#######################################################################
+- type: subtitle
+  title: Plastic
+#######################################################################
+
+- type: youtube
+  id: wXD3w4KVmnU
+  title: "12 Cancer Causing Foods That You Should Not Eat"
+
+- type: youtube
+  id: I75qa0kTeY4
+  title: "Here's what's in your bottled water (Marketplace)"
+
+- type: youtube
+  id: 2_6R0fhGtHQ
+  title: "The Dangerous Chemicals In Your Plastic Packages"
+
+- type: youtube
+  id: RS7IzU2VJIQ
+  title: "Plastic Pollution: How Humans are Turning the World into Plastic"
+
+- type: youtube
+  id: 1RDc2opwg0I
+  title: "The Plastic Problem - A PBS NewsHour Documentary"
+
+#######################################################################
+- type: subtitle
+  title: Recycling
+#######################################################################
+
 - type: youtube
   id: _riGg2BW8Jw
   title: "If Recycling Were Honest"
-
-- type: youtube
-  id: MnCbTTTi7ic
-  title: "The Great Pacific Garbage Patch"
 
 - type: youtube
   id: PJnJ8mK3Q3g
@@ -24,11 +48,31 @@
   id: zVBkjMbF4Z4
   title: "Is Your Plastic Actually Being Recycled?"
 
-- type: youtube
-  id: 1RDc2opwg0I
-  title: "The Plastic Problem - A PBS NewsHour Documentary"
+#######################################################################
+- type: subtitle
+  title: The Great Pacific Garbage Patch
+#######################################################################
 
-###
+- type: youtube
+  id: MnCbTTTi7ic
+  title: "The Great Pacific Garbage Patch"
+
+- type: youtube
+  id: 6HBtl4sHTqU
+  title: "The Great Pacific Garbage Patch Is Not What You Think It Is"
+
+- type: youtube
+  id: fsjvwQclGLo
+  title: "Why 99% of ocean plastic pollution is 'missing'"
+
+- type: youtube
+  id: soi6HywFSC4
+  title: "Meet the man who swam through the Great Pacific Garbage Patch"
+
+#######################################################################
+- type: subtitle
+  title: Poisoning
+#######################################################################
 
 - type: youtube
   id: tug_E9YKye0
@@ -42,17 +86,13 @@
   id: X4DXZ78uAo8
   title: "Asbestos in Brakes Dont Blow It 1986 EPA"
 
-###
-
 - type: youtube
   id: 0Hh5MYv7lWc
   title: "Spray foam insulation nightmare: What can happen if it's not installed correctly"
 
-###
-
-# - type: youtube
-#   id: ScpGNGYQE4w
-#   title: "(GRAPHIC CONTENT) US Lead Poisoning -- Documentary (2017)"
+- type: youtube
+  id: ScpGNGYQE4w
+  title: "(GRAPHIC CONTENT) US Lead Poisoning -- Documentary (2017)"
 
 - type: youtube
   id: 76RKSQgduVQ
@@ -62,7 +102,10 @@
   id: XlVumwUBdLA
   title: "History and Uses of Lead and Lead Poisoning (Full Version) Caravanos"
 
-###
+#######################################################################
+- type: subtitle
+  title: Depleted Uranium And Agent Orange
+#######################################################################
 
 - type: youtube
   id: M7hOpT0lPGI
@@ -72,17 +115,17 @@
   id: PVYKw6L8TMo
   title: "Depleted Uranium (DU) vs Tungsten"
 
-# - type: youtube
-#   id: psfK8ijrzyc
-#   title: "(GRAPHIC CONTENT) Invisible War - Depleted Uranium and the politics of radiation"
-#
-# - type: youtube
-#   id: AhhiiTaTQcM
-#   title: "(GRAPHIC CONTENT) IRAQ: BASRA: DEPLETED URANIUM WEAPONS (V)"
+- type: youtube
+  id: psfK8ijrzyc
+  title: "(GRAPHIC CONTENT) Invisible War - Depleted Uranium and the politics of radiation"
 
-# - type: youtube
-#   id: BIHhpfzlMlw
-#   title: "US use of depleted uranium = war crimes?"
+- type: youtube
+  id: AhhiiTaTQcM
+  title: "(GRAPHIC CONTENT) IRAQ: BASRA: DEPLETED URANIUM WEAPONS (V)"
+
+- type: youtube
+  id: BIHhpfzlMlw
+  title: "US use of depleted uranium = war crimes?"
 
 - type: youtube
   id: Je2x-_G7Lok
@@ -92,14 +135,9 @@
   id: ktDegNV8WOk
   title: "The Fight Against Depleted Uranium: RISE (Clip)"
 
-### A Section for Ken
-
 - type: youtube
   id: MOSgnL6cZ4I
-  title: "Ken Studied The Depleted Uranium, And It is A-OK."
-
-
-###
+  title: "Stuties The Avoid Areas Where Evicence Exists Can State That They Found No Evidence"
 
 - type: youtube
   id: RLr3Rf4Gls8
@@ -109,7 +147,10 @@
   id: wUZA0GAMmfI
   title: "Film of US Soldiers spraying Agent Orange defoliant onto a riverbank without protective equipment"
 
-###
+#######################################################################
+- type: subtitle
+  title: Nuclear Waste
+#######################################################################
 
 - type: youtube
   id: imsRLscqTW0
@@ -117,9 +158,28 @@
 
 - type: youtube
   id: ZwY2E0hjGuU
-  title: "(DARK HUMOR) Nuclear Waste: Last Week Tonight with John Oliver"
+  title: "(DARK 'HUMOR') Nuclear Waste: Last Week Tonight with John Oliver"
 
-### Trees
+- type: youtube
+  id: lOEqzt36JEM
+  title: "Why danger symbols can’t last forever"
+
+- type: youtube
+  id: YzbvTvlErE0
+  title: "Nuclear Waste Disposal Documentary"
+
+- type: youtube
+  id: ykRb0Iibckk
+  title: "Australia's Desert: The Nuclear Waste Dump?"
+
+- type: youtube
+  id: y8ZinG2PZv4
+  title: "How to make a nuclear waste glass"
+
+#######################################################################
+- type: subtitle
+  title: Deforestation
+#######################################################################
 
 - type: youtube
   id: SAZAKPUQMw0
@@ -127,20 +187,79 @@
 
 - type: youtube
   id: 3hxE7Af98AI
-  title: "What if there were 1 trillion more trees? - Jean-François Bastin"
+  title: "What if there were 1 trillion more trees?"
 
-### Coral
+- type: youtube
+  id: fAoobn4U0m4
+  title: "Deforestation threatens lungs of the planet"
+
+- type: youtube
+  id: L9zWDtDKDS8
+  title: "Satellite shows extent of terrible destruction to the planet"
+
+- type: youtube
+  id: P_bJjPR4Xog
+  title: "10 myths about deforestation | WWF"
+
+#######################################################################
+- type: subtitle
+  title: Coral Bleaching
+#######################################################################
 
 - type: youtube
   id: 5cr8S5tTiz4
   title: "What is coral bleaching? Can it be fixed?"
 
 - type: youtube
+  id: fA6mpexcyN4
+  title: "What Is Coral Bleaching?"
+
+- type: youtube
+  id: aGGBGcjdjXA
+  title: "Chasing Coral"
+
+- type: youtube
+  id: 14ot4DrXdds
+  title: "What's Killing The Coral Reefs?"
+
+- type: youtube
+  id: 8hknaJQRh8s
+  title: "How Scientists Are Restoring The Great Barrier Reef"
+
+- type: youtube
   id: x5LshSZn5RA
   title: "Yes, we can save the world’s coral reefs by Terry Hughes"
 
+#######################################################################
+- type: subtitle
+  title: Deoxygenation, Ocean Dead Zones
+#######################################################################
 
-### Fracking
+- type: youtube
+  id: ovl_XbgmCbw
+  title: "Can the ocean run out of oxygen? - Kate Slabosky"
+
+- type: youtube
+  id: chp3rtJLJtk
+  title: "A Breathless Ocean"
+
+- type: youtube
+  id: YQd8FUELp7w
+  title: "The Gulf of Mexico's dead zone, explained"
+
+- type: youtube
+  id: hrHGwFrqIgg
+  title: "Ocean Deoxygenation: Our Ocean's Oxygen Supply & Demand Issue"
+
+- type: youtube
+  id: Bmg-ybhjC88
+  title: "Patterns of deoxygenation in the global oceans"
+
+
+#######################################################################
+- type: subtitle
+  title: Fracking And Spills
+#######################################################################
 
 - type: youtube
   id: g5QqidiEEHw
@@ -149,6 +268,39 @@
 - type: youtube
   id: dEB_Wwe-uBM
   title: "Fracking Hell: The Untold Story"
+
+- type: youtube
+  id: wyLpLybcCyE
+  title: "Gulf of Mexico on Fire After Gas Leak in Underwater Pipeline"
+
+- type: youtube
+  id: CyGNNbeutRI
+  title: "The Oil Layer"
+
+- type: youtube
+  id: QsRUP8hxoAk
+  title: "Keystone Pipeline Leak Impact on NE"
+
+- type: youtube
+  id: MEIerHQ9IAw
+  title: "Animated map of the major oil and gas pipelines in the US"
+
+- type: youtube
+  id: OYTL8kJlMSA
+  title: "Keystone Pipeline shut down after leak"
+
+- type: youtube
+  id: OmPOAxQ8P_E
+  title: "State demands more well, water testing months after Colonial Pipeline leak"
+
+- type: youtube
+  id: BlNE278zYr0
+  title: "Colonial Pipeline estimates 1.2 million gallons of gasoline leaked in Huntersville"
+
+#######################################################################
+- type: subtitle
+  title: Insecticides, DDT and Neonicotinoids
+#######################################################################
 
 ### Insecticides
 
@@ -178,7 +330,7 @@
   id: GqA42M4RtxE
   title: "The Death Of Bees Explained – Parasites, Poison and Humans"
 
-###
+### Roundup
 
 - type: youtube
   id: JszHrMZ7dx4
@@ -188,22 +340,10 @@
   id: lidkYEUqw-Q
   title: "The Monsanto Papers : Roundup & The Canadian Connection - Enquête"
 
-
-
-
-
-
-
-
-# Water
-
-- type: youtube
-  id: I75qa0kTeY4
-  title: "Here's what's in your bottled water (Marketplace)"
-
-
-
-
+#######################################################################
+- type: subtitle
+  title: Animal Meat
+#######################################################################
 
 # Processed Meat
 
@@ -216,7 +356,6 @@
 - type: youtube
   id: eVJ7Prt5OdA
   title: "Ocean Alert: Overfishing"
-
 
 - type: youtube
   id: fTCQ2IA_Zss
@@ -234,17 +373,17 @@
   id: WNdR808jMSA
   title: "Will the ocean ever run out of fish? - Ayana Elizabeth Johnson and Jennifer Jacquet"
 
-# - type: youtube
-#   id: mO7hvOtYnck
-#   title: "(GRAPHIC CONTENT) Over 73 Million Sharks Killed Every Year for Fins"
+- type: youtube
+  id: mO7hvOtYnck
+  title: "(GRAPHIC CONTENT) Over 73 Million Sharks Killed Every Year for Fins"
 
 - type: youtube
   id: hivvTo6VSS8
   title: "Appetite for Destruction: Eating Bluefin Tuna Into Extinction"
 
-# - type: youtube
-#   id: RYYrXM86PB8
-#   title: "(GRAPHIC CONTENT) Japan resumes commercial whaling amid backlash"
+- type: youtube
+  id: RYYrXM86PB8
+  title: "(GRAPHIC CONTENT) Japan resumes commercial whaling amid backlash"
 
 - type: youtube
   id: rCRHG307oJA
@@ -254,7 +393,10 @@
   id: Q1EcQQsJrmg
   title: "The Ocean Is Running Out of Fish. Here's the Alarming Math."
 
-
+#######################################################################
+- type: subtitle
+  title: Birds
+#######################################################################
 
 # Birds Dying Skyscrapers and Towers
 
@@ -266,12 +408,9 @@
   id: lm55DG_KNAc
   title: "How to Stop Buildings from Killing Birds"
 
-# - type: youtube
-#   id: sRCxsvNpIMY
-#   title: "(GRAPHIC CONTENT) Hundreds of birds killed, hurt after flying into NASCAR Hall of Fame building"
-
-
-
+- type: youtube
+  id: sRCxsvNpIMY
+  title: "(GRAPHIC CONTENT) Hundreds of birds killed, hurt after flying into NASCAR Hall of Fame building"
 
 # Pigeons <3
 
@@ -282,9 +421,6 @@
 - type: youtube
   id: twr53QVGh0E
   title: "Why Billions of Passenger Pigeons Died in Under a Century"
-
-
-
 
 # And the Dodo <3
 
@@ -300,17 +436,57 @@
   id: VVartoMPI8A
   title: "The Tragedy of the Stephens Island Wren"
 
-# Meow
+#######################################################################
+- type: subtitle
+  title: The Exinction Of Tigers And Orangutans
+#######################################################################
+
+- type: youtube
+  id: qhrT0v7QSvc
+  title: "What's Driving Tigers Toward Extinction?"
 
 - type: youtube
   id: vrp0boIH9mA
   title: "Here's Why Tigers Are Going Extinct"
+
+- type: youtube
+  id: gYlZ2r-3kyg
+  title: "Battling India's Illegal Tiger Trade"
+
+- type: youtube
+  id: skA-FBUr0tY
+  title: "Can We Save the Tiger?"
+
+- type: youtube
+  id: VNc1co8_q_I
+  title: "Orangutan Extinction"
+
+- type: youtube
+  id: XW9gCIrdRfs
+  title: "What happens if Orangutans go Extinct?"
+
+- type: youtube
+  id: BSaOoL6Dte4
+  title: "Baby Orangutan Bursts Into Tears On The Climbing Ropes"
+
+#######################################################################
+- type: subtitle
+  title: Finale
+#######################################################################
 
 # The End
 
 - type: youtube
   id: wpLOsFc1AhQ
   title: "This is what ye shipped for - Ahab's speech"
+
+### Escape
+
+- type: youtube
+  id: cl4Uv9_7KJE
+  title: "Fleeing climate change — the real environmental disaster"
+
+### Speculative
 
 - type: youtube
   id: 59tbMh3tAUY
@@ -320,6 +496,7 @@
   id: Yk3QsGzAjKI
   title: "Why Humanity Destroyed Itself - A glance from a future we will avoid."
 
+### Hope
 
 - type: youtube
   id: tdDasG3ruRU
