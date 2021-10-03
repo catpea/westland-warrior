@@ -1,0 +1,17 @@
+- type: youtube
+  id: D7npse9n-Yw
+  title: 'We are experiencing Technical Difficulties - Please Stand By'
+- type: text
+  title: "We are experiencing Technical Difficulties - Please Stand By"
+  text: |-
+    Line1
+    Line2
+    Line3
+- type: quote
+  author: Shakespeare
+  text: |-
+    To be or not to be,
+    that is the question.
+- type: image
+  url: example-image.jpg
+  title: Please Stand By - A Local Image Example

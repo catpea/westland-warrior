@@ -1,0 +1,30 @@
+{
+  "name": "westland-warrior-the-mathematician",
+  "id": "westland-warrior-the-mathematician",
+  "title": "The Mathematician",
+  "date": "2021-10-03T21:11:58.983Z",
+  "image": "warrior-the-mathematician-cover.jpg",
+  "artwork": null,
+  "audio": null,
+  "html": "<div class=\"section yt\">\n  <header>\n    <h2>We are experiencing Technical Difficulties - Please Stand By</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=D7npse9n-Yw\" class=\"no-tufte-underline\" title=\"We are experiencing Technical Difficulties - Please Stand By\">\n      <img src=\"/image/yid-D7npse9n-Yw.jpg\" alt=\"We are experiencing Technical Difficulties - Please Stand By\">\n    </a>\n    <figcaption>We are experiencing Technical Difficulties - Please Stand By</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=D7npse9n-Yw\" title=\"We are experiencing Technical Difficulties - Please Stand By\">Play Video</a></p>\n</div>\n<div class=\"section\">\n  <header>\n    <h2>We are experiencing Technical Difficulties - Please Stand By</h2>\n  </header>\n  <p>Line1<br>Line2<br>Line3</p>\n</div>\n<div class=\"section\">\n  <header>\n    <h2>Quote by Shakespeare</h2>\n  </header>\n  <blockquote>\n    <p>To be or not to be,<br>that is the question.</p>\n    <footer>\n      <cite title=\"Shakespeare\">Shakespeare</cite>\n    </footer>\n  </blockquote>\n</div>\n<div class=\"section\">\n  <header>\n    <h2>Please Stand By - A Local Image Example</h2>\n  </header>\n  <figure>\n    <img src=\"/image/example-image.jpg\" alt=\"Please Stand By - A Local Image Example\">\n  </figure>\n</div>",
+  "print": "<div class=\"section yt avoid-break-inside\" style=\"padding-bottom: 2rem;\">\n  <span>We are experiencing Technical Difficulties - Please Stand By<sup>[1]</sup></span>\n</div>\n<div class=\"section avoid-break-inside\" style=\"padding-bottom: 2rem;\">\n  <header>\n    <h2>We are experiencing Technical Difficulties - Please Stand By</h2>\n  </header>\n  <div class=\"paragraph\">Line1<br>Line2<br>Line3</div>\n</div>\n<div class=\"section avoid-break-inside\" style=\"padding-bottom: 2rem;\">\n  <header>\n    <h2>Quote by Shakespeare</h2>\n  </header>\n  <blockquote>\n    <p>To be or not to be,<br>that is the question.</p>\n    <footer>\n      <cite title=\"Shakespeare\">Shakespeare</cite>\n    </footer>\n  </blockquote>\n</div>\n<div class=\"section avoid-break-inside\" style=\"padding-bottom: 2rem;\">\n  <header>\n    <h2>Please Stand By - A Local Image Example</h2>\n  </header>\n  <figure>\n    <img src=\"/image/example-image.jpg\" alt=\"Please Stand By - A Local Image Example\" style=\"width: 50%;\">\n  </figure>\n</div>\n<div class=\"break-after\">&nbsp;</div>\n<div>\n  <div class=\"section\" style=\"padding-bottom: 1rem;\">References</div>\n  <div>[1]: https://www.youtube.com/watch?v=D7npse9n-Yw</div>\n</div>",
+  "bootstrap": "<div class=\"card card-section bg-dark text-warning shadow\">\n  <div class=\"card-header\">We are experiencing Technical Difficulties - Please Stand By</div>\n  <a href=\"https://www.youtube.com/watch?v=D7npse9n-Yw\" title=\"We are experiencing Technical Difficulties - Please Stand By\" alt=\"We are experiencing Technical Difficulties - Please Stand By\"><img src=\"/image/yid-D7npse9n-Yw.jpg\" alt=\"We are experiencing Technical Difficulties - Please Stand By\" class=\"card-img\"></a>\n  <div class=\"card-body\">\n    <a href=\"https://www.youtube.com/watch?v=D7npse9n-Yw\" title=\"We are experiencing Technical Difficulties - Please Stand By\" class=\"btn btn-warning\">Play Video</a>\n  </div>\n</div>\n<div class=\"card card-section bg-dark text-warning shadow\">\n  <div class=\"card-body\">\n    <h5 class=\"card-title\">We are experiencing Technical Difficulties - Please Stand By</h5>\n    <div class=\"card-text\">\n      <p>Line1<br>Line2<br>Line3</p>\n    </div>\n  </div>\n</div>\n<div class=\"card card-section bg-dark text-warning shadow\">\n  <div class=\"card-header\">\n    Quote by Shakespeare\n  </div>\n  <div class=\"card-body\">\n    <div class=\"card-text\">\n      <p>To be or not to be,<br>that is the question.</p>\n    </div>\n    <cite title=\"Shakespeare\">Shakespeare</cite>\n  </div>\n</div>\n<div class=\"card card-section bg-dark text-warning shadow\">\n  <img src=\"/image/example-image.jpg\" alt=\"Please Stand By - A Local Image Example\" class=\"card-img-top\">\n  <div class=\"card-body\">\n    <h5 class=\"card-title\">Please Stand By - A Local Image Example</h5>\n    <div class=\"card-text\"></div>\n  </div>\n</div>",
+  "text": "We are experiencing Technical Difficulties - Please Stand By[1]\n\nWE ARE EXPERIENCING TECHNICAL DIFFICULTIES - PLEASE STAND BY\n\nLine1\nLine2\nLine3\n\nQUOTE BY SHAKESPEARE\n\n> To be or not to be,\n> that is the question.\n> \n> Shakespeare\n\nPLEASE STAND BY - A LOCAL IMAGE EXAMPLE\n\n \nReferences\n[1]: https://www.youtube.com/watch?v=D7npse9n-Yw",
+  "images": [
+    {
+      "title": "We are experiencing Technical Difficulties - Please Stand By",
+      "url": "yid-D7npse9n-Yw.jpg"
+    },
+    {
+      "title": "Please Stand By - A Local Image Example",
+      "url": "example-image.jpg"
+    }
+  ],
+  "links": [
+    {
+      "title": "We are experiencing Technical Difficulties - Please Stand By",
+      "url": "https://www.youtube.com/watch?v=D7npse9n-Yw",
+      "hostname": "www.youtube.com"
+    }
+  ]
+}
