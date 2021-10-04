@@ -1,20 +1,206 @@
-We are experiencing Technical Difficulties - Please Stand By[1]
-
-WE ARE EXPERIENCING TECHNICAL DIFFICULTIES - PLEASE STAND BY
-
-Line1
-Line2
-Line3
-
-QUOTE BY SHAKESPEARE
-
-> To be or not to be,
-> that is the question.
-> 
-> Shakespeare
-
-PLEASE STAND BY - A LOCAL IMAGE EXAMPLE
-
+Where do math symbols come from?[1]
+The Map Of Mathematics[2]
+How Not to Be Wrong: The Power of Mathematical Thinking with Jordan Ellenberg[3]
+Math is the hidden secret to understanding the world by Roger Antonsen[4]
+Marty Lobdell - Study Less Study Smart[5]
+Mathematics is the queen of Sciences[6]
+50 Centuries in 50 minutes (A Brief History of Mathematics)[7]
+The History of Mathematics and Its Applications[8]
+Math Has a Fatal Flaw[9]
+How Karatsuba's algorithm gave us new ways to multiply[10]
+The Riemann Hypothesis, Explained[11]
+The Meaning of Ramanujan and His Lost Notebook[12]
+The Simplest Math Problem No One Can Solve[13]
+Does Math Reveal Reality?[14]
+Neil Turok Public Lecture: The Astonishing Simplicity of Everything[15]
+The Most Beautiful Equation in Math[16]
+The Birth of Algebra[17]
+Is math discovered or invented? - Jeff Dekofsky[18]
+Who invented Maths?[19]
+1. General Overview and the Development of Numbers[20]
+Measure like an Egyptian[21]
+Origins of geometry in ancient Egypt[22]
+Egyptian geometry[23]
+What's the point of Geometry? - Euclid explains it nice and easy![24]
+Introduction to Geometry[25]
+Geometry Final Exam Review - Study Guide[26]
+Pythagoras Proves Himself (Explanation of what a Proof is by means of a visual proof)[27]
+Pythagoras Theorem | GCSE Maths Tutor[28]
+Maths Made Easy! Pythagoras theorem: Basics [O&U Learn][29]
+Pythagoras' theorem (a) | Math History | NJ Wildberger[30]
+What’s the Golden Number?[31]
+The Golden Ratio (why it is so irrational) - Numberphile[32]
+The Golden Ratio & Fibonacci Numbers: Fact versus Fiction[33]
+The Golden Ratio: Is It Myth or Math?[34]
+How do you model thought?[35]
+A Short History of Logic[36]
+Will Durant's The Philosophy of Aristotle[37]
+The Origin of Graphs (Visualization of the fusion of Algebra and Geometry by means of Graphs)[38]
+Real Numbers And Their Graphs (Algebra 1 Tutor)[39]
+Algebra Basics: Graphing On The Coordinate Plane[40]
+Graphing Linear Equations - Best Explanation[41]
+Lesson: Finding Slope on a Graph[42]
+Algebra - Understanding Quadratic Equations[43]
+Non-Euclidean Geometry Explained - Hyperbolica Devlog[44]
+What is a Radian Angle? Convert Degrees to Radians & Radians to Degrees - Part 1[45]
+Unit Circle - Definition & Meaning - Sin(x), Cos(x), Tan(x), - Sine, Cosine & Tangent[46]
+Trigonometry Concepts - Don't Memorize! Visualize![47]
+Strange Paradoxes in Maths[48]
+The paradox at the heart of mathematics: Gödel's Incompleteness Theorem[49]
+3 Paradoxes That Gave Us Calculus[50]
+Aristotle's Wheel Paradox - To Infinity and Beyond[51]
+Russell's Paradox - A Ripple in the Foundations of Mathematics[52]
+The Infinite Hotel Paradox - Jeff Dekofsky[53]
+Why is calculus important?[54]
+What is Calculus?[55]
+Introduction to Calculus[56]
+The essence of calculus[57]
+What is Calculus Used For?[58]
+Why teach calculus? by Daniel Ashlock[59]
+Calculus at a Fifth Grade Level[60]
+Calculus: What Is It?[61]
+Calculus: One of the Most Successful Technologies[62]
+Math Encounters -- On the Shoulders of Giants: Newton Revealed[63]
+Can you measure randomness?[64]
+Probability Theory - The Math of Intelligence #6[65]
+How Science is Taking the Luck out of Gambling - with Adam Kucharski[66]
+Win a SMALL fortune with counting cards-the math of blackjack & Co.[67]
+What’s so difficult about Pi?[68]
+A Brief History of Pi[69]
+The Discovery That Transformed Pi[70]
+Can acceleration be heard?[71]
+Galileo Galilei - in a nutshell[72]
+How Galileo Unlocked The Doors to the Universe[73]
+What was Newton’s beautiful solution?[74]
+The mathematical secrets of Pascal’s triangle - Wajdi Mohamed Ratemi[75]
+21 - Pascals Triangle & Binomial Expansion - Part 1[76]
+The Genius of George Boole[77]
+Boolean Modifier[78]
+Boolean Logic & Logic Gates: Crash Course Computer Science #3[79]
+Searching with Boolean Operators[80]
+How is data measured?[81]
+What is information theory?[82]
+Information Theory of Deep Learning[83]
+What’s the maths behind encryption?[84]
+History and Evolution of Cryptography and Cryptanalysis[85]
+Secret Codes: A History of Cryptography (Part 1)[86]
+More Secret Codes: A History of Cryptography (Part 2)[87]
+How to use an algorithm ?[88]
+What's an algorithm? - David J. Malan[89]
+1. Algorithmic Thinking, Peak Finding[90]
+JavaScript Algorithms Crash Course - Learn Algorithms & Big O from the Ground Up![91]
+Masterclass in JavaScript Algorithms and Data Structures (Part1)[92]
+Masterclass in JavaScript Algorithms and Data Structures (Part2)[93]
+The birth of topology[94]
+Algebra, Geometry, and Topology: What's The Difference?[95]
+A Tribute to Euler - William Dunham[96]
+Who cares about topology?[97]
+What is fractal geometry?[98]
+Fractals are typically not self-similar[99]
+How to Make 3D Fractals[100]
+Like in a dream[101]
+Sounds of the Mandelbrot Set[102]
  
 References
-[1]: https://www.youtube.com/watch?v=D7npse9n-Yw
+[1]: https://www.youtube.com/watch?v=eVm063xmnow
+[2]: https://www.youtube.com/watch?v=OmJ-4B-mS-Y
+[3]: https://www.youtube.com/watch?v=kZTKuMBJP7Y
+[4]: https://www.youtube.com/watch?v=ZQElzjCsl9o
+[5]: https://www.youtube.com/watch?v=IlU-zDU6aQ0
+[6]: https://www.youtube.com/watch?v=8mve0UoSxTo
+[7]: https://www.youtube.com/watch?v=YsEcpS-hyXw
+[8]: https://www.youtube.com/watch?v=2No_CMrxBe8
+[9]: https://www.youtube.com/watch?v=HeQX2HjkcNo
+[10]: https://www.youtube.com/watch?v=cCKOl5li6YM
+[11]: https://www.youtube.com/watch?v=zlm1aajH6gY
+[12]: https://www.youtube.com/watch?v=y_0NuOBNobk
+[13]: https://www.youtube.com/watch?v=094y1Z2wpJg
+[14]: https://www.youtube.com/watch?v=VN19VOMHxkk
+[15]: https://www.youtube.com/watch?v=f1x9lgX8GaE
+[16]: https://www.youtube.com/watch?v=IUTGFQpKaPU
+[17]: https://www.youtube.com/watch?v=FME9avU3u2Y
+[18]: https://www.youtube.com/watch?v=X_xR5Kes4Rs
+[19]: https://www.youtube.com/watch?v=SDOLka6KAqs
+[20]: https://www.youtube.com/watch?v=pk49iM9OT_0
+[21]: https://www.youtube.com/watch?v=DAibWi7xxbs
+[22]: https://www.youtube.com/watch?v=B1sN0o4RSfI
+[23]: https://www.youtube.com/watch?v=mwNTX1QkzkA
+[24]: https://www.youtube.com/watch?v=_KUGLOiZyK8
+[25]: https://www.youtube.com/watch?v=302eJ3TzJQU
+[26]: https://www.youtube.com/watch?v=puxjcvBL2IE
+[27]: https://www.youtube.com/watch?v=SZu66hstZX8
+[28]: https://www.youtube.com/watch?v=JCG4HHGVqiY
+[29]: https://www.youtube.com/watch?v=JH9V3bWA1T0
+[30]: https://www.youtube.com/watch?v=dW8Cy6WrO94
+[31]: https://www.youtube.com/watch?v=xRA9rdJlHlU
+[32]: https://www.youtube.com/watch?v=sj8Sg8qnjOg
+[33]: https://www.youtube.com/watch?v=4oyyXC5IzEE
+[34]: https://www.youtube.com/watch?v=1Jj-sJ78O6M
+[35]: https://www.youtube.com/watch?v=J1UZV-xJ2Fk
+[36]: https://www.youtube.com/watch?v=v7TZqCgRYP8
+[37]: https://www.youtube.com/watch?v=Yn89Jdp4mc0
+[38]: https://www.youtube.com/watch?v=N4mez69LcxE
+[39]: https://www.youtube.com/watch?v=Vuj5CZDy-Pc
+[40]: https://www.youtube.com/watch?v=9Uc62CuQjc4
+[41]: https://www.youtube.com/watch?v=NAblGVxxJZo
+[42]: https://www.youtube.com/watch?v=YvKCGM9Qmw0
+[43]: https://www.youtube.com/watch?v=VdVPg04t_6w
+[44]: https://www.youtube.com/watch?v=zQo_S3yNa2w
+[45]: https://www.youtube.com/watch?v=Aqm8v0fJDzM
+[46]: https://www.youtube.com/watch?v=wCOtV44IUw4
+[47]: https://www.youtube.com/watch?v=mhd9FXYdf4s
+[48]: https://www.youtube.com/watch?v=qvMHlOxhyGQ
+[49]: https://www.youtube.com/watch?v=I4pQbo5MQOs
+[50]: https://www.youtube.com/watch?v=EbHqtENNnSY
+[51]: https://www.youtube.com/watch?v=mrVg9GM5h7Q
+[52]: https://www.youtube.com/watch?v=xauCQpnbNAM
+[53]: https://www.youtube.com/watch?v=Uj3_KqkI9Zo
+[54]: https://www.youtube.com/watch?v=z2z7kg8Aryw
+[55]: https://www.youtube.com/watch?v=w3GV9pumczQ
+[56]: https://www.youtube.com/watch?v=tt2DGYOi3hc
+[57]: https://www.youtube.com/watch?v=WUvTyaaNkzM
+[58]: https://www.youtube.com/watch?v=_Idra8rVS1I
+[59]: https://www.youtube.com/watch?v=7LUkglCRCVY
+[60]: https://www.youtube.com/watch?v=TzDhdvVg9_c
+[61]: https://www.youtube.com/watch?v=INFoNeC1eBA
+[62]: https://www.youtube.com/watch?v=8ZLC0egL6pc
+[63]: https://www.youtube.com/watch?v=qFo7xZFdBdc
+[64]: https://www.youtube.com/watch?v=kwZqfb6MF04
+[65]: https://www.youtube.com/watch?v=PrkiRVcrxOs
+[66]: https://www.youtube.com/watch?v=658xlubwnDc
+[67]: https://www.youtube.com/watch?v=ytuHV2e4c4Q
+[68]: https://www.youtube.com/watch?v=NmUjZcvG4Wg
+[69]: https://www.youtube.com/watch?v=1-JAx3nUwms
+[70]: https://www.youtube.com/watch?v=gMlf1ELvRzc
+[71]: https://www.youtube.com/watch?v=QFnBNHOvc6M
+[72]: https://www.youtube.com/watch?v=NMM8vx9vDiE
+[73]: https://www.youtube.com/watch?v=9qJut0CBs5w
+[74]: https://www.youtube.com/watch?v=-fqR3RhlDyc
+[75]: https://www.youtube.com/watch?v=XMriWTvPXHI
+[76]: https://www.youtube.com/watch?v=zi3amM4bArw
+[77]: https://www.youtube.com/watch?v=Hljir_TyTEw
+[78]: https://www.youtube.com/watch?v=SMIlZddICDg
+[79]: https://www.youtube.com/watch?v=gI-qXk7XojA
+[80]: https://www.youtube.com/watch?v=nZ9kfmpBtHE
+[81]: https://www.youtube.com/watch?v=92nVVbWkbj4
+[82]: https://www.youtube.com/watch?v=d9alWZRzBWk
+[83]: https://www.youtube.com/watch?v=XL07WEc2TRI
+[84]: https://www.youtube.com/watch?v=6wm8fPs2abU
+[85]: https://www.youtube.com/watch?v=z9Qi5mDSYb8
+[86]: https://www.youtube.com/watch?v=9pp9YpginNg
+[87]: https://www.youtube.com/watch?v=aHSt_lzRIxw
+[88]: https://www.youtube.com/watch?v=-89RYG7On2w
+[89]: https://www.youtube.com/watch?v=6hfOvs8pY1k
+[90]: https://www.youtube.com/watch?v=HtSuA80QTyo
+[91]: https://www.youtube.com/watch?v=JgWm6sQwS_I
+[92]: https://www.youtube.com/watch?v=x6zNu_3hdOU
+[93]: https://www.youtube.com/watch?v=PYx3_4HzL9I
+[94]: https://www.youtube.com/watch?v=2eiiROwuwtk
+[95]: https://www.youtube.com/watch?v=xgKc7dFz-ko
+[96]: https://www.youtube.com/watch?v=fEWj93XjON0
+[97]: https://www.youtube.com/watch?v=AmgkSdhK4K8
+[98]: https://www.youtube.com/watch?v=jMqgJOr0veo
+[99]: https://www.youtube.com/watch?v=gB9n2gHsHN4
+[100]: https://www.youtube.com/watch?v=svLzmFuSBhk
+[101]: https://www.youtube.com/watch?v=S530Vwa33G0
+[102]: https://www.youtube.com/watch?v=GiAj9WW1OfQ
