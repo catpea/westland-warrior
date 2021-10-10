@@ -1,0 +1,26 @@
+{
+  "name": "westland-warrior-the-specialist",
+  "id": "westland-warrior-the-specialist",
+  "title": "The Specialist",
+  "date": "2021-10-10T17:27:20.011Z",
+  "image": "warrior-the-specialist-cover.jpg",
+  "artwork": null,
+  "audio": null,
+  "html": "<div class=\"section yt\">\n  <header>\n    <h2>We are experiencing Technical Difficulties - Please Stand By</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=D7npse9n-Yw\" class=\"no-tufte-underline\" title=\"We are experiencing Technical Difficulties - Please Stand By\">\n      <img src=\"/image/yid-D7npse9n-Yw.jpg\" alt=\"We are experiencing Technical Difficulties - Please Stand By\">\n    </a>\n    <figcaption>We are experiencing Technical Difficulties - Please Stand By</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=D7npse9n-Yw\" title=\"We are experiencing Technical Difficulties - Please Stand By\">Play Video</a></p>\n</div>",
+  "print": "<div class=\"section yt avoid-break-inside\" style=\"padding-bottom: 2rem;\">\n  <span>We are experiencing Technical Difficulties - Please Stand By<sup>[1]</sup></span>\n</div>\n<div class=\"break-after\">&nbsp;</div>\n<div>\n  <div class=\"section\" style=\"padding-bottom: 1rem;\">References</div>\n  <div>[1]: https://www.youtube.com/watch?v=D7npse9n-Yw</div>\n</div>",
+  "bootstrap": "<div class=\"card card-section bg-dark text-warning shadow\">\n  <div class=\"card-header\">We are experiencing Technical Difficulties - Please Stand By</div>\n  <a href=\"https://www.youtube.com/watch?v=D7npse9n-Yw\" title=\"We are experiencing Technical Difficulties - Please Stand By\" alt=\"We are experiencing Technical Difficulties - Please Stand By\"><img src=\"/image/yid-D7npse9n-Yw.jpg\" alt=\"We are experiencing Technical Difficulties - Please Stand By\" class=\"card-img\"></a>\n  <div class=\"card-body\">\n    <a href=\"https://www.youtube.com/watch?v=D7npse9n-Yw\" title=\"We are experiencing Technical Difficulties - Please Stand By\" class=\"btn btn-warning\">Play Video</a>\n  </div>\n</div>",
+  "text": "We are experiencing Technical Difficulties - Please Stand By[1]\n \nReferences\n[1]: https://www.youtube.com/watch?v=D7npse9n-Yw",
+  "images": [
+    {
+      "title": "We are experiencing Technical Difficulties - Please Stand By",
+      "url": "yid-D7npse9n-Yw.jpg"
+    }
+  ],
+  "links": [
+    {
+      "title": "We are experiencing Technical Difficulties - Please Stand By",
+      "url": "https://www.youtube.com/watch?v=D7npse9n-Yw",
+      "hostname": "www.youtube.com"
+    }
+  ]
+}
