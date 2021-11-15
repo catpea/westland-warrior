@@ -26,11 +26,14 @@
     "westland-warrior-the-naturalist",
     "westland-warrior-the-microbiologist",
     "westland-warrior-the-ecologist",
+
+    "westland-warrior-the-urban-explorer",
     "westland-warrior-the-day-hiker",
+    "westland-warrior-the-backpacker",
     "westland-warrior-the-stealth-camper",
     "westland-warrior-the-survivalist",
-    "westland-warrior-the-backpacker",
-    "westland-warrior-the-urban-explorer",
+    "westland-warrior-the-winter-adventurer",
+
     "westland-warrior-the-explorer",
     "westland-warrior-the-discoverer",
     "westland-warrior-the-drone-operator",
@@ -113,6 +116,7 @@
     "westland-warrior-the-security-analyst",
     "westland-warrior-the-cryptographer",
     "westland-warrior-the-reverse-engineer",
+    "westland-warrior-the-decepticon",
     "westland-warrior-the-inventor",
     "westland-warrior-the-electrical-engineer",
     "westland-warrior-the-engineer",
@@ -132,7 +136,6 @@
     "westland-warrior-the-founder",
     "westland-warrior-the-believer",
     "westland-warrior-the-human",
-    "westland-warrior-the-great-being",
-    "westland-warrior-the-decepticon"
+    "westland-warrior-the-great-being"
   ]
 }
