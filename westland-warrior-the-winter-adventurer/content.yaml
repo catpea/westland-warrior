@@ -8,6 +8,30 @@
   id: 2WL8u3RS7yk
   title: "アナと雪の女王主題歌 (Anna and the Snow Queen)"
 
+# Old
+
+- type: youtube
+  id: 2YH263IDA3A
+  title: "Yetis Come To The Rescue | The Mummy, Tomb Of The Dragon Emperor"
+
+- type: youtube
+  id: AjToVdbPxbw
+  title: "Snowball Fight in Lyon, France 1896"
+
+# Madness
+
+- type: youtube
+  id: cOEBwBERPv4
+  title: "20 kilograms of red hot steel vs. frozen lake"
+
+- type: youtube
+  id: gsiS9QpnzZA
+  title: "Fireworks under ice!"
+
+- type: youtube
+  id: GaHP6AqikOI
+  title: "Kids on frozen lake play a game trying to break ice with a razor sharp axe on a slippery surface"
+
 # Lake
 
 - type: youtube
@@ -51,15 +75,7 @@
   id: ZJj4KyIQSeY
   title: "Douée! (Talent!)"
 
-# Old
 
-- type: youtube
-  id: AjToVdbPxbw
-  title: "Snowball Fight in Lyon, France 1896"
-
-- type: youtube
-  id: 2YH263IDA3A
-  title: "Yetis Come To The Rescue | The Mummy, Tomb Of The Dragon Emperor"
 
 # Painting
 
@@ -70,6 +86,10 @@
 - type: youtube
   id: az2aot1REb0
   title: "Winter landscape acrylic painting for beginners"
+
+
+
+
 
 # Puppers And Meows
 
@@ -270,19 +290,7 @@
   id: l8QBw0AurCk
   title: "Sleeping in a -10C hotel made ENTIRELY OF ICE!"
 
-# Madness
 
-- type: youtube
-  id: cOEBwBERPv4
-  title: "20 kilograms of red hot steel vs. frozen lake"
-
-- type: youtube
-  id: gsiS9QpnzZA
-  title: "Fireworks under ice!"
-
-- type: youtube
-  id: GaHP6AqikOI
-  title: "Kids on frozen lake play a game trying to break ice with a razor sharp axe on a slippery surface"
 
 
 # Sliding Cars
@@ -302,6 +310,8 @@
 - type: youtube
   id: rhZCyQ3emQg
   title: "Sliding Cars in Seattle Snow on 11/22/10"
+
+# Tree
 
 - type: youtube
   id: uPupBWs_9lg
