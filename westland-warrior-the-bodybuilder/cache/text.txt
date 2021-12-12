@@ -115,49 +115,45 @@ Bubblegum Pop[17]
 Dance Pop[18]
 Hardstyle[19]
 Hard Bass[20]
-Powerstomp[21]
-Industrial[22]
-EBM (Electronic body music)[23]
-Synthpop[24]
-Witch House[25]
-Aggrotech[26]
-Choreography[27] (choreographers tend to pick amazing songs).
-Labrinth - Mount Everest - Choreography by Erica Klein[28]
+Choreography[21] (choreographers tend to pick amazing songs).
+Labrinth - Mount Everest - Choreography by Erica Klein[22]
+Jain - Makeba[23]
+Jain - Come[24]
 
 VOCAL IDEAS
 
 Perhaps some of you may find working out with vocals easier, if so then the
-Backyard Sessions[29] come to mind.
-Lilac Wine[30]
-Jolene[31]
+Backyard Sessions[25] come to mind.
+Lilac Wine[26]
+Jolene[27]
 
 MEOWMIX VOL. 1,627
 
-Blanco Brown: The Git Up[32]
-Taylor Swift: Shake It Off[33]
-Psy: Gangnam Style[34]
-Davay: Tri Poloski[35]
-XS Project: Bochka Bass Kolbaser[36]
-Lil Nas X: Old Town Road[37]
-Pitbull: Timber[38]
-Ciara: 1 2 Step[39]
-Lorde: Royals[40]
-Fort Minor: Remember The Name[41]
-Imagine Dragons: Believer[42]
-Macklemore: Can’t Hold Us[43]
-Billie Eilish: Bad Guy[44]
-Kesha: Blow[45]
-Beyonce: Single Ladies[46]
-Cascada: Evacuate The Dancefloor[47]
-Blade: Blade 1 Vampire Dance Club Theme[48]
-Smile: Butterfly[49]
-Infernal: From Paris To Berlin[50]
-XS Project: Expressway[51]
-Charlie Puth: Betty Boop[52]
-Caravan Palace: Wonderland[53]
-Valentino Khan: Pump[54]
-LMFAO: Sexy and I Know It[55]
-Power of Now[56]
+Blanco Brown: The Git Up[28]
+Taylor Swift: Shake It Off[29]
+Psy: Gangnam Style[30]
+Davay: Tri Poloski[31]
+XS Project: Bochka Bass Kolbaser[32]
+Lil Nas X: Old Town Road[33]
+Pitbull: Timber[34]
+Ciara: 1 2 Step[35]
+Lorde: Royals[36]
+Fort Minor: Remember The Name[37]
+Imagine Dragons: Believer[38]
+Macklemore: Can’t Hold Us[39]
+Billie Eilish: Bad Guy[40]
+Kesha: Blow[41]
+Beyonce: Single Ladies[42]
+Cascada: Evacuate The Dancefloor[43]
+Blade: Blade 1 Vampire Dance Club Theme[44]
+Smile: Butterfly[45]
+Infernal: From Paris To Berlin[46]
+XS Project: Expressway[47]
+Charlie Puth: Betty Boop[48]
+Caravan Palace: Wonderland[49]
+Valentino Khan: Pump[50]
+LMFAO: Sexy and I Know It[51]
+Power of Now[52]
 
 OF FOCUS AND TRANCE
 
@@ -169,7 +165,7 @@ TRAINER SONG
 
 I also created an Open Source (Free) workout instruction drum song, the mp3
 files are available here:
-https://github.com/westland-valhalla/drums/releases[57]
+https://github.com/westland-valhalla/drums/releases[53]
  
 References
 [1]: https://youtu.be/FeJP4E4Z-PY?t=121
@@ -192,40 +188,36 @@ References
 [18]: https://www.youtube.com/results?search_query=Dance+Pop
 [19]: https://www.youtube.com/results?search_query=Hardstyle
 [20]: https://www.youtube.com/results?search_query=Hard+Bass
-[21]: https://www.youtube.com/results?search_query=Powerstomp
-[22]: https://www.youtube.com/results?search_query=Industrial
-[23]: https://www.youtube.com/results?search_query=EBM
-[24]: https://www.youtube.com/results?search_query=Synthpop
-[25]: https://www.youtube.com/results?search_query=Witch+House
-[26]: https://www.youtube.com/results?search_query=Aggrotech
-[27]: https://www.youtube.com/results?search_query=Choreography
-[28]: https://www.youtube.com/watch?v=T2ezIjoqkrY
-[29]: https://www.youtube.com/watch?v=iFZsunzjDXU&list=PL6A17A25BE19EA6E9
-[30]: https://www.youtube.com/watch?v=iFZsunzjDXU
-[31]: https://www.youtube.com/watch?v=wOwblaKmyVw
-[32]: https://www.youtube.com/watch?v=Q7U6AoZ27yE
-[33]: https://www.youtube.com/watch?v=nfWlot6h_JM
-[34]: https://www.youtube.com/watch?v=9bZkp7q19f0
-[35]: https://www.youtube.com/watch?v=Y8qtmD_QTYw
-[36]: https://www.youtube.com/watch?v=VLW1ieY4Izw
-[37]: https://www.youtube.com/watch?v=Ub3JtYKuMtA
-[38]: https://www.youtube.com/watch?v=hHUbLv4ThOo
-[39]: https://www.youtube.com/watch?v=iBHNgV6_znU
-[40]: https://www.youtube.com/watch?v=nlcIKh6sBtc
-[41]: https://www.youtube.com/watch?v=VDvr08sCPOc
-[42]: https://www.youtube.com/watch?v=7wtfhZwyrcc
-[43]: https://www.youtube.com/watch?v=2zNSgSzhBfM
-[44]: https://www.youtube.com/watch?v=DyDfgMOUjCI
-[45]: https://www.youtube.com/watch?v=3yIDXlYMcnE
-[46]: https://www.youtube.com/watch?v=4m1EFMoRFvY
-[47]: https://www.youtube.com/watch?v=A68j28KQaik
-[48]: https://www.youtube.com/watch?v=cNOP2t9FObw
-[49]: https://www.youtube.com/watch?v=QzcvRDWgRIE
-[50]: https://www.youtube.com/watch?v=zgurcTTsIv0
-[51]: https://www.youtube.com/watch?v=K3T0FNowHwg
-[52]: https://www.youtube.com/watch?v=sd6_PHCdCZI
-[53]: https://www.youtube.com/watch?v=vCXsRoyFRQE
-[54]: https://www.youtube.com/watch?v=3_twoy0qdOk
-[55]: https://www.youtube.com/watch?v=wyx6JDQCslE
-[56]: https://www.youtube.com/watch?v=_tc4K5Zujqw
-[57]: https://github.com/westland-valhalla/drums/releases
+[21]: https://www.youtube.com/results?search_query=Choreography
+[22]: https://www.youtube.com/watch?v=T2ezIjoqkrY
+[23]: https://www.youtube.com/watch?v=59Q_lhgGANc
+[24]: https://www.youtube.com/watch?v=KDXOzr0GoA4
+[25]: https://www.youtube.com/watch?v=iFZsunzjDXU&list=PL6A17A25BE19EA6E9
+[26]: https://www.youtube.com/watch?v=iFZsunzjDXU
+[27]: https://www.youtube.com/watch?v=wOwblaKmyVw
+[28]: https://www.youtube.com/watch?v=Q7U6AoZ27yE
+[29]: https://www.youtube.com/watch?v=nfWlot6h_JM
+[30]: https://www.youtube.com/watch?v=9bZkp7q19f0
+[31]: https://www.youtube.com/watch?v=Y8qtmD_QTYw
+[32]: https://www.youtube.com/watch?v=VLW1ieY4Izw
+[33]: https://www.youtube.com/watch?v=Ub3JtYKuMtA
+[34]: https://www.youtube.com/watch?v=hHUbLv4ThOo
+[35]: https://www.youtube.com/watch?v=iBHNgV6_znU
+[36]: https://www.youtube.com/watch?v=nlcIKh6sBtc
+[37]: https://www.youtube.com/watch?v=VDvr08sCPOc
+[38]: https://www.youtube.com/watch?v=7wtfhZwyrcc
+[39]: https://www.youtube.com/watch?v=2zNSgSzhBfM
+[40]: https://www.youtube.com/watch?v=DyDfgMOUjCI
+[41]: https://www.youtube.com/watch?v=3yIDXlYMcnE
+[42]: https://www.youtube.com/watch?v=4m1EFMoRFvY
+[43]: https://www.youtube.com/watch?v=A68j28KQaik
+[44]: https://www.youtube.com/watch?v=cNOP2t9FObw
+[45]: https://www.youtube.com/watch?v=QzcvRDWgRIE
+[46]: https://www.youtube.com/watch?v=zgurcTTsIv0
+[47]: https://www.youtube.com/watch?v=K3T0FNowHwg
+[48]: https://www.youtube.com/watch?v=sd6_PHCdCZI
+[49]: https://www.youtube.com/watch?v=vCXsRoyFRQE
+[50]: https://www.youtube.com/watch?v=3_twoy0qdOk
+[51]: https://www.youtube.com/watch?v=wyx6JDQCslE
+[52]: https://www.youtube.com/watch?v=_tc4K5Zujqw
+[53]: https://github.com/westland-valhalla/drums/releases
