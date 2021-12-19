@@ -51,9 +51,10 @@
     "westland-warrior-the-trainer",
     "westland-warrior-the-longboarder",
     "westland-warrior-the-surfer",
-    "westland-warrior-the-bicyclist",
     "westland-warrior-the-paddler",
     "westland-warrior-the-packrafter",
+    "westland-warrior-the-bicyclist",
+    "westland-warrior-the-winter-cyclist",
     "westland-warrior-the-jogger",
     "westland-warrior-the-trail-runner",
     "westland-warrior-the-athlete",
@@ -138,7 +139,6 @@
     "westland-warrior-the-founder",
     "westland-warrior-the-believer",
     "westland-warrior-the-human",
-    "westland-warrior-the-great-being",
-    "westland-warrior-the-winter-cyclist"
+    "westland-warrior-the-great-being"
   ]
 }
