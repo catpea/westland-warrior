@@ -1,0 +1,112 @@
+How Oldschool Sound/Music worked[1]
+Basic Waveforms[2]
+FM SYNTHS in under 4 minutes[3]
+Sound Design and Synth Fundamentals (don't pay for closed source software, ZynAddSubFX has Unison)[4]
+ZynAddSubFX in LMMS[5]
+How To Use ZynAddSubFX! - LMMS Tutorial[6]
+Advanced Sound Design and Synths Tutorial[7]
+What You Don't Know About Reverb - Reverb Masterclass (IMPORTANT: Enhances Modernizes Chiptune Instruments)[8]
+How To Use Compression - Detailed Tutorial (Controls Sound)[9]
+Ultimate Introduction to Chiptune Programs Part 1: General Tools (use lmms and its tools)[10]
+Best Free Chiptune VSTs (2020) + Examples! (use lmms and its tools)[11]
+How to Make 8-Bit Music[12]
+Top 5 Chiptune Synths[13]
+DRUID II: ENLIGHTENMENT / FAIRLIGHT CRACK INTRO (1987) 🧙 - C64 REMIX [LukHash] ❤️[14]
+Let's Play LIVE! #1 - Super Mario Bros. w/FULL ORCHESTRA! ft. George Salazar[15]
+THE GREAT GIANA SISTERS - Live on Pocket Operator PO-28 'Robot' - [LukHash][16]
+LAST NINJA 2, CENTRAL PARK (1988) - C64 REMIX [LukHash][17]
+SPY vs. SPY (1984) - 🎹 C64 REMIX [LukHash][18]
+SUPREMACY / OVERLORD (1990) 💀 - C64 REMIX [LukHash][19]
+CODE VERONICA - 8bit SID Chiptune version on Commodore 64 played by real SID chip 6581R3 / Retrowave[20]
+The best retro game soundtracks part 1[21]
+NES Music Top 70[22]
+The Basics of Chiptune Music (Sample is a pre-recorded sound)[23]
+Meow Synth, Wet Hands, Cover[24]
+LMMS Tutorial 3: TripleOsc Basics[25]
+LMMS Triple Oscillator synth music (Tutorial)[26]
+Making Chiptune is stupid easy in LMMS[27]
+LMMS 8 Bit Drums with SFXR[28]
+LMMS Instrument Tutorial: BitInvader (Beautiful Instrument, and worth mastering ❤️)[29]
+HOW TO MAKE GAME MUSIC [Free] || Music For your Games || LMMS[30]
+LMMS - 1st Part of Creating An 8-Bit Tune (No Commentary)[31]
+Short Chiptune in LMMS[32]
+Como hacer musica estilo 8 bits | LMMS (Parte 1)[33]
+Como hacer musica estilo 8 bits | LMMS (Parte 2)[34]
+Como hacer musica estilo 8 bits | LMMS (Parte 3) (Bueno!)[35]
+Como hacer chiptune en lmms | chiptune (Musica de 8 bits) LMMS Tutorial (RRRRRRrrrrrrrrrrrrrrrrrrrrrrrrr)[36]
+LMMS - Chiptune - Unease[37]
+LMMS song(Chiptune) - Underground[38]
+[LMMS] Chiptune & Rock Music #1[39]
+LMMS - Chiptune[40]
+lmms original music like nes[41]
+weedspagonYu Yu Hakusho (Ghost Files) OP - Smile Bomb (LMMS Chiptune Cover)[42]
+[LMMS] Chiptune Type Beat DISTORTION (Prod. By CloudWolf Beats)[43]
+[LMMS] Chiptune Type Beat DUNGEON (Prod. By CloudWolf Beats)[44]
+Instant Remedy Remix - Lazy Jones[45]
+Last Ninja: The Palace[46]
+Last Ninja: The Wastelands (Extended Version)[47]
+Last Ninja: The Wastelands (Club Version)[48]
+Super Mario Bros. NES Medley - Orchestre de Jeux Vidéo[49]
+50 C64 games in 25 minutes[50]
+The Epic Commodore C64 SID Collection - 11 hours of C64 Music[51]
+SID Chip Club - Full Album (Non Stop Mixed, Real SID 8580, mastered)[52]
+Ocean Battle Chiptune / Theremin (production with LMMS)[53]
+Set Sail: A Theremin / Chiptune song composed in LMMS[54]
+How to play a scale on the theremin | Carolina talks Theremin[55]
+ 
+References
+[1]: https://www.youtube.com/watch?v=q_3d1x2VPxk
+[2]: https://www.youtube.com/watch?v=VRD9Uj2YTBk
+[3]: https://www.youtube.com/watch?v=vvBl3YUBUyY
+[4]: https://www.youtube.com/watch?v=NJLIS2MkFe4
+[5]: https://www.youtube.com/watch?v=DoKqZ3CQUbg
+[6]: https://www.youtube.com/watch?v=KZ0Qwk1z7p4
+[7]: https://www.youtube.com/watch?v=tlygYWeOzTg
+[8]: https://www.youtube.com/watch?v=YA4rZgq0RaI
+[9]: https://www.youtube.com/watch?v=yi0J9JsRdI4
+[10]: https://www.youtube.com/watch?v=WNxw8OzUwfg
+[11]: https://www.youtube.com/watch?v=FwMTnfSNx4A
+[12]: https://www.youtube.com/watch?v=w4_qcrM0qIM
+[13]: https://www.youtube.com/watch?v=X9QTfPA2p8c
+[14]: https://www.youtube.com/watch?v=_7ilSSI68FQ
+[15]: https://www.youtube.com/watch?v=2cRPzzZV8u0
+[16]: https://www.youtube.com/watch?v=t_XH4du6BvE
+[17]: https://www.youtube.com/watch?v=oKgdq22BIlk
+[18]: https://www.youtube.com/watch?v=sVtJGobSZKM
+[19]: https://www.youtube.com/watch?v=3JQkW6BgUYU
+[20]: https://www.youtube.com/watch?v=ejXVpi-SCAI
+[21]: https://www.youtube.com/watch?v=Yr6GcaQ0aTg
+[22]: https://www.youtube.com/watch?v=u3xQXkh8Mek
+[23]: https://www.youtube.com/watch?v=hhjUnhxJUFQ
+[24]: https://www.youtube.com/watch?v=glKbema6ayM
+[25]: https://www.youtube.com/watch?v=7lI8VgbocQg
+[26]: https://www.youtube.com/watch?v=WA5ExsGbRQo
+[27]: https://www.youtube.com/watch?v=wAHSNs6fBF0
+[28]: https://www.youtube.com/watch?v=94KdYb00J5U
+[29]: https://www.youtube.com/watch?v=wcV19wDYzLo
+[30]: https://www.youtube.com/watch?v=szlnl9ysFdk
+[31]: https://www.youtube.com/watch?v=Bj5KV3kQ4g8
+[32]: https://www.youtube.com/watch?v=wwbrQQAeSkA
+[33]: https://www.youtube.com/watch?v=KcugOUb8HQs
+[34]: https://www.youtube.com/watch?v=xSBXkiZntS8
+[35]: https://www.youtube.com/watch?v=cbUTybhszRA
+[36]: https://www.youtube.com/watch?v=Sx4TI6pNfO4
+[37]: https://www.youtube.com/watch?v=RUW19-PyroA
+[38]: https://www.youtube.com/watch?v=jPwosn_d6N0
+[39]: https://www.youtube.com/watch?v=lANSjUFzMAc
+[40]: https://www.youtube.com/watch?v=NzJkwVThnHM
+[41]: https://www.youtube.com/watch?v=owxsMD5RY6Q
+[42]: https://www.youtube.com/watch?v=HXHpHQYSg9k
+[43]: https://www.youtube.com/watch?v=twcRmXqgjWs
+[44]: https://www.youtube.com/watch?v=p-6WDCqQVu4
+[45]: https://www.youtube.com/watch?v=BrIfbjosyBI
+[46]: https://www.youtube.com/watch?v=x21vik7qMyc
+[47]: https://www.youtube.com/watch?v=ZeJDazyfIIU
+[48]: https://www.youtube.com/watch?v=2417h0Adl5o
+[49]: https://www.youtube.com/watch?v=kVLYAlprXEY
+[50]: https://www.youtube.com/watch?v=xqMui1u8mNk
+[51]: https://www.youtube.com/watch?v=U9Racui9jJI
+[52]: https://www.youtube.com/watch?v=qGWsPEC341Y
+[53]: https://www.youtube.com/watch?v=D9b_vnClAUE
+[54]: https://www.youtube.com/watch?v=lmiX_ysHR5E
+[55]: https://www.youtube.com/watch?v=0n-o71RUrQw
