@@ -87,14 +87,12 @@
     "westland-warrior-the-classical-music-aficionado",
     "westland-warrior-the-ukulele-player",
     "westland-warrior-the-dj",
-    
     "westland-warrior-the-chiptune-composer",
     "westland-warrior-the-tracker-musician",
     "westland-warrior-the-drummer",
     "westland-warrior-the-musician",
     "westland-warrior-the-composer",
     "westland-warrior-the-music-theorist",
-
     "westland-warrior-the-dancer",
     "westland-warrior-the-street-performer",
     "westland-warrior-the-maverick",
@@ -105,11 +103,11 @@
     "westland-warrior-the-storyteller",
     "westland-warrior-the-paper-artist",
     "westland-warrior-the-sculptor",
-    "westland-warrior-the-photographer",
-    "westland-warrior-the-filmmaker",
     "westland-warrior-the-mudlark",
     "westland-warrior-the-beach-bum",
     "westland-warrior-the-color-theorist",
+    "westland-warrior-the-photographer",
+    "westland-warrior-the-photo-manipulator",
     "westland-warrior-the-artist",
     "westland-warrior-the-graffitist",
     "westland-warrior-the-guerrilla-artist",
@@ -130,6 +128,7 @@
     "westland-warrior-the-futurist",
     "westland-warrior-the-cyberpunk",
     "westland-warrior-the-art-punk",
+    "westland-warrior-the-filmmaker",
     "westland-warrior-the-mathematician",
     "westland-warrior-the-hacker",
     "westland-warrior-the-wizard",
@@ -159,6 +158,5 @@
     "westland-warrior-the-believer",
     "westland-warrior-the-human",
     "westland-warrior-the-great-being"
-
   ]
 }
