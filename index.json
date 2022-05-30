@@ -72,7 +72,6 @@
     "westland-warrior-the-gun-enthusiast",
     "westland-warrior-the-antiquarian",
     "westland-warrior-the-restorer",
-
     "westland-warrior-the-knickknack-artist",
     "westland-warrior-the-polymer-clay-artist",
     "westland-warrior-the-3d-printer",
@@ -84,7 +83,6 @@
     "westland-warrior-the-inventor",
     "westland-warrior-the-wire-artist",
     "westland-warrior-the-jeweler",
-
     "westland-warrior-the-electrical-engineer",
     "westland-warrior-the-engineer",
     "westland-warrior-the-rocketeer",
@@ -106,6 +104,7 @@
     "westland-warrior-the-writer",
     "westland-warrior-the-storyteller",
     "westland-warrior-the-paper-artist",
+    "westland-warrior-the-3d-pen-artist",
     "westland-warrior-the-relief-sculptor",
     "westland-warrior-the-sculptor",
     "westland-warrior-the-mudlark",
@@ -164,5 +163,6 @@
     "westland-warrior-the-believer",
     "westland-warrior-the-human",
     "westland-warrior-the-great-being"
+
   ]
 }
