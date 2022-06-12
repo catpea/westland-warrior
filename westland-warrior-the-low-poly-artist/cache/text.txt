@@ -1,0 +1,70 @@
+From 3D Model to Foam Pattern | Cosplay Tutorial[1]
+Turning a 3D model into a paper model using Blender[2]
+Acorn[3]
+Make A Low Poly Barrel[4]
+Low Poly Treasure Chest[5]
+Create A Low Poly Well[6]
+Create a Low Poly Person | Blender 2.8 | Beginners & Intermediate[7]
+Low Poly City Assets (Blender Tutorial)[8]
+3 Vital Tips to Improve Low Poly Work[9]
+How to make a LOW POLY Animal in BLENDER![10]
+Low Poly Animals[11]
+Как создать простую 3D Low Poly модель собаки в blender 2.93[12]
+Low Poly 3D Planet Full Tutorial in Blender 3.0[13]
+Делаем стилизованные low poly модельки в Blender для игр вместе с Rita Mirgo[14]
+Low Poly Worlds[15]
+Low Poly Island | Beginner[16]
+Hexagon World with Geometry Nodes Fields - Blender 3.0 Tutorial[17]
+Simple Trick for Low Poly Landscapes[18]
+Easy Low Poly Character Modeling[19]
+Rig a Low Poly Character[20]
+Key Frame Animation of Low Poly Character[21]
+Low Poly Witch's Brew Commentary Tutorial in Blender 2.82[22]
+Learn Low Poly Modeling in Blender 2.9 / 2.8[23]
+Low Poly Techniques in Blender 3.x[24]
+How To Make Stylized Low Poly Game Art (Blender, Unity)[25]
+Blender Sculpting Tutorial: Full Advanced Creature Creation Workflow (Very Informational)[26]
+Blender for Beginners: Easy Froggy! (Not Quite Low Poly but Froggy)[27]
+Cute Mushroom Full Tutorial[28]
+Mama Bear Low Poly Sculpture[29]
+Giant Gorilla by Sculpture Studios[30]
+Cómo hacer Papercraft con Blender 2.9 y Pepakura Designer 4 (Use Mesh > Cleanup > Merge By Distance, to fuse the vertices at 10:00)[31]
+How to make a paper model in Blender[32]
+How YOU can make foam HORNS using Blender! 😈 [33]
+Blender Paper Model Timelapse[34]
+ 
+References
+[1]: https://www.youtube.com/watch?v=wRBk9npIevQ
+[2]: https://www.youtube.com/watch?v=255BseR-XR0
+[3]: https://www.youtube.com/watch?v=RQu8_UAGF5o
+[4]: https://www.youtube.com/watch?v=0jWLjAaIEMg&t=89s
+[5]: https://www.youtube.com/watch?v=HJf9G4NMdt4&t=58s
+[6]: https://www.youtube.com/watch?v=OlnkGCdtGEw&t=48s
+[7]: https://www.youtube.com/watch?v=4OUYOKGl7x0
+[8]: https://www.youtube.com/watch?v=UFws4TM5u6o
+[9]: https://www.youtube.com/watch?v=xOIQzgg5ebs&t=32s
+[10]: https://www.youtube.com/watch?v=5HMSwnUJTHc
+[11]: https://www.youtube.com/watch?v=6mT4XFJYq-4
+[12]: https://www.youtube.com/watch?v=7OMMB-HfSNc&t=30s
+[13]: https://www.youtube.com/watch?v=8FXJJDFAL6o&t=64s
+[14]: https://www.youtube.com/watch?v=JjF1wKloFEk
+[15]: https://www.youtube.com/watch?v=ELiqWceCk0Q&t=53s
+[16]: https://www.youtube.com/watch?v=0lj643VmTsg&t=102s
+[17]: https://www.youtube.com/watch?v=EboNtLKn_m8
+[18]: https://www.youtube.com/watch?v=RjxIaq8OiQg&t=13s
+[19]: https://www.youtube.com/watch?v=eBOcbYHexAM
+[20]: https://www.youtube.com/watch?v=XkiWBSSuxLw
+[21]: https://www.youtube.com/watch?v=yjjLD3h3yRc
+[22]: https://www.youtube.com/watch?v=a-WELAunFsc&t=34s
+[23]: https://www.youtube.com/watch?v=1jHUY3qoBu8
+[24]: https://www.youtube.com/watch?v=gJ-XW5xLNsw
+[25]: https://www.youtube.com/watch?v=QTM2Yr_EibU
+[26]: https://www.youtube.com/watch?v=tQfFlzHJJ88
+[27]: https://www.youtube.com/watch?v=rEBwBrRzyhw
+[28]: https://www.youtube.com/watch?v=Ar0aLdXhEK0&t=60s
+[29]: https://www.youtube.com/watch?v=w-fLZo9kcx0
+[30]: https://www.youtube.com/watch?v=jBA86elL4o4
+[31]: https://www.youtube.com/watch?v=GQVhg1evERQ
+[32]: https://www.youtube.com/watch?v=klran7MH5Yw
+[33]: https://www.youtube.com/watch?v=W-AiXy76uCI&t=75s
+[34]: https://www.youtube.com/watch?v=KmauC4K34gY

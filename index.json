@@ -109,7 +109,6 @@
     "westland-warrior-the-sculptor",
     "westland-warrior-the-mudlark",
     "westland-warrior-the-beach-bum",
-
     "westland-warrior-the-color-collector",
     "westland-warrior-the-color-theorist",
     "westland-warrior-the-photographer",
@@ -123,6 +122,7 @@
     "westland-warrior-the-procedural-modeler",
     "westland-warrior-the-graphician",
     "westland-warrior-the-pixel-artist",
+    "westland-warrior-the-low-poly-artist",
     "westland-warrior-the-digital-painter",
     "westland-warrior-the-impressionist",
     "westland-warrior-the-pop-surrealist",
@@ -135,7 +135,6 @@
     "westland-warrior-the-futurist",
     "westland-warrior-the-cyberpunk",
     "westland-warrior-the-art-punk",
-
     "westland-warrior-the-filmmaker",
     "westland-warrior-the-mathematician",
     "westland-warrior-the-hacker",
@@ -166,6 +165,5 @@
     "westland-warrior-the-believer",
     "westland-warrior-the-human",
     "westland-warrior-the-great-being"
-
   ]
 }
