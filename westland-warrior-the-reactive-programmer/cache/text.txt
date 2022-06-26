@@ -1,0 +1,102 @@
+Ew![1]
+Meet the two guys who invented the first-ever spreadsheet[2]
+The Computer Chronicles - Spreadsheet Wars (1988)[3]
+Introduction to Microsoft Excel 1992[4]
+Retro Tech Bytes - The Story of VisiCalc[5]
+Meet the inventor of the electronic spreadsheet | Dan Bricklin[6]
+The Story of Asynchronous JavaScript[7]
+The Story of React[8]
+Vue.js: The Documentary[9]
+Svelte Origins: A JavaScript Documentary[10]
+The Story of Next.js[11]
+Rich Harris - Rethinking reactivity[12]
+The Future of Svelte (Interview with Rich Harris)[13]
+Svelte 3 Reaction & QuickStart Tutorial[14]
+Trying Svelte for the 3rd Time[15]
+SvelteKit Crash Course - SSR, API Routes, Stores, Tailwind CSS, and More![16]
+Svelte vs React vs Angular vs Vue[17]
+5 Things I Like In Svelte More Than React[18]
+Svelte vs. React vs. Vue | Best SPA Framework for 2022[19]
+Vue.js Explained in 100 Seconds[20]
+JavaScript Reactivity Explained Visually[21]
+What Is React (React js) & Why Is It So Popular?[22]
+React for the Haters in 100 Seconds[23]
+Hardest Backend Node.js Concept to Master[24]
+Node JS Tutorial for Beginners #13 - Streams and Buffers[25]
+Node JS - Pipe, Duplex, & Transform Streams[26]
+How to use read and write streams in node.js for BIG CSV files[27]
+Stream Into the Future (NodeJS Streams)[28]
+Node.js Stream Tutorial - The Power and Simplicity of Node.js Streams[29]
+Functional Reactive Programming with Bacon.js[30]
+An introduction to Functional Reactive Programming and Bacon js[31]
+How to Read RxJS Marble Diagrams[32]
+6 Marble Diagrams[33]
+RxJs & Reactive Programming - Part 5 - Marble Diagrams[34]
+RxJS Quick Start with Practical Examples[35]
+OBSERVABLES, OBSERVERS & SUBSCRIPTIONS | RxJS TUTORIAL[36]
+Learning how to ride: an introduction to Cycle.js - JS Monthly London[37]
+Offline-First Apps with PouchDB[38]
+PouchDB Tutorial - Offline First Apps with PouchDB[39]
+How to Use PouchDB Database in 35 Minutes[40]
+CouchDB Explained[41]
+CouchDB Basics[42]
+Nordic.js 2017 • Mark Nadal - The Design and Evolution of Event-Driven Databases[43]
+Gun feat. Mark Nadal - An open source cybersecurity protocol for syncing decentralized graph data[44]
+RethinkDB & ReQL Crash Course[45]
+JavaScript Higher Order Functions & Arrays[46]
+Functional Programming Basics In ES6[47]
+These Technologies Are Going To Die[48]
+100+ Web Development Things you Should Know[49]
+Steve Ballmer: Developers[50]
+ 
+References
+[1]: https://www.youtube.com/watch?v=UlJku_CSyNg
+[2]: https://www.youtube.com/watch?v=f_NqkiNJPlU
+[3]: https://www.youtube.com/watch?v=eAiZBUYNUBA
+[4]: https://www.youtube.com/watch?v=kOO31qFmi9A
+[5]: https://www.youtube.com/watch?v=nDPD7U_M8yw
+[6]: https://www.youtube.com/watch?v=YDvbDiJZpy0
+[7]: https://www.youtube.com/watch?v=rivBfgaEyWQ
+[8]: https://www.youtube.com/watch?v=Wm_xI7KntDs
+[9]: https://www.youtube.com/watch?v=OrxmtDw4pVI
+[10]: https://www.youtube.com/watch?v=kMlkCYL9qo0
+[11]: https://www.youtube.com/watch?v=BILxV_vrZO0
+[12]: https://www.youtube.com/watch?v=AdNJ3fydeao
+[13]: https://www.youtube.com/watch?v=uQntFkK8Z54
+[14]: https://www.youtube.com/watch?v=043h4ugAj4c
+[15]: https://www.youtube.com/watch?v=xgER1OutVvU
+[16]: https://www.youtube.com/watch?v=UU7MgYIbtAk
+[17]: https://www.youtube.com/watch?v=DZyWNS4fVE0
+[18]: https://www.youtube.com/watch?v=3fLwkhkYdHM
+[19]: https://www.youtube.com/watch?v=LSiV8A9Zqzw
+[20]: https://www.youtube.com/watch?v=nhBVL41-_Cw
+[21]: https://www.youtube.com/watch?v=7Cjb7Xj8fEI
+[22]: https://www.youtube.com/watch?v=N3AkSS5hXMA
+[23]: https://www.youtube.com/watch?v=HyWYpM_S-2c
+[24]: https://www.youtube.com/watch?v=FZOEL5nByYg
+[25]: https://www.youtube.com/watch?v=GlybFFMXXmQ
+[26]: https://www.youtube.com/watch?v=rQXaDH__Suk
+[27]: https://www.youtube.com/watch?v=O37n35XUxj0
+[28]: https://www.youtube.com/watch?v=aTEDCotcn20
+[29]: https://www.youtube.com/watch?v=GpGTYp_G9VE
+[30]: https://www.youtube.com/watch?v=7PGbbCk3DoE
+[31]: https://www.youtube.com/watch?v=uXJkoXKMCEE
+[32]: https://www.youtube.com/watch?v=m6jkzIHMEdg
+[33]: https://www.youtube.com/watch?v=hPFTHBUZ_9s
+[34]: https://www.youtube.com/watch?v=1uijN4Z2d8U
+[35]: https://www.youtube.com/watch?v=2LCo926NFLI
+[36]: https://www.youtube.com/watch?v=Tux1nhBPl_w
+[37]: https://www.youtube.com/watch?v=31URmaeNHSs
+[38]: https://www.youtube.com/watch?v=7L7esHWAjSU
+[39]: https://www.youtube.com/watch?v=OdxGJ4lgies
+[40]: https://www.youtube.com/watch?v=V6X-JrRHAvY
+[41]: https://www.youtube.com/watch?v=aOE90VAVOcU
+[42]: https://www.youtube.com/watch?v=nlqv9Np3iAU
+[43]: https://www.youtube.com/watch?v=5fCPRY-9hkc
+[44]: https://www.youtube.com/watch?v=_eo_7BxTrmc
+[45]: https://www.youtube.com/watch?v=pW3PFtchHDc
+[46]: https://www.youtube.com/watch?v=rRgD1yVwIvE
+[47]: https://www.youtube.com/watch?v=FYXpOjwYzcs
+[48]: https://www.youtube.com/watch?v=SmaxK_Iw61M
+[49]: https://www.youtube.com/watch?v=erEgovG9WBs
+[50]: https://www.youtube.com/watch?v=I14b-C67EXY&t=12

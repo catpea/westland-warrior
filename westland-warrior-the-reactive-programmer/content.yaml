@@ -1,0 +1,230 @@
+- type: youtube
+  id: UlJku_CSyNg
+  title: "Ew!"
+
+- type: youtube
+  id: f_NqkiNJPlU
+  title: "Meet the two guys who invented the first-ever spreadsheet"
+
+- type: youtube
+  id: eAiZBUYNUBA
+  title: "The Computer Chronicles - Spreadsheet Wars (1988)"
+
+- type: youtube
+  id: kOO31qFmi9A
+  title: "Introduction to Microsoft Excel 1992"
+
+- type: youtube
+  id: nDPD7U_M8yw
+  title: "Retro Tech Bytes - The Story of VisiCalc"
+
+- type: youtube
+  id: YDvbDiJZpy0
+  title: "Meet the inventor of the electronic spreadsheet | Dan Bricklin"
+
+- type: youtube
+  id: rivBfgaEyWQ
+  title: "The Story of Asynchronous JavaScript"
+
+- type: youtube
+  id: Wm_xI7KntDs
+  title: "The Story of React"
+
+- type: youtube
+  id: OrxmtDw4pVI
+  title: "Vue.js: The Documentary"
+
+- type: youtube
+  id: kMlkCYL9qo0
+  title: "Svelte Origins: A JavaScript Documentary"
+
+- type: youtube
+  id: BILxV_vrZO0
+  title: "The Story of Next.js"
+
+- type: youtube
+  id: AdNJ3fydeao
+  title: "Rich Harris - Rethinking reactivity"
+
+## Svelte
+
+- type: youtube
+  id: uQntFkK8Z54
+  title: "The Future of Svelte (Interview with Rich Harris)"
+
+- type: youtube
+  id: 043h4ugAj4c
+  title: "Svelte 3 Reaction & QuickStart Tutorial"
+
+- type: youtube
+  id: xgER1OutVvU
+  title: "Trying Svelte for the 3rd Time"
+
+- type: youtube
+  id: UU7MgYIbtAk
+  title: "SvelteKit Crash Course - SSR, API Routes, Stores, Tailwind CSS, and More!"
+
+- type: youtube
+  id: DZyWNS4fVE0
+  title: "Svelte vs React vs Angular vs Vue"
+
+- type: youtube
+  id: 3fLwkhkYdHM
+  title: "5 Things I Like In Svelte More Than React"
+
+- type: youtube
+  id: LSiV8A9Zqzw
+  title: "Svelte vs. React vs. Vue | Best SPA Framework for 2022"
+
+## Vue JS
+
+- type: youtube
+  id: nhBVL41-_Cw
+  title: "Vue.js Explained in 100 Seconds"
+
+- type: youtube
+  id: 7Cjb7Xj8fEI
+  title: "JavaScript Reactivity Explained Visually"
+
+
+## React
+
+- type: youtube
+  id: N3AkSS5hXMA
+  title: "What Is React (React js) & Why Is It So Popular?"
+
+- type: youtube
+  id: HyWYpM_S-2c
+  title: "React for the Haters in 100 Seconds"
+
+
+## Node Streams
+
+- type: youtube
+  id: FZOEL5nByYg
+  title: " Hardest Backend Node.js Concept to Master"
+
+- type: youtube
+  id: GlybFFMXXmQ
+  title: " Node JS Tutorial for Beginners #13 - Streams and Buffers"
+
+- type: youtube
+  id: rQXaDH__Suk
+  title: "Node JS - Pipe, Duplex, & Transform Streams"
+
+- type: youtube
+  id: O37n35XUxj0
+  title: "How to use read and write streams in node.js for BIG CSV files"
+
+- type: youtube
+  id: aTEDCotcn20
+  title: "Stream Into the Future (NodeJS Streams)"
+
+- type: youtube
+  id: GpGTYp_G9VE
+  title: "Node.js Stream Tutorial - The Power and Simplicity of Node.js Streams"
+
+
+## Bacon
+
+- type: youtube
+  id: 7PGbbCk3DoE
+  title: "Functional Reactive Programming with Bacon.js"
+
+- type: youtube
+  id: uXJkoXKMCEE
+  title: "An introduction to Functional Reactive Programming and Bacon js"
+
+## RXJs
+
+- type: youtube
+  id: m6jkzIHMEdg
+  title: "How to Read RxJS Marble Diagrams"
+
+- type: youtube
+  id: hPFTHBUZ_9s
+  title: "6 Marble Diagrams"
+
+- type: youtube
+  id: 1uijN4Z2d8U
+  title: "RxJs & Reactive Programming - Part 5 - Marble Diagrams"
+
+- type: youtube
+  id: 2LCo926NFLI
+  title: "RxJS Quick Start with Practical Examples"
+
+- type: youtube
+  id: Tux1nhBPl_w
+  title: "OBSERVABLES, OBSERVERS & SUBSCRIPTIONS | RxJS TUTORIAL"
+
+#Misc
+
+- type: youtube
+  id: 31URmaeNHSs
+  title: "Learning how to ride: an introduction to Cycle.js - JS Monthly London"
+
+
+## Pouch DB
+
+- type: youtube
+  id: 7L7esHWAjSU
+  title: "Offline-First Apps with PouchDB"
+
+- type: youtube
+  id: OdxGJ4lgies
+  title: "PouchDB Tutorial - Offline First Apps with PouchDB"
+
+- type: youtube
+  id: V6X-JrRHAvY
+  title: "How to Use PouchDB Database in 35 Minutes"
+
+## Couch DB
+
+- type: youtube
+  id: aOE90VAVOcU
+  title: "CouchDB Explained"
+
+- type: youtube
+  id: nlqv9Np3iAU
+  title: "CouchDB Basics"
+
+## GunDB
+
+- type: youtube
+  id: 5fCPRY-9hkc
+  title: "Nordic.js 2017 • Mark Nadal - The Design and Evolution of Event-Driven Databases"
+
+- type: youtube
+  id: _eo_7BxTrmc
+  title: "Gun feat. Mark Nadal - An open source cybersecurity protocol for syncing decentralized graph data"
+
+## RethinkDB
+
+- type: youtube
+  id: pW3PFtchHDc
+  title: "RethinkDB & ReQL Crash Course"
+
+### Misc
+
+- type: youtube
+  id: rRgD1yVwIvE
+  title: "JavaScript Higher Order Functions & Arrays"
+
+- type: youtube
+  id: FYXpOjwYzcs
+  title: "Functional Programming Basics In ES6"
+
+###
+
+- type: youtube
+  id: SmaxK_Iw61M
+  title: "These Technologies Are Going To Die"
+
+- type: youtube
+  id: erEgovG9WBs
+  title: "100+ Web Development Things you Should Know"
+
+- type: youtube
+  id: I14b-C67EXY
+  title: "Steve Ballmer: Developers"
+  skip: 12
