@@ -1,8 +1,10 @@
+Drew Struzan - Tracing[1]
+
 QUOTE BY FRIDA KAHLO
 
 > I never paint dreams or nightmares. I paint my own reality.
 > 
-> Frida Kahlo[1]
+> Frida Kahlo[2]
 
 TRACING PAPER
 
@@ -10,7 +12,7 @@ Tracing paper does not need batteries, just a pencil.
 Anybody can trace a printout of something they like with tracing paper.
 What many don't understand is that after tracing, you need to black out the
 opposite side of your trace to create a home made, Transfer Paper.
-How to Transfer an Image Using Tracing Paper[2]
+How to Transfer an Image Using Tracing Paper[3]
 
 TRACING PAPER
 
@@ -28,32 +30,32 @@ Graphite Paper is a lot darker and sharper. If you trace something that
 has a lot of small details, you should use Graphite Paper.)
 Now you will place Graphite Paper over your Drawing paper, and then put
 your trace on top, and then go over it with a pencil.
-Graphite Paper on Amazon[3].
-Getting Started: Three Ways to Transfer an Image to Watercolor Paper[4]
+Graphite Paper on Amazon[4].
+Getting Started: Three Ways to Transfer an Image to Watercolor Paper[5]
 
 LIGHT BOX
 
 Lightbox will help you with tracing and creation of new designs.
 A light box is an interesting addition to the process of tracing, it does
 need batteries, or a USB port. When buying an inexpensive light box ($25),
-you might want to consider getting a tiny battery powered projector[5]
+you might want to consider getting a tiny battery powered projector[6]
 ($75) as well.
-Light Boxes Paper on Amazon[6].
-How to trace a picture.[7]
+Light Boxes Paper on Amazon[7].
+How to trace a picture.[8]
 
 DIGITAL PROJECTOR
 
 Digital projectors ($100 - $400) are the fastest way to create murals and
 paintings.
-Digital Projectors on Amazon[8].
-Home Wall Painting Using projector - DIY[9]
+Digital Projectors on Amazon[9].
+Home Wall Painting Using projector - DIY[10]
 
 DIGITAL PROJECTOR
 
 You can take a selfie, connect your phone to the projector, and begin
 painting.
 Even better you can connect your Raspberry PI, or Laptop and use a program
-like GIMP[10] where you can manipulate your source material to reveal
+like GIMP[11] where you can manipulate your source material to reveal
 edges, colors, or adjust contrast while painting to reveal the brightest
 parts of your source material.
 Tip: Consider putting registration marks in your image and on your canvas,
@@ -64,7 +66,7 @@ Idea: Record your painting progress and upload a sped up movie to YouTube.
 MONA LISA
 
 Using the Mona Lisa to show what you can get by connecting your projector
-to your laptop, and using a program like GIMP[11].
+to your laptop, and using a program like GIMP[12].
 
 MONA LISA EDGE DETECTION
 
@@ -77,13 +79,13 @@ Show the color palette.
 MONA LISA HIGHLIGHTS
 
 Reveal the brightest parts (highlights) in Mona Lisa.
-How to use GIMP for beginners tutorial[12]
-Learn GIMP in 30 minutes, Complete Tutorial for Beginners[13]
-Working With Filters - GIMP Tutorials[14]
-Sfumato, Unione, Chiaroscuro, Cangiante[15]
-Painting the Portrait: The Grisaille Method in Oil Part 1/2[16]
-Painting the Portrait: The Grisaille Method in Oil Part 2/2[17]
-Grisaille Method with Jon deMartin[18]
+How to use GIMP for beginners tutorial[13]
+Learn GIMP in 30 minutes, Complete Tutorial for Beginners[14]
+Working With Filters - GIMP Tutorials[15]
+Sfumato, Unione, Chiaroscuro, Cangiante[16]
+Painting the Portrait: The Grisaille Method in Oil Part 1/2[17]
+Painting the Portrait: The Grisaille Method in Oil Part 2/2[18]
+Grisaille Method with Jon deMartin[19]
 
 BUSINESS PRACTICE: BRIANNA SCHRETLEN AND HER FUR KIDS
 
@@ -92,52 +94,53 @@ fur kids. I've always loved painting and drawing animals. Our pets are like
 family, and I truly enjoy working on tributes to these silly, lovable,
 trusting and loyal creatures. In addition to Bri Pet Portraits, I am also
 on Etsy under the shop Bri Baby Art - a shop featuring custom artworks for
-nurseries and kids room decor." (from BriPetPortraits on Etsy[19])
+nurseries and kids room decor." (from BriPetPortraits on Etsy[20])
 Custom Pet Portraits. Online business where people upload an image, and you
 create a large canvas painting, or drawing. It looks like the price is
 about $50 per portrait. Throw in a bonus, record a time lapse video of the
 painting for advertising, portfolio, and internet points.
-Pet portrait time-lapse.[20]
+Pet portrait time-lapse.[21]
 
 QUOTE BY HENRI MATISSE
 
 > Creativity takes courage.
 > 
-> Henri Matisse[21]
+> Henri Matisse[22]
 
 PLEASE, NEVER DRAW ALONE.
 
 If you are going to draw with pencils make sure to use blending stumps and
-smudge the graphite to give it a photo-realistic look. Get an artboard[22], Drawing Paper (not Sketching Paper), tin of pencils[23],
-battery powered eraser and eraser shield, and head for the DIA[24], or a
+smudge the graphite to give it a photo-realistic look. Get an artboard[23], Drawing Paper (not Sketching Paper), tin of pencils[24],
+battery powered eraser and eraser shield, and head for the DIA[25], or a
 Museum, or even a Coffee Shop.
-Blending Stumps for Beginners[25]
-What's an Eraser Shield?[26]
+Blending Stumps for Beginners[26]
+What's an Eraser Shield?[27]
  
 References
-[1]: https://en.wikipedia.org/wiki/Frida_Kahlo
-[2]: https://www.youtube.com/watch?v=JW5PYVbc6ho
-[3]: https://www.amazon.com/graphite-paper/s?k=graphite+paper
-[4]: https://www.youtube.com/watch?v=fN-VtUBC7Ys
-[5]: https://www.amazon.com/s?k=Mini+Projector&ref=nb_sb_noss_2
-[6]: https://www.amazon.com/s?k=Light+Box+Tracing&ref=nb_sb_noss_2
-[7]: https://www.youtube.com/watch?v=cQGeOMCGh0U
-[8]: https://www.amazon.com/Digital-Projectors/s?k=Digital+Projectors
-[9]: https://www.youtube.com/watch?v=iGDfa4T9yTE
-[10]: https://www.gimp.org/
+[1]: https://www.youtube.com/watch?v=0fEMJp70tGU
+[2]: https://en.wikipedia.org/wiki/Frida_Kahlo
+[3]: https://www.youtube.com/watch?v=JW5PYVbc6ho
+[4]: https://www.amazon.com/graphite-paper/s?k=graphite+paper
+[5]: https://www.youtube.com/watch?v=fN-VtUBC7Ys
+[6]: https://www.amazon.com/s?k=Mini+Projector&ref=nb_sb_noss_2
+[7]: https://www.amazon.com/s?k=Light+Box+Tracing&ref=nb_sb_noss_2
+[8]: https://www.youtube.com/watch?v=cQGeOMCGh0U
+[9]: https://www.amazon.com/Digital-Projectors/s?k=Digital+Projectors
+[10]: https://www.youtube.com/watch?v=iGDfa4T9yTE
 [11]: https://www.gimp.org/
-[12]: https://www.youtube.com/watch?v=7LXyClky6A8
-[13]: https://www.youtube.com/watch?v=IeABb8cwdUg
-[14]: https://www.youtube.com/watch?v=BB6LM9IYcco
-[15]: https://www.youtube.com/watch?v=Rp4G1pXx-cs
-[16]: https://www.youtube.com/watch?v=1183SVMyJVI
-[17]: https://www.youtube.com/watch?v=vN6aZSSGKGs
-[18]: https://www.youtube.com/watch?v=JPar_nzAEL0
-[19]: https://www.etsy.com/shop/BriPetPortraits
-[20]: https://www.youtube.com/watch?v=Aqn363Z1f5A
-[21]: https://en.wikipedia.org/wiki/Henri_Matisse
-[22]: https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Darts-crafts&field-keywords=Sketch+Tote+Drawing+
-[23]: https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Doffice-products&field-keywords=Staedtler+Lumograph+Graphite+Drawing
-[24]: https://www.dia.org/
-[25]: https://www.youtube.com/watch?v=zHiaJMf7m9Y
-[26]: https://www.youtube.com/watch?v=bluffx6sB04
+[12]: https://www.gimp.org/
+[13]: https://www.youtube.com/watch?v=7LXyClky6A8
+[14]: https://www.youtube.com/watch?v=IeABb8cwdUg
+[15]: https://www.youtube.com/watch?v=BB6LM9IYcco
+[16]: https://www.youtube.com/watch?v=Rp4G1pXx-cs
+[17]: https://www.youtube.com/watch?v=1183SVMyJVI
+[18]: https://www.youtube.com/watch?v=vN6aZSSGKGs
+[19]: https://www.youtube.com/watch?v=JPar_nzAEL0
+[20]: https://www.etsy.com/shop/BriPetPortraits
+[21]: https://www.youtube.com/watch?v=Aqn363Z1f5A
+[22]: https://en.wikipedia.org/wiki/Henri_Matisse
+[23]: https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Darts-crafts&field-keywords=Sketch+Tote+Drawing+
+[24]: https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Doffice-products&field-keywords=Staedtler+Lumograph+Graphite+Drawing
+[25]: https://www.dia.org/
+[26]: https://www.youtube.com/watch?v=zHiaJMf7m9Y
+[27]: https://www.youtube.com/watch?v=bluffx6sB04
