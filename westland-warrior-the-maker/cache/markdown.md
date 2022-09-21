@@ -1,12 +1,12 @@
 My creations, a new form of life by Theo Jansen
 -----------------------------------------------
 
-[![]( /image/yid-b694exl_oZo.jpg)](https://www.youtube.com/watch?v=b694exl_oZo)
+[![](/image/yid-b694exl_oZo.jpg)](https://www.youtube.com/watch?v=b694exl_oZo)
 
 Strandbeest Evolution 2017
 --------------------------
 
-[![]( /image/yid-KsqlnGMzMD4.jpg)](https://www.youtube.com/watch?v=KsqlnGMzMD4)
+[![](/image/yid-KsqlnGMzMD4.jpg)](https://www.youtube.com/watch?v=KsqlnGMzMD4)
 
 Colin Furze
 -----------
@@ -16,12 +16,12 @@ Colin Furze
 Homemade Hoverbike
 ------------------
 
-[![]( /image/yid-soxxPyaAT1k.jpg)](https://www.youtube.com/watch?v=soxxPyaAT1k)
+[![](/image/yid-soxxPyaAT1k.jpg)](https://www.youtube.com/watch?v=soxxPyaAT1k)
 
 Underground Beach Hut Build
 ---------------------------
 
-[![]( /image/yid-yox9CKYh7EU.jpg)](https://www.youtube.com/watch?v=yox9CKYh7EU)
+[![](/image/yid-yox9CKYh7EU.jpg)](https://www.youtube.com/watch?v=yox9CKYh7EU)
 
 Jimmy Diresta
 -------------
@@ -31,12 +31,12 @@ Jimmy Diresta
 Brass Hammer
 ------------
 
-[![]( /image/yid-M6v2trBW4es.jpg)](https://www.youtube.com/watch?v=M6v2trBW4es)
+[![](/image/yid-M6v2trBW4es.jpg)](https://www.youtube.com/watch?v=M6v2trBW4es)
 
 Stained Glass Window
 --------------------
 
-[![]( /image/yid-gwAId02ssYs.jpg)](https://www.youtube.com/watch?v=gwAId02ssYs)
+[![](/image/yid-gwAId02ssYs.jpg)](https://www.youtube.com/watch?v=gwAId02ssYs)
 
 Clickspring
 -----------
@@ -50,12 +50,12 @@ Clickspring
 The Antikythera Mechanism Episode 1 - Greeks, Clocks and Rockets.
 -----------------------------------------------------------------
 
-[![]( /image/yid-ML4tw_UzqZE.jpg)](https://www.youtube.com/watch?v=ML4tw_UzqZE)
+[![](/image/yid-ML4tw_UzqZE.jpg)](https://www.youtube.com/watch?v=ML4tw_UzqZE)
 
 How To Make A Clock In The Home Machine Shop - Part 1
 -----------------------------------------------------
 
-[![]( /image/yid-B8Y146v8HxE.jpg)](https://www.youtube.com/watch?v=B8Y146v8HxE)
+[![](/image/yid-B8Y146v8HxE.jpg)](https://www.youtube.com/watch?v=B8Y146v8HxE)
 
 Andre Will Do It
 ----------------
@@ -65,12 +65,12 @@ Andre Will Do It
 Rusty Remington Clone
 ---------------------
 
-[![]( /image/yid-py6WEp6pKGE.jpg)](https://www.youtube.com/watch?v=py6WEp6pKGE)
+[![](/image/yid-py6WEp6pKGE.jpg)](https://www.youtube.com/watch?v=py6WEp6pKGE)
 
 Abandoned 1886 Colt Lightning
 -----------------------------
 
-[![]( /image/yid-86356fRR1VY.jpg)](https://www.youtube.com/watch?v=86356fRR1VY)
+[![](/image/yid-86356fRR1VY.jpg)](https://www.youtube.com/watch?v=86356fRR1VY)
 
 Black Beard Projects
 --------------------
@@ -80,7 +80,7 @@ Black Beard Projects
 Knifemaker Restore An Italian Chef's Knife Worth 1€
 ---------------------------------------------------
 
-[![]( /image/yid-2RVyE1wlH7E.jpg)](https://www.youtube.com/watch?v=2RVyE1wlH7E)
+[![](/image/yid-2RVyE1wlH7E.jpg)](https://www.youtube.com/watch?v=2RVyE1wlH7E)
 
 This Old Tony
 -------------
@@ -90,7 +90,7 @@ This Old Tony
 CNC Sword
 ---------
 
-[![]( /image/yid-sjn6qeFzQCA.jpg)](https://www.youtube.com/watch?v=sjn6qeFzQCA)
+[![](/image/yid-sjn6qeFzQCA.jpg)](https://www.youtube.com/watch?v=sjn6qeFzQCA)
 
 Alumi Tube
 ----------
@@ -100,7 +100,7 @@ Alumi Tube
 Casting REAL BRONZE THANOS Infinity Gauntlet
 --------------------------------------------
 
-[![]( /image/yid-5g2DxY1Rjag.jpg)](https://www.youtube.com/watch?v=5g2DxY1Rjag)
+[![](/image/yid-5g2DxY1Rjag.jpg)](https://www.youtube.com/watch?v=5g2DxY1Rjag)
 
 My Ford Boy
 -----------
@@ -110,7 +110,7 @@ My Ford Boy
 Casting and Machining a Toothed Pulley
 --------------------------------------
 
-[![]( /image/yid-5GSHXC6fwq4.jpg)](https://www.youtube.com/watch?v=5GSHXC6fwq4)
+[![](/image/yid-5GSHXC6fwq4.jpg)](https://www.youtube.com/watch?v=5GSHXC6fwq4)
 
 Ponoko
 ------
@@ -148,7 +148,7 @@ A good example of a flat cut product that makes good money, is the wallet!
 Dremel Laser Cutter Demo ($6,499.00 - $8,499.00)
 ------------------------------------------------
 
-[![]( /image/yid-rt6TqD000-s.jpg)](https://www.youtube.com/watch?v=rt6TqD000-s)
+[![](/image/yid-rt6TqD000-s.jpg)](https://www.youtube.com/watch?v=rt6TqD000-s)
 
 Laser-cut Leather
 -----------------
@@ -163,7 +163,7 @@ Consider creating a similar business (see The Founder)
 Dremel DigiLab Laser Cutter Luggage Tag Project
 -----------------------------------------------
 
-[![]( /image/yid-sOmhgoD7Z9U.jpg)](https://www.youtube.com/watch?v=sOmhgoD7Z9U)
+[![](/image/yid-sOmhgoD7Z9U.jpg)](https://www.youtube.com/watch?v=sOmhgoD7Z9U)
 
 Laser-cut Leather
 -----------------
@@ -186,12 +186,12 @@ Visit the [the Hacksmith](https://www.youtube.com/channel/UCjgpFI5dU-D1-kh9H1muo
 Building Stormbreaker: Part 1
 -----------------------------
 
-[![]( /image/yid-HxX75eYf598.jpg)](https://www.youtube.com/watch?v=HxX75eYf598)
+[![](/image/yid-HxX75eYf598.jpg)](https://www.youtube.com/watch?v=HxX75eYf598)
 
 BRING ME THANOS! Building Stormbreaker: Part 2
 ----------------------------------------------
 
-[![]( /image/yid-449lCaylrIo.jpg)](https://www.youtube.com/watch?v=449lCaylrIo)
+[![](/image/yid-449lCaylrIo.jpg)](https://www.youtube.com/watch?v=449lCaylrIo)
 
 CNC Plasma Cutter Demo: Man At Arms
 -----------------------------------
@@ -201,7 +201,7 @@ CNC Plasma Cutter Demo: Man At Arms
 Optimus Prime's Sword from Transformers: The Last Knight
 --------------------------------------------------------
 
-[![]( /image/yid-vef62MzS6as.jpg)](https://www.youtube.com/watch?v=vef62MzS6as)
+[![](/image/yid-vef62MzS6as.jpg)](https://www.youtube.com/watch?v=vef62MzS6as)
 
 Plasma CNC in Action
 --------------------
@@ -223,14 +223,14 @@ Visit [Cut in Half](https://www.youtube.com/channel/UCZ9gllpxg63WTW10FcydrHA) an
 cut in half - 1911 Airsoft pistol
 ---------------------------------
 
-[![]( /image/yid-BVL3Y1uJY68.jpg)](https://www.youtube.com/watch?v=BVL3Y1uJY68)
+[![](/image/yid-BVL3Y1uJY68.jpg)](https://www.youtube.com/watch?v=BVL3Y1uJY68)
 
 55lb Kettlebell VS. Waterjet at 60,000 PSI
 ------------------------------------------
 
-[![]( /image/yid-o9ZDmsF3mpI.jpg)](https://www.youtube.com/watch?v=o9ZDmsF3mpI)
+[![](/image/yid-o9ZDmsF3mpI.jpg)](https://www.youtube.com/watch?v=o9ZDmsF3mpI)
 
 Water Trapped in Quartz Rock vs 60,000 PSI Waterjet - Enhydro Agate
 -------------------------------------------------------------------
 
-[![]( /image/yid-jn9Od4oP8D0.jpg)](https://www.youtube.com/watch?v=jn9Od4oP8D0)
+[![](/image/yid-jn9Od4oP8D0.jpg)](https://www.youtube.com/watch?v=jn9Od4oP8D0)

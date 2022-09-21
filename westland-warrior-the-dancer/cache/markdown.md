@@ -8,27 +8,27 @@ Melbourne rave scene, and was popular in the 1980s and 1990s.
 Basic Melbourne Shuffle Tutorial
 --------------------------------
 
-[![]( /image/yid-rrbUkYmOKL0.jpg)](https://www.youtube.com/watch?v=rrbUkYmOKL0)
+[![](/image/yid-rrbUkYmOKL0.jpg)](https://www.youtube.com/watch?v=rrbUkYmOKL0)
 
 Running Man and T Step and Variations
 -------------------------------------
 
-[![]( /image/yid-Kt-Tb9gaOB8.jpg)](https://www.youtube.com/watch?v=Kt-Tb9gaOB8)
+[![](/image/yid-Kt-Tb9gaOB8.jpg)](https://www.youtube.com/watch?v=Kt-Tb9gaOB8)
 
 How to Shuffle #1
 -----------------
 
-[![]( /image/yid-NVISfLc_z8c.jpg)](https://www.youtube.com/watch?v=NVISfLc_z8c)
+[![](/image/yid-NVISfLc_z8c.jpg)](https://www.youtube.com/watch?v=NVISfLc_z8c)
 
 How to Shuffle #2
 -----------------
 
-[![]( /image/yid-Pbx1MVThTfg.jpg)](https://www.youtube.com/watch?v=Pbx1MVThTfg)
+[![](/image/yid-Pbx1MVThTfg.jpg)](https://www.youtube.com/watch?v=Pbx1MVThTfg)
 
 How to Shuffle Dance
 --------------------
 
-[![]( /image/yid-J35OLTyr0YI.jpg)](https://www.youtube.com/watch?v=J35OLTyr0YI)
+[![](/image/yid-J35OLTyr0YI.jpg)](https://www.youtube.com/watch?v=J35OLTyr0YI)
 
 Quote by Brené Brown
 --------------------
@@ -54,7 +54,7 @@ Quote by Brené Brown
 Faded Remix (Electro House)
 ---------------------------
 
-[![]( /image/yid-ZBZ0zGVADXY.jpg)](https://www.youtube.com/watch?v=ZBZ0zGVADXY)
+[![](/image/yid-ZBZ0zGVADXY.jpg)](https://www.youtube.com/watch?v=ZBZ0zGVADXY)
 
 Quote by Neil Gaiman
 --------------------
@@ -68,7 +68,7 @@ Quote by Neil Gaiman
 Faded + Alone
 -------------
 
-[![]( /image/yid-ilrMb3O0H4U.jpg)](https://www.youtube.com/watch?v=ilrMb3O0H4U)
+[![](/image/yid-ilrMb3O0H4U.jpg)](https://www.youtube.com/watch?v=ilrMb3O0H4U)
 
 Quote by Voltaire
 -----------------
@@ -81,7 +81,7 @@ Quote by Voltaire
 Eiffel 65 - Blue (Da Ba Dee)
 ----------------------------
 
-[![]( /image/yid-U0fk5L1ifbo.jpg)](https://www.youtube.com/watch?v=U0fk5L1ifbo)
+[![](/image/yid-U0fk5L1ifbo.jpg)](https://www.youtube.com/watch?v=U0fk5L1ifbo)
 
 Quote by Friedrich Nietzsche
 ----------------------------
@@ -93,7 +93,7 @@ Quote by Friedrich Nietzsche
 Alan Walker Shuffle Dance
 -------------------------
 
-[![]( /image/yid-S321TDbe9Bo.jpg)](https://www.youtube.com/watch?v=S321TDbe9Bo)
+[![](/image/yid-S321TDbe9Bo.jpg)](https://www.youtube.com/watch?v=S321TDbe9Bo)
 
 Quote by Friedrich Nietzsche
 ----------------------------
@@ -106,7 +106,7 @@ Quote by Friedrich Nietzsche
 Alice DJ Better Off Alone | Shuffle Dance
 -----------------------------------------
 
-[![]( /image/yid-_wbEu-KdPE8.jpg)](https://www.youtube.com/watch?v=_wbEu-KdPE8)
+[![](/image/yid-_wbEu-KdPE8.jpg)](https://www.youtube.com/watch?v=_wbEu-KdPE8)
 
 Shuffle Dance Playlist
 ----------------------
@@ -133,27 +133,27 @@ Amazing Choreography of Rasputin
 Boney M. - Rasputin (Sopot Festival 1979)
 -----------------------------------------
 
-[![]( /image/yid-16y1AkoZkmQ.jpg)](https://www.youtube.com/watch?v=16y1AkoZkmQ)
+[![](/image/yid-16y1AkoZkmQ.jpg)](https://www.youtube.com/watch?v=16y1AkoZkmQ)
 
 Just Dance 2 - Rasputin (side by side)
 --------------------------------------
 
-[![]( /image/yid-SRWiqjgOyX0.jpg)](https://www.youtube.com/watch?v=SRWiqjgOyX0)
+[![](/image/yid-SRWiqjgOyX0.jpg)](https://www.youtube.com/watch?v=SRWiqjgOyX0)
 
 LittleSiha dancing to Rasputin
 ------------------------------
 
-[![]( /image/yid-I8kuhv0FcTE.jpg)](https://www.youtube.com/watch?v=I8kuhv0FcTE)
+[![](/image/yid-I8kuhv0FcTE.jpg)](https://www.youtube.com/watch?v=I8kuhv0FcTE)
 
 CiaoMia dancing to Rasputin
 ---------------------------
 
-[![]( /image/yid-a_n2Jm6-NpA.jpg)](https://www.youtube.com/watch?v=a_n2Jm6-NpA)
+[![](/image/yid-a_n2Jm6-NpA.jpg)](https://www.youtube.com/watch?v=a_n2Jm6-NpA)
 
 RASPUTIN - Vladimir Putin - Love The Way You Move
 -------------------------------------------------
 
-[![]( /image/yid-YgGzAKP_HuM.jpg)](https://www.youtube.com/watch?v=YgGzAKP_HuM)
+[![](/image/yid-YgGzAKP_HuM.jpg)](https://www.youtube.com/watch?v=YgGzAKP_HuM)
 
 Notes
 -----
@@ -165,14 +165,14 @@ Notes
 Rasputin by Roman Kondrachov
 ----------------------------
 
-[![]( /image/yid-9S8ecyxO7Bw.jpg)](https://www.youtube.com/watch?v=9S8ecyxO7Bw)
+[![](/image/yid-9S8ecyxO7Bw.jpg)](https://www.youtube.com/watch?v=9S8ecyxO7Bw)
 
 Roman Kondrachov's Ukrainian Folk Dance Solos
 ---------------------------------------------
 
-[![]( /image/yid-85xPjTQYzWM.jpg)](https://www.youtube.com/watch?v=85xPjTQYzWM)
+[![](/image/yid-85xPjTQYzWM.jpg)](https://www.youtube.com/watch?v=85xPjTQYzWM)
 
 PRISYADKA (Russian Squat Kick TUTORIAL) - Detailed
 --------------------------------------------------
 
-[![]( /image/yid-1FLThlB_OWc.jpg)](https://www.youtube.com/watch?v=1FLThlB_OWc)
+[![](/image/yid-1FLThlB_OWc.jpg)](https://www.youtube.com/watch?v=1FLThlB_OWc)

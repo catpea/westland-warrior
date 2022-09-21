@@ -1,37 +1,37 @@
 How to Bend a Spoon with Your Mind by Michael Shermer
 -----------------------------------------------------
 
-[![]( /image/yid-mxSNuIx4m5k.jpg)](https://www.youtube.com/watch?v=mxSNuIx4m5k)
+[![](/image/yid-mxSNuIx4m5k.jpg)](https://www.youtube.com/watch?v=mxSNuIx4m5k)
 
 Introduction to Spoon Bending
 -----------------------------
 
-[![]( /image/yid-bKwmrB5lWfg.jpg)](https://www.youtube.com/watch?v=bKwmrB5lWfg)
+[![](/image/yid-bKwmrB5lWfg.jpg)](https://www.youtube.com/watch?v=bKwmrB5lWfg)
 
 Why do we believe things that aren't true? by Philip Fernbach
 -------------------------------------------------------------
 
-[![]( /image/yid-jobYTQTgeUE.jpg)](https://www.youtube.com/watch?v=jobYTQTgeUE)
+[![](/image/yid-jobYTQTgeUE.jpg)](https://www.youtube.com/watch?v=jobYTQTgeUE)
 
 Why people believe weird things by Michael Shermer
 --------------------------------------------------
 
-[![]( /image/yid-8T_jwq9ph8k.jpg)](https://www.youtube.com/watch?v=8T_jwq9ph8k)
+[![](/image/yid-8T_jwq9ph8k.jpg)](https://www.youtube.com/watch?v=8T_jwq9ph8k)
 
 The Believing Brain - Presented by Dr Michael Shermer
 -----------------------------------------------------
 
-[![]( /image/yid-R6ijdDtOLLo.jpg)](https://www.youtube.com/watch?v=R6ijdDtOLLo)
+[![](/image/yid-R6ijdDtOLLo.jpg)](https://www.youtube.com/watch?v=R6ijdDtOLLo)
 
 James Randi: Homeopathy, Quackery and Fraud
 -------------------------------------------
 
-[![]( /image/yid-c0Z7KeNCi7g.jpg)](https://www.youtube.com/watch?v=c0Z7KeNCi7g)
+[![](/image/yid-c0Z7KeNCi7g.jpg)](https://www.youtube.com/watch?v=c0Z7KeNCi7g)
 
 James Randi Lecture at NASA 1/12
 --------------------------------
 
-[![]( /image/yid-tQHBHRV6eBQ.jpg)](https://www.youtube.com/watch?v=tQHBHRV6eBQ)
+[![](/image/yid-tQHBHRV6eBQ.jpg)](https://www.youtube.com/watch?v=tQHBHRV6eBQ)
 
 Full Playlist
 -------------
@@ -41,27 +41,27 @@ Full Playlist
 An Evening With James Randi
 ---------------------------
 
-[![]( /image/yid-IKHhqTG9hsc.jpg)](https://www.youtube.com/watch?v=IKHhqTG9hsc)
+[![](/image/yid-IKHhqTG9hsc.jpg)](https://www.youtube.com/watch?v=IKHhqTG9hsc)
 
 Surviving the Quacks
 --------------------
 
-[![]( /image/yid-f2izaEqs0pE.jpg)](https://www.youtube.com/watch?v=f2izaEqs0pE)
+[![](/image/yid-f2izaEqs0pE.jpg)](https://www.youtube.com/watch?v=f2izaEqs0pE)
 
 Amazing James Randi
 -------------------
 
-[![]( /image/yid-joADD7jWqa4.jpg)](https://www.youtube.com/watch?v=joADD7jWqa4)
+[![](/image/yid-joADD7jWqa4.jpg)](https://www.youtube.com/watch?v=joADD7jWqa4)
 
 The Best of James Randi
 -----------------------
 
-[![]( /image/yid-uq5MtA33OHk.jpg)](https://www.youtube.com/watch?v=uq5MtA33OHk)
+[![](/image/yid-uq5MtA33OHk.jpg)](https://www.youtube.com/watch?v=uq5MtA33OHk)
 
 The art of cognitive blindspots by Kyle Eschen
 ----------------------------------------------
 
-[![]( /image/yid-OOG65rSM5fA.jpg)](https://www.youtube.com/watch?v=OOG65rSM5fA)
+[![](/image/yid-OOG65rSM5fA.jpg)](https://www.youtube.com/watch?v=OOG65rSM5fA)
 
 Selective Attention Gorilla Test
 --------------------------------

@@ -7,7 +7,7 @@ waning wisdom back.
 For the bullied and beautiful
 -----------------------------
 
-[![]( /image/yid-sa1iS1MqUy4.jpg)](https://www.youtube.com/watch?v=sa1iS1MqUy4)
+[![](/image/yid-sa1iS1MqUy4.jpg)](https://www.youtube.com/watch?v=sa1iS1MqUy4)
 
 John Galt's Speech Excerpt by
 -----------------------------
@@ -40,7 +40,7 @@ triumph is Ayn Rand.
 Ayn Rand First Interview 1959 (Full)
 ------------------------------------
 
-[![]( /image/yid-1ooKsv_SX4Y.jpg)](https://www.youtube.com/watch?v=1ooKsv_SX4Y)
+[![](/image/yid-1ooKsv_SX4Y.jpg)](https://www.youtube.com/watch?v=1ooKsv_SX4Y)
 
 Desiderata by Max Ehrmann
 -------------------------
@@ -146,7 +146,7 @@ things are not as they should be.
 Do schools kill creativity?
 ---------------------------
 
-[![]( /image/yid-iG9CE55wbtY.jpg)](https://www.youtube.com/watch?v=iG9CE55wbtY)
+[![](/image/yid-iG9CE55wbtY.jpg)](https://www.youtube.com/watch?v=iG9CE55wbtY)
 
 He is not asking, he is teaching.
 ---------------------------------

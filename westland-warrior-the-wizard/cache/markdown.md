@@ -11,17 +11,17 @@ the underlying Operating System (OS), and the front-facing User Interface
 The UNIX Operating System
 -------------------------
 
-[![]( /image/yid-tc4ROCJYbm0.jpg)](https://www.youtube.com/watch?v=tc4ROCJYbm0)
+[![](/image/yid-tc4ROCJYbm0.jpg)](https://www.youtube.com/watch?v=tc4ROCJYbm0)
 
 Unix vs Linux
 -------------
 
-[![]( /image/yid-jowCUo_UGts.jpg)](https://www.youtube.com/watch?v=jowCUo_UGts)
+[![](/image/yid-jowCUo_UGts.jpg)](https://www.youtube.com/watch?v=jowCUo_UGts)
 
 The mind behind Linux: Linus Torvalds
 -------------------------------------
 
-[![]( /image/yid-o8NPllzkFhE.jpg)](https://www.youtube.com/watch?v=o8NPllzkFhE)
+[![](/image/yid-o8NPllzkFhE.jpg)](https://www.youtube.com/watch?v=o8NPllzkFhE)
 
 UI is not OS
 ------------
@@ -44,7 +44,7 @@ Code Editor.
 Commodore 64 - Introduction to Programming - Level 1
 ----------------------------------------------------
 
-[![]( /image/yid-h3bDa5z_B1M.jpg)](https://www.youtube.com/watch?v=h3bDa5z_B1M)
+[![](/image/yid-h3bDa5z_B1M.jpg)](https://www.youtube.com/watch?v=h3bDa5z_B1M)
 
 Commodore 64 GEOS
 -----------------
@@ -72,12 +72,12 @@ And in 1985 Microsoft released Windows version 1.0
 Visual The History of GUI
 -------------------------
 
-[![]( /image/yid-ncCSmDAmcQY.jpg)](https://www.youtube.com/watch?v=ncCSmDAmcQY)
+[![](/image/yid-ncCSmDAmcQY.jpg)](https://www.youtube.com/watch?v=ncCSmDAmcQY)
 
 The history of the graphic user interface
 -----------------------------------------
 
-[![]( /image/yid-U1Oy4X5Ni8Y.jpg)](https://www.youtube.com/watch?v=U1Oy4X5Ni8Y)
+[![](/image/yid-U1Oy4X5Ni8Y.jpg)](https://www.youtube.com/watch?v=U1Oy4X5Ni8Y)
 
 Android's Linux
 ---------------
@@ -105,7 +105,7 @@ privacy of your family and the security of your business."
 Librem5: Kings Cross
 --------------------
 
-[![]( /image/yid-s0nKGFOWgFA.jpg)](https://www.youtube.com/watch?v=s0nKGFOWgFA)
+[![](/image/yid-s0nKGFOWgFA.jpg)](https://www.youtube.com/watch?v=s0nKGFOWgFA)
 
 Finding Your Command Line
 -------------------------
@@ -117,12 +117,12 @@ Command Line Interface.
 How to Open Windows Command Prompt in Windows 10
 ------------------------------------------------
 
-[![]( /image/yid-uE9WgNr3OjM.jpg)](https://www.youtube.com/watch?v=uE9WgNr3OjM)
+[![](/image/yid-uE9WgNr3OjM.jpg)](https://www.youtube.com/watch?v=uE9WgNr3OjM)
 
 How to run/use the Command Line on Mac
 --------------------------------------
 
-[![]( /image/yid-5XgBd6rjuDQ.jpg)](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
+[![](/image/yid-5XgBd6rjuDQ.jpg)](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
 
 Get the $55 Raspberry PI 4
 --------------------------
@@ -141,12 +141,12 @@ don't have to get the 4K)
 Raspberry Pi - Getting Started with Terminal
 --------------------------------------------
 
-[![]( /image/yid-UW3UxK4Tiqg.jpg)](https://www.youtube.com/watch?v=UW3UxK4Tiqg)
+[![](/image/yid-UW3UxK4Tiqg.jpg)](https://www.youtube.com/watch?v=UW3UxK4Tiqg)
 
 Ken Thompson and Dennis Ritchie Explain UNIX (Bell Labs)
 --------------------------------------------------------
 
-[![]( /image/yid-JoVQTPbD6UY.jpg)](https://www.youtube.com/watch?v=JoVQTPbD6UY)
+[![](/image/yid-JoVQTPbD6UY.jpg)](https://www.youtube.com/watch?v=JoVQTPbD6UY)
 
 Ken Thompson and Dennis Ritchie
 -------------------------------

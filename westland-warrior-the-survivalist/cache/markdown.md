@@ -20,37 +20,37 @@ Becky
 Why I left school at 16...
 --------------------------
 
-[![]( /image/yid-VBTC1j5-Quo.jpg)](https://www.youtube.com/watch?v=VBTC1j5-Quo)
+[![](/image/yid-VBTC1j5-Quo.jpg)](https://www.youtube.com/watch?v=VBTC1j5-Quo)
 
 8 Day Solo, Canvas Lavvu, Woodburner, Bushcraft Camp
 ----------------------------------------------------
 
-[![]( /image/yid-KJ2fCBvrzIg.jpg)](https://www.youtube.com/watch?v=KJ2fCBvrzIg)
+[![](/image/yid-KJ2fCBvrzIg.jpg)](https://www.youtube.com/watch?v=KJ2fCBvrzIg)
 
 8 Day Solo, Lavvu, Woods Camp - Part 2, Beef Stew
 -------------------------------------------------
 
-[![]( /image/yid-2LTT2ChOh-k.jpg)](https://www.youtube.com/watch?v=2LTT2ChOh-k)
+[![](/image/yid-2LTT2ChOh-k.jpg)](https://www.youtube.com/watch?v=2LTT2ChOh-k)
 
 Hiking Scotland | Solo Backpacking | EP 1
 -----------------------------------------
 
-[![]( /image/yid-0D1aA7QJVJ0.jpg)](https://www.youtube.com/watch?v=0D1aA7QJVJ0)
+[![](/image/yid-0D1aA7QJVJ0.jpg)](https://www.youtube.com/watch?v=0D1aA7QJVJ0)
 
 Scotland Backpacking | Solo Hike | EP 2
 ---------------------------------------
 
-[![]( /image/yid--Myg8OpSUxI.jpg)](https://www.youtube.com/watch?v=-Myg8OpSUxI)
+[![](/image/yid--Myg8OpSUxI.jpg)](https://www.youtube.com/watch?v=-Myg8OpSUxI)
 
 Scotland Backpacking Solo | EP 3 - Mountain Hut | Backpacking Food
 ------------------------------------------------------------------
 
-[![]( /image/yid-Yh7Px8ylmDI.jpg)](https://www.youtube.com/watch?v=Yh7Px8ylmDI)
+[![](/image/yid-Yh7Px8ylmDI.jpg)](https://www.youtube.com/watch?v=Yh7Px8ylmDI)
 
 Hiking Scotland - Part 4 | Road Trip | Isle of Skye |
 -----------------------------------------------------
 
-[![]( /image/yid-s8-IPd-AtLU.jpg)](https://www.youtube.com/watch?v=s8-IPd-AtLU)
+[![](/image/yid-s8-IPd-AtLU.jpg)](https://www.youtube.com/watch?v=s8-IPd-AtLU)
 
 Survival Lilly
 --------------
@@ -61,17 +61,17 @@ my experiences with like minded people." [YouTube Channel](https://www.youtube.c
 Solo Winter Overnighter In A Tepee
 ----------------------------------
 
-[![]( /image/yid-tSaknrYflQk.jpg)](https://www.youtube.com/watch?v=tSaknrYflQk)
+[![](/image/yid-tSaknrYflQk.jpg)](https://www.youtube.com/watch?v=tSaknrYflQk)
 
 Solo Overnight - Alone in the dark forest
 -----------------------------------------
 
-[![]( /image/yid-ET0yaa8PB_o.jpg)](https://www.youtube.com/watch?v=ET0yaa8PB_o)
+[![](/image/yid-ET0yaa8PB_o.jpg)](https://www.youtube.com/watch?v=ET0yaa8PB_o)
 
 Overnight in my super shelter
 -----------------------------
 
-[![]( /image/yid-b40AGXWSX8Y.jpg)](https://www.youtube.com/watch?v=b40AGXWSX8Y)
+[![](/image/yid-b40AGXWSX8Y.jpg)](https://www.youtube.com/watch?v=b40AGXWSX8Y)
 
 Vanessa Blank - Bushcraft & Abenteuer
 -------------------------------------
@@ -82,22 +82,22 @@ channel [Wild Woman Bushcraft](https://www.youtube.com/channel/UCuQV_7hln2oL_nhf
 Deep in the Forest - Real Bushcraft
 -----------------------------------
 
-[![]( /image/yid-3rzkXQmX36E.jpg)](https://www.youtube.com/watch?v=3rzkXQmX36E)
+[![](/image/yid-3rzkXQmX36E.jpg)](https://www.youtube.com/watch?v=3rzkXQmX36E)
 
 Two Women Adventure Trip in the Mountain Ravine
 -----------------------------------------------
 
-[![]( /image/yid-zjowi34UBe0.jpg)](https://www.youtube.com/watch?v=zjowi34UBe0)
+[![](/image/yid-zjowi34UBe0.jpg)](https://www.youtube.com/watch?v=zjowi34UBe0)
 
 So this is Christmas - The Christmas Overnighter in the forest
 --------------------------------------------------------------
 
-[![]( /image/yid-VR4mlI834_Q.jpg)](https://www.youtube.com/watch?v=VR4mlI834_Q)
+[![](/image/yid-VR4mlI834_Q.jpg)](https://www.youtube.com/watch?v=VR4mlI834_Q)
 
 So this is Christmas Part II -The Christmas Overnighter in the forest
 ---------------------------------------------------------------------
 
-[![]( /image/yid-ZLmLe1CClPk.jpg)](https://www.youtube.com/watch?v=ZLmLe1CClPk)
+[![](/image/yid-ZLmLe1CClPk.jpg)](https://www.youtube.com/watch?v=ZLmLe1CClPk)
 
 Alexis Outdoors
 ---------------
@@ -107,12 +107,12 @@ Alexis Outdoors
 Fall Canoe Trip in the Canadian Backcountry
 -------------------------------------------
 
-[![]( /image/yid-vyCICXGvkW4.jpg)](https://www.youtube.com/watch?v=vyCICXGvkW4)
+[![](/image/yid-vyCICXGvkW4.jpg)](https://www.youtube.com/watch?v=vyCICXGvkW4)
 
 Splitwood Fire, Hike and Lunch in the Woods with my Dog
 -------------------------------------------------------
 
-[![]( /image/yid-IRydquzUHR0.jpg)](https://www.youtube.com/watch?v=IRydquzUHR0)
+[![](/image/yid-IRydquzUHR0.jpg)](https://www.youtube.com/watch?v=IRydquzUHR0)
 
 Stephanie Margeth
 -----------------
@@ -122,12 +122,12 @@ Stephanie Margeth
 5 Days in the Canadian Wilderness Pt1
 -------------------------------------
 
-[![]( /image/yid-1sNfuuTS6q8.jpg)](https://www.youtube.com/watch?v=1sNfuuTS6q8)
+[![](/image/yid-1sNfuuTS6q8.jpg)](https://www.youtube.com/watch?v=1sNfuuTS6q8)
 
 Surviving the Canadian Wilderness Pt2 (Carbon Monoxide Poisoning from fire)
 ---------------------------------------------------------------------------
 
-[![]( /image/yid-QmTR9XmteyA.jpg)](https://www.youtube.com/watch?v=QmTR9XmteyA)
+[![](/image/yid-QmTR9XmteyA.jpg)](https://www.youtube.com/watch?v=QmTR9XmteyA)
 
 More Bushcraft
 --------------
@@ -141,7 +141,7 @@ More Bushcraft
 Emelie Eating Ants
 ------------------
 
-[![]( /image/yid-B9cVgScVlkk.jpg)](https://www.youtube.com/watch?v=B9cVgScVlkk)
+[![](/image/yid-B9cVgScVlkk.jpg)](https://www.youtube.com/watch?v=B9cVgScVlkk)
 
 Primitive Technology
 --------------------
@@ -153,19 +153,19 @@ Technology YouTube Channel](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3n
 Bow and Arrow
 -------------
 
-[![]( /image/yid-SLoukoBs8TE.jpg)](https://www.youtube.com/watch?v=SLoukoBs8TE)
+[![](/image/yid-SLoukoBs8TE.jpg)](https://www.youtube.com/watch?v=SLoukoBs8TE)
 
 Sandals
 -------
 
-[![]( /image/yid-i-WYT2UotIc.jpg)](https://www.youtube.com/watch?v=i-WYT2UotIc)
+[![](/image/yid-i-WYT2UotIc.jpg)](https://www.youtube.com/watch?v=i-WYT2UotIc)
 
 Sling
 -----
 
-[![]( /image/yid-RzDMCVdPwnE.jpg)](https://www.youtube.com/watch?v=RzDMCVdPwnE)
+[![](/image/yid-RzDMCVdPwnE.jpg)](https://www.youtube.com/watch?v=RzDMCVdPwnE)
 
 Round Hut
 ---------
 
-[![]( /image/yid-vAuO3bHxSpc.jpg)](https://www.youtube.com/watch?v=vAuO3bHxSpc)
+[![](/image/yid-vAuO3bHxSpc.jpg)](https://www.youtube.com/watch?v=vAuO3bHxSpc)

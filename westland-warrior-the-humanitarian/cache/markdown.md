@@ -1,7 +1,7 @@
 Peace Corps
 -----------
 
-[![]( /image/yid-kxR8XZOeV-s.jpg)](https://www.youtube.com/watch?v=kxR8XZOeV-s)
+[![](/image/yid-kxR8XZOeV-s.jpg)](https://www.youtube.com/watch?v=kxR8XZOeV-s)
 
 Live Deliberately
 -----------------
@@ -21,7 +21,7 @@ are necessary.
 Murray Gell-Mann On Emergence
 -----------------------------
 
-[![]( /image/yid-ONiWmzrmfuY.jpg)](https://www.youtube.com/watch?v=ONiWmzrmfuY)
+[![](/image/yid-ONiWmzrmfuY.jpg)](https://www.youtube.com/watch?v=ONiWmzrmfuY)
 
 Growing Up
 ----------
@@ -35,12 +35,12 @@ then by growing up to the challenges before us.
 Universal Declaration of Human Rights
 -------------------------------------
 
-[![]( /image/yid-hTlrSYbCbHE.jpg)](https://www.youtube.com/watch?v=hTlrSYbCbHE)
+[![](/image/yid-hTlrSYbCbHE.jpg)](https://www.youtube.com/watch?v=hTlrSYbCbHE)
 
 Universal Declaration of Human Rights
 -------------------------------------
 
-[![]( /image/yid-5RR4VXNX3jA.jpg)](https://www.youtube.com/watch?v=5RR4VXNX3jA)
+[![](/image/yid-5RR4VXNX3jA.jpg)](https://www.youtube.com/watch?v=5RR4VXNX3jA)
 
 New Voices
 ----------
@@ -52,7 +52,7 @@ voices - and there are bright new voices to be heard.
 Mad world - the voice of china
 ------------------------------
 
-[![]( /image/yid-z2tmRpm4iK8.jpg)](https://www.youtube.com/watch?v=z2tmRpm4iK8)
+[![](/image/yid-z2tmRpm4iK8.jpg)](https://www.youtube.com/watch?v=z2tmRpm4iK8)
 
 Never Silenced
 --------------
@@ -63,7 +63,7 @@ but were never silenced, and never tired. No more circles.
 Michelle Alexander
 ------------------
 
-[![]( /image/yid-SQ6H-Mz6hgw.jpg)](https://www.youtube.com/watch?v=SQ6H-Mz6hgw)
+[![](/image/yid-SQ6H-Mz6hgw.jpg)](https://www.youtube.com/watch?v=SQ6H-Mz6hgw)
 
 Quote by Michelle Alexander
 ---------------------------
@@ -87,7 +87,7 @@ in the Age of Colorblindness](https://en.wikipedia.org/wiki/The_New_Jim_Crow) wh
 Bryan Stevenson: We need to talk about an injustice.
 ----------------------------------------------------
 
-[![]( /image/yid-c2tOp7OxyQ8.jpg)](https://www.youtube.com/watch?v=c2tOp7OxyQ8)
+[![](/image/yid-c2tOp7OxyQ8.jpg)](https://www.youtube.com/watch?v=c2tOp7OxyQ8)
 
 Quote by Bryan Stevenson
 ------------------------
@@ -108,7 +108,7 @@ Bryan Stevenson
 How America's public schools keep kids in poverty: Kandice Sumner
 -----------------------------------------------------------------
 
-[![]( /image/yid-7O7BMa9XGXE.jpg)](https://www.youtube.com/watch?v=7O7BMa9XGXE)
+[![](/image/yid-7O7BMa9XGXE.jpg)](https://www.youtube.com/watch?v=7O7BMa9XGXE)
 
 Kandice Sumner's Prevention
 ---------------------------
@@ -125,7 +125,7 @@ between good and evil only hurts the good and helps the evil.
 Don't Talk to the Police
 ------------------------
 
-[![]( /image/yid-d-7o9xYp7eE.jpg)](https://www.youtube.com/watch?v=d-7o9xYp7eE)
+[![](/image/yid-d-7o9xYp7eE.jpg)](https://www.youtube.com/watch?v=d-7o9xYp7eE)
 
 The Walkouts
 ------------
@@ -159,7 +159,7 @@ blind stupidity.
 How I spent 32 years in prison by George Martorano
 --------------------------------------------------
 
-[![]( /image/yid-lnuoHywbaR8.jpg)](https://www.youtube.com/watch?v=lnuoHywbaR8)
+[![](/image/yid-lnuoHywbaR8.jpg)](https://www.youtube.com/watch?v=lnuoHywbaR8)
 
 The Challenge
 -------------

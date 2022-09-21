@@ -1,17 +1,17 @@
 Aunty Puanani Burgess ❤️
 ------------------------
 
-[![]( /image/yid-ovHN2LTxO6U.jpg)](https://www.youtube.com/watch?v=ovHN2LTxO6U)
+[![](/image/yid-ovHN2LTxO6U.jpg)](https://www.youtube.com/watch?v=ovHN2LTxO6U)
 
 Teacher Resigns During Kansas School Board Meeting With Powerful Speech
 -----------------------------------------------------------------------
 
-[![]( /image/yid-8GNInLhL2zA.jpg)](https://www.youtube.com/watch?v=8GNInLhL2zA)
+[![](/image/yid-8GNInLhL2zA.jpg)](https://www.youtube.com/watch?v=8GNInLhL2zA)
 
 Why I Dropped Out of College
 ----------------------------
 
-[![]( /image/yid-DjxhenAHyGk.jpg)](https://www.youtube.com/watch?v=DjxhenAHyGk)
+[![](/image/yid-DjxhenAHyGk.jpg)](https://www.youtube.com/watch?v=DjxhenAHyGk)
 
 Knowledge vs. College
 ---------------------
@@ -32,12 +32,12 @@ Quote by Abraham Lincoln
 The Wisdom of a Third Grade Dropout
 -----------------------------------
 
-[![]( /image/yid-Bg_Q7KYWG1g.jpg)](https://www.youtube.com/watch?v=Bg_Q7KYWG1g)
+[![](/image/yid-Bg_Q7KYWG1g.jpg)](https://www.youtube.com/watch?v=Bg_Q7KYWG1g)
 
 Jaime Escalante
 ---------------
 
-[![]( /image/yid-FFMz8JRg8Y8.jpg)](https://www.youtube.com/watch?v=FFMz8JRg8Y8)
+[![](/image/yid-FFMz8JRg8Y8.jpg)](https://www.youtube.com/watch?v=FFMz8JRg8Y8)
 
 Jaime Escalante
 ---------------
@@ -48,32 +48,32 @@ Deliver (1988)](https://www.youtube.com/watch?v=qtQQC23eseU)
 Richard Feynman
 ---------------
 
-[![]( /image/yid-BY6VntTmtIo.jpg)](https://www.youtube.com/watch?v=BY6VntTmtIo)
+[![](/image/yid-BY6VntTmtIo.jpg)](https://www.youtube.com/watch?v=BY6VntTmtIo)
 
 Growing Up Feynman by Michelle Feynman
 --------------------------------------
 
-[![]( /image/yid-GnSvy3nH7l0.jpg)](https://www.youtube.com/watch?v=GnSvy3nH7l0)
+[![](/image/yid-GnSvy3nH7l0.jpg)](https://www.youtube.com/watch?v=GnSvy3nH7l0)
 
 Don't Be Afraid to Fail Big, To Dream Big
 -----------------------------------------
 
-[![]( /image/yid-tlY0PkWxCW8.jpg)](https://www.youtube.com/watch?v=tlY0PkWxCW8)
+[![](/image/yid-tlY0PkWxCW8.jpg)](https://www.youtube.com/watch?v=tlY0PkWxCW8)
 
 Why it Pays to Be Hungry
 ------------------------
 
-[![]( /image/yid-xFr0FKnaLDk.jpg)](https://www.youtube.com/watch?v=xFr0FKnaLDk)
+[![](/image/yid-xFr0FKnaLDk.jpg)](https://www.youtube.com/watch?v=xFr0FKnaLDk)
 
 5 Rules for Success
 -------------------
 
-[![]( /image/yid-Kb7_E12FFLw.jpg)](https://www.youtube.com/watch?v=Kb7_E12FFLw)
+[![](/image/yid-Kb7_E12FFLw.jpg)](https://www.youtube.com/watch?v=Kb7_E12FFLw)
 
 Waiting For Superman
 --------------------
 
-[![]( /image/yid-8rmSldhnSDc.jpg)](https://www.youtube.com/watch?v=8rmSldhnSDc)
+[![](/image/yid-8rmSldhnSDc.jpg)](https://www.youtube.com/watch?v=8rmSldhnSDc)
 
 Waiting For a Generation of Superheroes
 ---------------------------------------
@@ -93,7 +93,7 @@ the future.
 Waiting For the Champions
 -------------------------
 
-[![]( /image/yid-SFnMTHhKdkw.jpg)](https://www.youtube.com/watch?v=SFnMTHhKdkw)
+[![](/image/yid-SFnMTHhKdkw.jpg)](https://www.youtube.com/watch?v=SFnMTHhKdkw)
 
 Waiting For the Champions
 -------------------------
@@ -127,7 +127,7 @@ must become her own teacher.
 What is Y Combinator?
 ---------------------
 
-[![]( /image/yid-_4JtyLKDjXk.jpg)](https://www.youtube.com/watch?v=_4JtyLKDjXk)
+[![](/image/yid-_4JtyLKDjXk.jpg)](https://www.youtube.com/watch?v=_4JtyLKDjXk)
 
 Limitless
 ---------
@@ -170,7 +170,7 @@ and Love of Wisdom.
 My path out of poverty by Lashon Amado
 --------------------------------------
 
-[![]( /image/yid-CpaFX6Ei0nU.jpg)](https://www.youtube.com/watch?v=CpaFX6Ei0nU)
+[![](/image/yid-CpaFX6Ei0nU.jpg)](https://www.youtube.com/watch?v=CpaFX6Ei0nU)
 
 Each a Superhero
 ----------------
@@ -198,7 +198,7 @@ mediocrity or lies. Take a lesson from Erica Goldson.
 Erica Goldson Valedictorian Speech
 ----------------------------------
 
-[![]( /image/yid-9M4tdMsg3ts.jpg)](https://www.youtube.com/watch?v=9M4tdMsg3ts)
+[![](/image/yid-9M4tdMsg3ts.jpg)](https://www.youtube.com/watch?v=9M4tdMsg3ts)
 
 Mothers. Rage, rage against the dying of the light.
 ---------------------------------------------------
@@ -244,4 +244,4 @@ as failure. Every step forward adds to success.
 Greta Thunberg
 --------------
 
-[![]( /image/yid-TMrtLsQbaok.jpg)](https://www.youtube.com/watch?v=TMrtLsQbaok)
+[![](/image/yid-TMrtLsQbaok.jpg)](https://www.youtube.com/watch?v=TMrtLsQbaok)

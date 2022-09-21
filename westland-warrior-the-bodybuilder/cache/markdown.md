@@ -39,7 +39,7 @@ always start in the beginning, and you always finish what you start.
 Dress for Confidence and Joy
 ----------------------------
 
-[![]( /image/yid-L5n3V0VYGNg.jpg)](https://www.youtube.com/watch?v=L5n3V0VYGNg)
+[![](/image/yid-L5n3V0VYGNg.jpg)](https://www.youtube.com/watch?v=L5n3V0VYGNg)
 
 Hit Every Beat
 --------------
@@ -162,17 +162,17 @@ I change my playlist daily, here are some examples.
 Labrinth - Mount Everest - Choreography by Erica Klein
 ------------------------------------------------------
 
-[![]( /image/yid-T2ezIjoqkrY.jpg)](https://www.youtube.com/watch?v=T2ezIjoqkrY)
+[![](/image/yid-T2ezIjoqkrY.jpg)](https://www.youtube.com/watch?v=T2ezIjoqkrY)
 
 Jain - Makeba
 -------------
 
-[![]( /image/yid-59Q_lhgGANc.jpg)](https://www.youtube.com/watch?v=59Q_lhgGANc)
+[![](/image/yid-59Q_lhgGANc.jpg)](https://www.youtube.com/watch?v=59Q_lhgGANc)
 
 Jain - Come
 -----------
 
-[![]( /image/yid-KDXOzr0GoA4.jpg)](https://www.youtube.com/watch?v=KDXOzr0GoA4)
+[![](/image/yid-KDXOzr0GoA4.jpg)](https://www.youtube.com/watch?v=KDXOzr0GoA4)
 
 Vocal Ideas
 -----------
@@ -183,12 +183,12 @@ Perhaps some of you may find working out with vocals easier, if so then the
 Lilac Wine
 ----------
 
-[![]( /image/yid-iFZsunzjDXU.jpg)](https://www.youtube.com/watch?v=iFZsunzjDXU)
+[![](/image/yid-iFZsunzjDXU.jpg)](https://www.youtube.com/watch?v=iFZsunzjDXU)
 
 Jolene
 ------
 
-[![]( /image/yid-wOwblaKmyVw.jpg)](https://www.youtube.com/watch?v=wOwblaKmyVw)
+[![](/image/yid-wOwblaKmyVw.jpg)](https://www.youtube.com/watch?v=wOwblaKmyVw)
 
 Meowmix vol. 1,627
 ------------------
@@ -244,7 +244,7 @@ LMFAO: [Sexy and I Know It](https://www.youtube.com/watch?v=wyx6JDQCslE)
 Power of Now
 ------------
 
-[![]( /image/yid-_tc4K5Zujqw.jpg)](https://www.youtube.com/watch?v=_tc4K5Zujqw)
+[![](/image/yid-_tc4K5Zujqw.jpg)](https://www.youtube.com/watch?v=_tc4K5Zujqw)
 
 Of Focus and Trance
 -------------------

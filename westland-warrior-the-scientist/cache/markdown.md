@@ -1,7 +1,7 @@
 Introduction to Fusion
 ----------------------
 
-[![]( /image/yid-jf_4z4AKwJg.jpg)](https://www.youtube.com/watch?v=jf_4z4AKwJg)
+[![](/image/yid-jf_4z4AKwJg.jpg)](https://www.youtube.com/watch?v=jf_4z4AKwJg)
 
 Quote by Carl Sagan
 -------------------
@@ -13,7 +13,7 @@ Quote by Carl Sagan
 Cold Fusion Press Conference at University of Utah (March 23, 1989)
 -------------------------------------------------------------------
 
-[![]( /image/yid-6CfHaeQo6oU.jpg)](https://www.youtube.com/watch?v=6CfHaeQo6oU)
+[![](/image/yid-6CfHaeQo6oU.jpg)](https://www.youtube.com/watch?v=6CfHaeQo6oU)
 
 Quote by Winston Churchill
 --------------------------
@@ -26,12 +26,12 @@ Quote by Winston Churchill
 Newton's Cannon
 ---------------
 
-[![]( /image/yid-51mxBkwwSB8.jpg)](https://www.youtube.com/watch?v=51mxBkwwSB8)
+[![](/image/yid-51mxBkwwSB8.jpg)](https://www.youtube.com/watch?v=51mxBkwwSB8)
 
 Newton - Gravitation universelle
 --------------------------------
 
-[![]( /image/yid-MpiknSRTmT4.jpg)](https://www.youtube.com/watch?v=MpiknSRTmT4)
+[![](/image/yid-MpiknSRTmT4.jpg)](https://www.youtube.com/watch?v=MpiknSRTmT4)
 
 Newton's Principia
 ------------------
@@ -52,17 +52,17 @@ Newton's Orbital Cannon is on [page 518](https://archive.org/stream/newtonspmath
 Theory of relativity explained in 7 mins
 ----------------------------------------
 
-[![]( /image/yid-ttZCKAMpcAo.jpg)](https://www.youtube.com/watch?v=ttZCKAMpcAo)
+[![](/image/yid-ttZCKAMpcAo.jpg)](https://www.youtube.com/watch?v=ttZCKAMpcAo)
 
 Gravity Visualized
 ------------------
 
-[![]( /image/yid-MTY1Kje0yLg.jpg)](https://www.youtube.com/watch?v=MTY1Kje0yLg)
+[![](/image/yid-MTY1Kje0yLg.jpg)](https://www.youtube.com/watch?v=MTY1Kje0yLg)
 
 Light Speed – fast, but slow
 ----------------------------
 
-[![]( /image/yid-nQUwHdSAhmw.jpg)](https://www.youtube.com/watch?v=nQUwHdSAhmw)
+[![](/image/yid-nQUwHdSAhmw.jpg)](https://www.youtube.com/watch?v=nQUwHdSAhmw)
 
 Royal Institution Christmas Lectures
 ------------------------------------
@@ -81,7 +81,7 @@ Institution](https://www.youtube.com/watch?v=23TlCfIw7C0&list=PLuiGSPzbQ86-VokKG
 Carl Sagan: The Earth as a Planet (1977)
 ----------------------------------------
 
-[![]( /image/yid-BdXtjNSDi4s.jpg)](https://www.youtube.com/watch?v=BdXtjNSDi4s)
+[![](/image/yid-BdXtjNSDi4s.jpg)](https://www.youtube.com/watch?v=BdXtjNSDi4s)
 
 Full Playlist
 -------------
@@ -91,4 +91,4 @@ Full Playlist
 Richard Dawkins: Growing up in the Universe (1991)
 --------------------------------------------------
 
-[![]( /image/yid-dw4w1UsOafQ.jpg)](https://www.youtube.com/watch?v=dw4w1UsOafQ)
+[![](/image/yid-dw4w1UsOafQ.jpg)](https://www.youtube.com/watch?v=dw4w1UsOafQ)

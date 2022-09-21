@@ -1,7 +1,7 @@
 The three secrets of resilient people by Lucy Hone
 --------------------------------------------------
 
-[![]( /image/yid-NWH8N-BvhAw.jpg)](https://www.youtube.com/watch?v=NWH8N-BvhAw)
+[![](/image/yid-NWH8N-BvhAw.jpg)](https://www.youtube.com/watch?v=NWH8N-BvhAw)
 
 Quote by Lucy Hone
 ------------------
@@ -39,7 +39,7 @@ Quo Vadis? My friends.
 Dan Millman's Ted Talk
 ----------------------
 
-[![]( /image/yid-MDL85fzdc1g.jpg)](https://www.youtube.com/watch?v=MDL85fzdc1g)
+[![](/image/yid-MDL85fzdc1g.jpg)](https://www.youtube.com/watch?v=MDL85fzdc1g)
 
 A Warrior in Training
 ---------------------
@@ -54,7 +54,7 @@ himself. It was also made into a movie starring Nick Nolte as Soc.
 Way of the Peaceful Warrior Trailer
 -----------------------------------
 
-[![]( /image/yid-gegNMYvY_yg.jpg)](https://www.youtube.com/watch?v=gegNMYvY_yg)
+[![](/image/yid-gegNMYvY_yg.jpg)](https://www.youtube.com/watch?v=gegNMYvY_yg)
 
 Sensei Lee
 ----------
@@ -65,7 +65,7 @@ upon Sensei Lee, to come an teach him.
 No Retreat, No Surrender (1986)
 -------------------------------
 
-[![]( /image/yid-Op4g9McS3EY.jpg)](https://www.youtube.com/watch?v=Op4g9McS3EY)
+[![](/image/yid-Op4g9McS3EY.jpg)](https://www.youtube.com/watch?v=Op4g9McS3EY)
 
 By Whatever Means
 -----------------
@@ -81,7 +81,7 @@ circles again.
 Another Mad World
 -----------------
 
-[![]( /image/yid--YFbxFq6Zr8.jpg)](https://www.youtube.com/watch?v=-YFbxFq6Zr8)
+[![](/image/yid--YFbxFq6Zr8.jpg)](https://www.youtube.com/watch?v=-YFbxFq6Zr8)
 
 Take Out The Trash
 ------------------
@@ -92,7 +92,7 @@ fear, keep moving forward and become Vulnerable and Fearless Warriors.
 Peaceful Warrior Quotes
 -----------------------
 
-[![]( /image/yid-31lUwuhE8pc.jpg)](https://www.youtube.com/watch?v=31lUwuhE8pc)
+[![](/image/yid-31lUwuhE8pc.jpg)](https://www.youtube.com/watch?v=31lUwuhE8pc)
 
 Quote by Soc
 ------------
@@ -112,12 +112,12 @@ vulnerability, and part two Listening to Shame.
 The power of vulnerability
 --------------------------
 
-[![]( /image/yid-iCvmsMzlF7o.jpg)](https://www.youtube.com/watch?v=iCvmsMzlF7o)
+[![](/image/yid-iCvmsMzlF7o.jpg)](https://www.youtube.com/watch?v=iCvmsMzlF7o)
 
 Listening to shame
 ------------------
 
-[![]( /image/yid-psN1DORYYV0.jpg)](https://www.youtube.com/watch?v=psN1DORYYV0)
+[![](/image/yid-psN1DORYYV0.jpg)](https://www.youtube.com/watch?v=psN1DORYYV0)
 
 The Man in the Arena by Theodore Roosevelt
 ------------------------------------------
@@ -175,7 +175,7 @@ heard, Greta Thunberg is a wonderful example, today.
 Greta Thunberg
 --------------
 
-[![]( /image/yid-TMrtLsQbaok.jpg)](https://www.youtube.com/watch?v=TMrtLsQbaok)
+[![](/image/yid-TMrtLsQbaok.jpg)](https://www.youtube.com/watch?v=TMrtLsQbaok)
 
 They are Everywhere and Everywhen
 ---------------------------------
@@ -187,12 +187,12 @@ and immediately became an educator her self.
 Erica Goldson Valedictorian Speech
 ----------------------------------
 
-[![]( /image/yid-9M4tdMsg3ts.jpg)](https://www.youtube.com/watch?v=9M4tdMsg3ts)
+[![](/image/yid-9M4tdMsg3ts.jpg)](https://www.youtube.com/watch?v=9M4tdMsg3ts)
 
 Erica Goldson Self Education
 ----------------------------
 
-[![]( /image/yid-hgui64Kr0Go.jpg)](https://www.youtube.com/watch?v=hgui64Kr0Go)
+[![](/image/yid-hgui64Kr0Go.jpg)](https://www.youtube.com/watch?v=hgui64Kr0Go)
 
 The Culture of Great Beings
 ---------------------------
@@ -237,4 +237,4 @@ rest of your life, the best of your life.**
 Make the rest of your life, the best of your life.
 --------------------------------------------------
 
-[![]( /image/yid-FhzNSPiqO0M.jpg)](https://www.youtube.com/watch?v=FhzNSPiqO0M)
+[![](/image/yid-FhzNSPiqO0M.jpg)](https://www.youtube.com/watch?v=FhzNSPiqO0M)

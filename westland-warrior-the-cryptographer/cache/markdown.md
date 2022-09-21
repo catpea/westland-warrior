@@ -8,27 +8,27 @@ Quote by Carrie Anne
 Cryptography: Crash Course Computer Science #33
 -----------------------------------------------
 
-[![]( /image/yid-jhXCTbFnK8o.jpg)](https://www.youtube.com/watch?v=jhXCTbFnK8o)
+[![](/image/yid-jhXCTbFnK8o.jpg)](https://www.youtube.com/watch?v=jhXCTbFnK8o)
 
 Cryptography 101 - Substitution Ciphers
 ---------------------------------------
 
-[![]( /image/yid-1P8Xpxm76e8.jpg)](https://www.youtube.com/watch?v=1P8Xpxm76e8)
+[![](/image/yid-1P8Xpxm76e8.jpg)](https://www.youtube.com/watch?v=1P8Xpxm76e8)
 
 How to use the Frequency Analysis Tool
 --------------------------------------
 
-[![]( /image/yid-mUoQhXWTKE0.jpg)](https://www.youtube.com/watch?v=mUoQhXWTKE0)
+[![](/image/yid-mUoQhXWTKE0.jpg)](https://www.youtube.com/watch?v=mUoQhXWTKE0)
 
 Cryptography: Transposition Cipher
 ----------------------------------
 
-[![]( /image/yid-sHsnH1u03e4.jpg)](https://www.youtube.com/watch?v=sHsnH1u03e4)
+[![](/image/yid-sHsnH1u03e4.jpg)](https://www.youtube.com/watch?v=sHsnH1u03e4)
 
 Poles Escape With Secret of Enigma
 ----------------------------------
 
-[![]( /image/yid-mO0oET8TT5E.jpg)](https://www.youtube.com/watch?v=mO0oET8TT5E)
+[![](/image/yid-mO0oET8TT5E.jpg)](https://www.youtube.com/watch?v=mO0oET8TT5E)
 
 Enigma Machine
 --------------
@@ -40,22 +40,22 @@ Invented by [Arthur Scherbius](https://en.wikipedia.org/wiki/Arthur_Scherbius) a
 Polish cryptologists and breaking of the Enigma
 -----------------------------------------------
 
-[![]( /image/yid-cpRhZaQxnhw.jpg)](https://www.youtube.com/watch?v=cpRhZaQxnhw)
+[![](/image/yid-cpRhZaQxnhw.jpg)](https://www.youtube.com/watch?v=cpRhZaQxnhw)
 
 Enigma Machine - Numberphile
 ----------------------------
 
-[![]( /image/yid-G2_Q9FoD-oQ.jpg)](https://www.youtube.com/watch?v=G2_Q9FoD-oQ)
+[![](/image/yid-G2_Q9FoD-oQ.jpg)](https://www.youtube.com/watch?v=G2_Q9FoD-oQ)
 
 Flaw in the Enigma Code - Numberphile
 -------------------------------------
 
-[![]( /image/yid-V4V2bpZlqx8.jpg)](https://www.youtube.com/watch?v=V4V2bpZlqx8)
+[![](/image/yid-V4V2bpZlqx8.jpg)](https://www.youtube.com/watch?v=V4V2bpZlqx8)
 
 Typex
 -----
 
-[![]( /image/yid-dG09jv3c1sE.jpg)](https://www.youtube.com/watch?v=dG09jv3c1sE)
+[![](/image/yid-dG09jv3c1sE.jpg)](https://www.youtube.com/watch?v=dG09jv3c1sE)
 
 More on Wikipedia
 -----------------
@@ -71,22 +71,22 @@ More on Wikipedia
 DES encryption by hand (simple low level example at a bit view)
 ---------------------------------------------------------------
 
-[![]( /image/yid-Sy0sXa73PZA.jpg)](https://www.youtube.com/watch?v=Sy0sXa73PZA)
+[![](/image/yid-Sy0sXa73PZA.jpg)](https://www.youtube.com/watch?v=Sy0sXa73PZA)
 
 AES Explained (Advanced Encryption Standard) - Computerphile
 ------------------------------------------------------------
 
-[![]( /image/yid-O4xNJsjtN6E.jpg)](https://www.youtube.com/watch?v=O4xNJsjtN6E)
+[![](/image/yid-O4xNJsjtN6E.jpg)](https://www.youtube.com/watch?v=O4xNJsjtN6E)
 
 Symmetric and Asymmetric Encryption
 -----------------------------------
 
-[![]( /image/yid-pArLLJmgX10.jpg)](https://www.youtube.com/watch?v=pArLLJmgX10)
+[![](/image/yid-pArLLJmgX10.jpg)](https://www.youtube.com/watch?v=pArLLJmgX10)
 
 Asymmetric encryption - Simply explained
 ----------------------------------------
 
-[![]( /image/yid-AQDCe585Lnc.jpg)](https://www.youtube.com/watch?v=AQDCe585Lnc)
+[![](/image/yid-AQDCe585Lnc.jpg)](https://www.youtube.com/watch?v=AQDCe585Lnc)
 
 Games
 -----
@@ -98,12 +98,12 @@ Games
 Google CTF: Beginner Quest: OCR IS COOL!
 ----------------------------------------
 
-[![]( /image/yid-j9xht4K-MBk.jpg)](https://www.youtube.com/watch?v=j9xht4K-MBk)
+[![](/image/yid-j9xht4K-MBk.jpg)](https://www.youtube.com/watch?v=j9xht4K-MBk)
 
 Kryptos: The CIA's Unsolved Secret Code
 ---------------------------------------
 
-[![]( /image/yid-fPJoNYgXHnI.jpg)](https://www.youtube.com/watch?v=fPJoNYgXHnI)
+[![](/image/yid-fPJoNYgXHnI.jpg)](https://www.youtube.com/watch?v=fPJoNYgXHnI)
 
 Kryptos
 -------
@@ -156,9 +156,9 @@ ZZKRYPTOSABCDEFGHIJLMNQUVWXZKRY  ABCDEFGHIJKLMNOPQRSTUVWXYZABCD
 Ancient Codes and Hieroglyphs
 -----------------------------
 
-[![]( /image/yid-r-76Smf2oMk.jpg)](https://www.youtube.com/watch?v=r-76Smf2oMk)
+[![](/image/yid-r-76Smf2oMk.jpg)](https://www.youtube.com/watch?v=r-76Smf2oMk)
 
 Keeping Secrets: Cryptography In A Connected World
 --------------------------------------------------
 
-[![]( /image/yid-nVVF8dgKC38.jpg)](https://www.youtube.com/watch?v=nVVF8dgKC38)
+[![](/image/yid-nVVF8dgKC38.jpg)](https://www.youtube.com/watch?v=nVVF8dgKC38)

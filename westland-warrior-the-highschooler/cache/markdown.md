@@ -1,17 +1,17 @@
 Hans Zimmer - interview influences and backgrounds
 --------------------------------------------------
 
-[![]( /image/yid-voytGLvtsy0.jpg)](https://www.youtube.com/watch?v=voytGLvtsy0)
+[![](/image/yid-voytGLvtsy0.jpg)](https://www.youtube.com/watch?v=voytGLvtsy0)
 
 Richard Feynman's Criticism on School Systems
 ---------------------------------------------
 
-[![]( /image/yid-nJ8_CbiV4vw.jpg)](https://www.youtube.com/watch?v=nJ8_CbiV4vw)
+[![](/image/yid-nJ8_CbiV4vw.jpg)](https://www.youtube.com/watch?v=nJ8_CbiV4vw)
 
 Elon Musk knocks the college experience
 ---------------------------------------
 
-[![]( /image/yid-Io3sdAAcZLw.jpg)](https://www.youtube.com/watch?v=Io3sdAAcZLw)
+[![](/image/yid-Io3sdAAcZLw.jpg)](https://www.youtube.com/watch?v=Io3sdAAcZLw)
 
 Notes from an Imaginary High School: A Quick Reminder
 -----------------------------------------------------
@@ -30,7 +30,7 @@ have a problem with that.
 De-Grading Education by Elizabeth Wissner-Gross
 -----------------------------------------------
 
-[![]( /image/yid-DzSnvxejenY.jpg)](https://www.youtube.com/watch?v=DzSnvxejenY)
+[![](/image/yid-DzSnvxejenY.jpg)](https://www.youtube.com/watch?v=DzSnvxejenY)
 
 Paved with Good Intentions
 --------------------------
@@ -48,7 +48,7 @@ improve your grades."
 The Surprising Truth About Learning in Schools by Will Richardson
 -----------------------------------------------------------------
 
-[![]( /image/yid-sxyKNMrhEvY.jpg)](https://www.youtube.com/watch?v=sxyKNMrhEvY)
+[![](/image/yid-sxyKNMrhEvY.jpg)](https://www.youtube.com/watch?v=sxyKNMrhEvY)
 
 We Were Mislead
 ---------------
@@ -86,7 +86,7 @@ a heartless, cruel, shameful petty little student.
 Nataly Buhr
 -----------
 
-[![]( /image/yid-GeSjkVFtb9k.jpg)](https://www.youtube.com/watch?v=GeSjkVFtb9k)
+[![](/image/yid-GeSjkVFtb9k.jpg)](https://www.youtube.com/watch?v=GeSjkVFtb9k)
 
 ![](/image/buhr1.png)
 
@@ -114,7 +114,7 @@ Tracking is not that hard, a pencil or a Concept Mapping tool will do.
 Concept Mapping with Cmap
 -------------------------
 
-[![]( /image/yid-22YeW55POBs.jpg)](https://www.youtube.com/watch?v=22YeW55POBs)
+[![](/image/yid-22YeW55POBs.jpg)](https://www.youtube.com/watch?v=22YeW55POBs)
 
 Teaching is Complex and Rewarding
 ---------------------------------
@@ -226,7 +226,7 @@ fake education, fake tests, fantasy GPA, is evil.
 Do schools kill creativity? by Sir Ken Robinson
 -----------------------------------------------
 
-[![]( /image/yid-iG9CE55wbtY.jpg)](https://www.youtube.com/watch?v=iG9CE55wbtY)
+[![](/image/yid-iG9CE55wbtY.jpg)](https://www.youtube.com/watch?v=iG9CE55wbtY)
 
 Toxic, Fractured, Hoop Jumping
 ------------------------------
@@ -241,7 +241,7 @@ for curriculum-hoop jumping.
 F\*\*k Grades by Denise Dutton
 ------------------------------
 
-[![]( /image/yid-xz-gVKwWNzs.jpg)](https://www.youtube.com/watch?v=xz-gVKwWNzs)
+[![](/image/yid-xz-gVKwWNzs.jpg)](https://www.youtube.com/watch?v=xz-gVKwWNzs)
 
 We Were All Geniuses, We Were Mislead
 -------------------------------------
@@ -266,7 +266,7 @@ already accepted, and blindly participated in.
 Erica Goldson
 -------------
 
-[![]( /image/yid-9M4tdMsg3ts.jpg)](https://www.youtube.com/watch?v=9M4tdMsg3ts)
+[![](/image/yid-9M4tdMsg3ts.jpg)](https://www.youtube.com/watch?v=9M4tdMsg3ts)
 
 Trigonometry, Triceps and Triceratops
 -------------------------------------
@@ -289,7 +289,7 @@ scale our little Breakfast Club business.
 How School Makes Kids Less Intelligent by Eddy Zhong
 ----------------------------------------------------
 
-[![]( /image/yid-2Yt6raj-S1M.jpg)](https://www.youtube.com/watch?v=2Yt6raj-S1M)
+[![](/image/yid-2Yt6raj-S1M.jpg)](https://www.youtube.com/watch?v=2Yt6raj-S1M)
 
 The Courageous & The Fallen
 ---------------------------
@@ -308,7 +308,7 @@ impossible.
 Mad World, Our Club
 -------------------
 
-[![]( /image/yid-zxRTHq5uBbg.jpg)](https://www.youtube.com/watch?v=zxRTHq5uBbg)
+[![](/image/yid-zxRTHq5uBbg.jpg)](https://www.youtube.com/watch?v=zxRTHq5uBbg)
 
 Angelheaded Hipsters
 --------------------
@@ -352,7 +352,7 @@ loser too."
 The Club
 --------
 
-[![]( /image/yid-DQ1QUK8KLH0.jpg)](https://www.youtube.com/watch?v=DQ1QUK8KLH0)
+[![](/image/yid-DQ1QUK8KLH0.jpg)](https://www.youtube.com/watch?v=DQ1QUK8KLH0)
 
 People tried to help, but they didn't know how.
 -----------------------------------------------
@@ -388,7 +388,7 @@ The root cause was that we were not safe, and we were not learning.
 Waiting For Superman
 --------------------
 
-[![]( /image/yid-8rmSldhnSDc.jpg)](https://www.youtube.com/watch?v=8rmSldhnSDc)
+[![](/image/yid-8rmSldhnSDc.jpg)](https://www.youtube.com/watch?v=8rmSldhnSDc)
 
 We Set Ourselves Free, to Live Authentic, to Invent, to Triumph.
 ----------------------------------------------------------------

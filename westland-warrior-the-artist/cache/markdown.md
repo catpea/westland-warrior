@@ -1,7 +1,7 @@
 Drew Struzan - Tracing
 ----------------------
 
-[![]( /image/yid-0fEMJp70tGU.jpg)](https://www.youtube.com/watch?v=0fEMJp70tGU)
+[![](/image/yid-0fEMJp70tGU.jpg)](https://www.youtube.com/watch?v=0fEMJp70tGU)
 
 Quote by Frida Kahlo
 --------------------
@@ -22,7 +22,7 @@ opposite side of your trace to create a home made, Transfer Paper.
 How to Transfer an Image Using Tracing Paper
 --------------------------------------------
 
-[![]( /image/yid-JW5PYVbc6ho.jpg)](https://www.youtube.com/watch?v=JW5PYVbc6ho)
+[![](/image/yid-JW5PYVbc6ho.jpg)](https://www.youtube.com/watch?v=JW5PYVbc6ho)
 
 Tracing Paper
 -------------
@@ -53,7 +53,7 @@ your trace on top, and then go over it with a pencil.
 Getting Started: Three Ways to Transfer an Image to Watercolor Paper
 --------------------------------------------------------------------
 
-[![]( /image/yid-fN-VtUBC7Ys.jpg)](https://www.youtube.com/watch?v=fN-VtUBC7Ys)
+[![](/image/yid-fN-VtUBC7Ys.jpg)](https://www.youtube.com/watch?v=fN-VtUBC7Ys)
 
 Light Box
 ---------
@@ -72,7 +72,7 @@ you might want to consider getting a tiny battery powered [projector](https://ww
 How to trace a picture.
 -----------------------
 
-[![]( /image/yid-cQGeOMCGh0U.jpg)](https://www.youtube.com/watch?v=cQGeOMCGh0U)
+[![](/image/yid-cQGeOMCGh0U.jpg)](https://www.youtube.com/watch?v=cQGeOMCGh0U)
 
 Digital Projector
 -----------------
@@ -87,7 +87,7 @@ paintings.
 Home Wall Painting Using projector - DIY
 ----------------------------------------
 
-[![]( /image/yid-iGDfa4T9yTE.jpg)](https://www.youtube.com/watch?v=iGDfa4T9yTE)
+[![](/image/yid-iGDfa4T9yTE.jpg)](https://www.youtube.com/watch?v=iGDfa4T9yTE)
 
 Digital Projector
 -----------------
@@ -140,37 +140,37 @@ Reveal the brightest parts (highlights) in Mona Lisa.
 How to use GIMP for beginners tutorial
 --------------------------------------
 
-[![]( /image/yid-7LXyClky6A8.jpg)](https://www.youtube.com/watch?v=7LXyClky6A8)
+[![](/image/yid-7LXyClky6A8.jpg)](https://www.youtube.com/watch?v=7LXyClky6A8)
 
 Learn GIMP in 30 minutes, Complete Tutorial for Beginners
 ---------------------------------------------------------
 
-[![]( /image/yid-IeABb8cwdUg.jpg)](https://www.youtube.com/watch?v=IeABb8cwdUg)
+[![](/image/yid-IeABb8cwdUg.jpg)](https://www.youtube.com/watch?v=IeABb8cwdUg)
 
 Working With Filters - GIMP Tutorials
 -------------------------------------
 
-[![]( /image/yid-BB6LM9IYcco.jpg)](https://www.youtube.com/watch?v=BB6LM9IYcco)
+[![](/image/yid-BB6LM9IYcco.jpg)](https://www.youtube.com/watch?v=BB6LM9IYcco)
 
 Sfumato, Unione, Chiaroscuro, Cangiante
 ---------------------------------------
 
-[![]( /image/yid-Rp4G1pXx-cs.jpg)](https://www.youtube.com/watch?v=Rp4G1pXx-cs)
+[![](/image/yid-Rp4G1pXx-cs.jpg)](https://www.youtube.com/watch?v=Rp4G1pXx-cs)
 
 Painting the Portrait: The Grisaille Method in Oil Part 1/2
 -----------------------------------------------------------
 
-[![]( /image/yid-1183SVMyJVI.jpg)](https://www.youtube.com/watch?v=1183SVMyJVI)
+[![](/image/yid-1183SVMyJVI.jpg)](https://www.youtube.com/watch?v=1183SVMyJVI)
 
 Painting the Portrait: The Grisaille Method in Oil Part 2/2
 -----------------------------------------------------------
 
-[![]( /image/yid-vN6aZSSGKGs.jpg)](https://www.youtube.com/watch?v=vN6aZSSGKGs)
+[![](/image/yid-vN6aZSSGKGs.jpg)](https://www.youtube.com/watch?v=vN6aZSSGKGs)
 
 Grisaille Method with Jon deMartin
 ----------------------------------
 
-[![]( /image/yid-JPar_nzAEL0.jpg)](https://www.youtube.com/watch?v=JPar_nzAEL0)
+[![](/image/yid-JPar_nzAEL0.jpg)](https://www.youtube.com/watch?v=JPar_nzAEL0)
 
 Brianna Schretlen and her Fur Kids
 ----------------------------------
@@ -192,7 +192,7 @@ painting for advertising, portfolio, and internet points.
 Pet portrait time-lapse.
 ------------------------
 
-[![]( /image/yid-Aqn363Z1f5A.jpg)](https://www.youtube.com/watch?v=Aqn363Z1f5A)
+[![](/image/yid-Aqn363Z1f5A.jpg)](https://www.youtube.com/watch?v=Aqn363Z1f5A)
 
 Quote by Henri Matisse
 ----------------------
@@ -213,9 +213,9 @@ Museum, or even a Coffee Shop.
 Blending Stumps for Beginners
 -----------------------------
 
-[![]( /image/yid-zHiaJMf7m9Y.jpg)](https://www.youtube.com/watch?v=zHiaJMf7m9Y)
+[![](/image/yid-zHiaJMf7m9Y.jpg)](https://www.youtube.com/watch?v=zHiaJMf7m9Y)
 
 What's an Eraser Shield?
 ------------------------
 
-[![]( /image/yid-bluffx6sB04.jpg)](https://www.youtube.com/watch?v=bluffx6sB04)
+[![](/image/yid-bluffx6sB04.jpg)](https://www.youtube.com/watch?v=bluffx6sB04)

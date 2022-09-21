@@ -1,7 +1,7 @@
 Great Philosopher Jean Paul Sartre, plays the piano.
 ----------------------------------------------------
 
-[![]( /image/yid-TysXX7ZCV7g.jpg)](https://www.youtube.com/watch?v=TysXX7ZCV7g)
+[![](/image/yid-TysXX7ZCV7g.jpg)](https://www.youtube.com/watch?v=TysXX7ZCV7g)
 
 Important Music Tutorial
 ------------------------
@@ -23,17 +23,17 @@ often be a defining sound in a song that captured your attention.
 Amiga Samplers : Budget dance music in 1990
 -------------------------------------------
 
-[![]( /image/yid-i9MXYZh1jcs.jpg)](https://www.youtube.com/watch?v=i9MXYZh1jcs)
+[![](/image/yid-i9MXYZh1jcs.jpg)](https://www.youtube.com/watch?v=i9MXYZh1jcs)
 
 Amen, Break: The Most Sampled Loop in Music History
 ---------------------------------------------------
 
-[![]( /image/yid-v89CjsSOJ_c.jpg)](https://www.youtube.com/watch?v=v89CjsSOJ_c)
+[![](/image/yid-v89CjsSOJ_c.jpg)](https://www.youtube.com/watch?v=v89CjsSOJ_c)
 
 How sampling transformed music by Mark Ronson
 ---------------------------------------------
 
-[![]( /image/yid-H3TF-hI7zKc.jpg)](https://www.youtube.com/watch?v=H3TF-hI7zKc)
+[![](/image/yid-H3TF-hI7zKc.jpg)](https://www.youtube.com/watch?v=H3TF-hI7zKc)
 
 Art of Sampling
 ---------------
@@ -62,32 +62,32 @@ organized one aimed at musicians for $7.99/mo (the free trial is worth it).
 LoFi Synth-Hop
 --------------
 
-[![]( /image/yid-mVxLhy1v-xU.jpg)](https://www.youtube.com/watch?v=mVxLhy1v-xU)
+[![](/image/yid-mVxLhy1v-xU.jpg)](https://www.youtube.com/watch?v=mVxLhy1v-xU)
 
 RZA - Flying Birds / Sample Rich Track
 --------------------------------------
 
-[![]( /image/yid-DdVOwNyomw4.jpg)](https://www.youtube.com/watch?v=DdVOwNyomw4)
+[![](/image/yid-DdVOwNyomw4.jpg)](https://www.youtube.com/watch?v=DdVOwNyomw4)
 
 RZA'a Samurai Showdown (Lofi Hiphop)
 ------------------------------------
 
-[![]( /image/yid-g4tbuu9GTaw.jpg)](https://www.youtube.com/watch?v=g4tbuu9GTaw)
+[![](/image/yid-g4tbuu9GTaw.jpg)](https://www.youtube.com/watch?v=g4tbuu9GTaw)
 
 Beatboxers
 ----------
 
-[![]( /image/yid-ztPvUrQb9Vw.jpg)](https://www.youtube.com/watch?v=ztPvUrQb9Vw)
+[![](/image/yid-ztPvUrQb9Vw.jpg)](https://www.youtube.com/watch?v=ztPvUrQb9Vw)
 
 The Science of Dubstep by James Humberstone
 -------------------------------------------
 
-[![]( /image/yid-d8s8e8JdGCc.jpg)](https://www.youtube.com/watch?v=d8s8e8JdGCc)
+[![](/image/yid-d8s8e8JdGCc.jpg)](https://www.youtube.com/watch?v=d8s8e8JdGCc)
 
 How to translate the feeling into sound by Claudio
 --------------------------------------------------
 
-[![]( /image/yid-q5yxIzs5Wug.jpg)](https://www.youtube.com/watch?v=q5yxIzs5Wug)
+[![](/image/yid-q5yxIzs5Wug.jpg)](https://www.youtube.com/watch?v=q5yxIzs5Wug)
 
 Become a Rockstar!
 ------------------
@@ -113,37 +113,37 @@ Take a look at the [showcase](https://lmms.io/showcase), albums of songs made wi
 LMMS 1.2
 --------
 
-[![]( /image/yid-5j8c2qlih0M.jpg)](https://www.youtube.com/watch?v=5j8c2qlih0M)
+[![](/image/yid-5j8c2qlih0M.jpg)](https://www.youtube.com/watch?v=5j8c2qlih0M)
 
 LMMS Tutorial 1: Piano Roll, Beat/Bass Line Editor
 --------------------------------------------------
 
-[![]( /image/yid-4dYxV3tqTUc.jpg)](https://www.youtube.com/watch?v=4dYxV3tqTUc)
+[![](/image/yid-4dYxV3tqTUc.jpg)](https://www.youtube.com/watch?v=4dYxV3tqTUc)
 
 LMMS Tutorial 2: Sidebar
 ------------------------
 
-[![]( /image/yid-Ow4fHTmd1mo.jpg)](https://www.youtube.com/watch?v=Ow4fHTmd1mo)
+[![](/image/yid-Ow4fHTmd1mo.jpg)](https://www.youtube.com/watch?v=Ow4fHTmd1mo)
 
 LMMS Tutorial 3: TripleOscillator Basics
 ----------------------------------------
 
-[![]( /image/yid-7lI8VgbocQg.jpg)](https://www.youtube.com/watch?v=7lI8VgbocQg)
+[![](/image/yid-7lI8VgbocQg.jpg)](https://www.youtube.com/watch?v=7lI8VgbocQg)
 
 How to Sing Any Song - Modified Lyrics - Felicia Ricci
 ------------------------------------------------------
 
-[![]( /image/yid-rJDc8p18fsE.jpg)](https://www.youtube.com/watch?v=rJDc8p18fsE)
+[![](/image/yid-rJDc8p18fsE.jpg)](https://www.youtube.com/watch?v=rJDc8p18fsE)
 
 How To Sing Any Song - Voice Lessons - Ken Tamplin Vocal Academy
 ----------------------------------------------------------------
 
-[![]( /image/yid-ZATunybJm_4.jpg)](https://www.youtube.com/watch?v=ZATunybJm_4)
+[![](/image/yid-ZATunybJm_4.jpg)](https://www.youtube.com/watch?v=ZATunybJm_4)
 
 How To Sing With Your Own Voice - Roger Burnley Voice Studio - Singing Vocal Lesson
 -----------------------------------------------------------------------------------
 
-[![]( /image/yid-ytyLQ2Hl-H0.jpg)](https://www.youtube.com/watch?v=ytyLQ2Hl-H0)
+[![](/image/yid-ytyLQ2Hl-H0.jpg)](https://www.youtube.com/watch?v=ytyLQ2Hl-H0)
 
 Anne Reburn
 -----------
@@ -153,12 +153,12 @@ Anne Reburn
 How Am I Feeling Today?
 -----------------------
 
-[![]( /image/yid-zFnSCJ8h9c4.jpg)](https://www.youtube.com/watch?v=zFnSCJ8h9c4)
+[![](/image/yid-zFnSCJ8h9c4.jpg)](https://www.youtube.com/watch?v=zFnSCJ8h9c4)
 
 I'm A Believer
 --------------
 
-[![]( /image/yid-SdM5DQxfGM0.jpg)](https://www.youtube.com/watch?v=SdM5DQxfGM0)
+[![](/image/yid-SdM5DQxfGM0.jpg)](https://www.youtube.com/watch?v=SdM5DQxfGM0)
 
 Studio Acapellas
 ----------------
@@ -172,12 +172,12 @@ and remixes.
 P!nk - Fuckin' Perfect (Official Acapella) \[EXPLICIT\]
 -------------------------------------------------------
 
-[![]( /image/yid-f5TSlm79zc0.jpg)](https://www.youtube.com/watch?v=f5TSlm79zc0)
+[![](/image/yid-f5TSlm79zc0.jpg)](https://www.youtube.com/watch?v=f5TSlm79zc0)
 
 Mad World Gary Jules Real Official Acapella
 -------------------------------------------
 
-[![]( /image/yid-oRoauAOgWuw.jpg)](https://www.youtube.com/watch?v=oRoauAOgWuw)
+[![](/image/yid-oRoauAOgWuw.jpg)](https://www.youtube.com/watch?v=oRoauAOgWuw)
 
 Izzie Naylor
 ------------
@@ -188,12 +188,12 @@ that minimalist songs are often very beautiful.
 Smile, Ukulele Cover by Izzie Naylor
 ------------------------------------
 
-[![]( /image/yid-Z8ZShEgGt-4.jpg)](https://www.youtube.com/watch?v=Z8ZShEgGt-4)
+[![](/image/yid-Z8ZShEgGt-4.jpg)](https://www.youtube.com/watch?v=Z8ZShEgGt-4)
 
 Gary Jules - Mad World (live)
 -----------------------------
 
-[![]( /image/yid-D1Nq086QB1Q.jpg)](https://www.youtube.com/watch?v=D1Nq086QB1Q)
+[![](/image/yid-D1Nq086QB1Q.jpg)](https://www.youtube.com/watch?v=D1Nq086QB1Q)
 
 Community Links
 ---------------

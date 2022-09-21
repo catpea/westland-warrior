@@ -1,12 +1,12 @@
 How I Became a Web Developer in 3 Months
 ----------------------------------------
 
-[![]( /image/yid-ASbijZRU2Uo.jpg)](https://www.youtube.com/watch?v=ASbijZRU2Uo)
+[![](/image/yid-ASbijZRU2Uo.jpg)](https://www.youtube.com/watch?v=ASbijZRU2Uo)
 
 Passion, Programming, and Pragmatism by Marcella Jewell
 -------------------------------------------------------
 
-[![]( /image/yid-6NzNs8FAudQ.jpg)](https://www.youtube.com/watch?v=6NzNs8FAudQ)
+[![](/image/yid-6NzNs8FAudQ.jpg)](https://www.youtube.com/watch?v=6NzNs8FAudQ)
 
 Great Battle
 ------------
@@ -192,7 +192,7 @@ latest updates to the [Bootstrap](https://getbootstrap.com/) code base.
 A Software Developer's Secret to Life by Julia Menchavez
 --------------------------------------------------------
 
-[![]( /image/yid-uj0kReMs-gc.jpg)](https://www.youtube.com/watch?v=uj0kReMs-gc)
+[![](/image/yid-uj0kReMs-gc.jpg)](https://www.youtube.com/watch?v=uj0kReMs-gc)
 
 Services Platform
 -----------------

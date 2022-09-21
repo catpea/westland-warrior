@@ -22,7 +22,7 @@ animals to death in an act called [Endurance Hunting](https://en.wikipedia.org/w
 Human Mammal, Human Hunter, Attenborough, Life of Mammals
 ---------------------------------------------------------
 
-[![]( /image/yid-826HMLoiE_o.jpg)](https://www.youtube.com/watch?v=826HMLoiE_o)
+[![](/image/yid-826HMLoiE_o.jpg)](https://www.youtube.com/watch?v=826HMLoiE_o)
 
 Protect Life
 ------------
@@ -43,7 +43,7 @@ we evolved to require for our optimal health.
 Modern Warrior: Damien Mander
 -----------------------------
 
-[![]( /image/yid-9FCsyK4aRXQ.jpg)](https://www.youtube.com/watch?v=9FCsyK4aRXQ)
+[![](/image/yid-9FCsyK4aRXQ.jpg)](https://www.youtube.com/watch?v=9FCsyK4aRXQ)
 
 Quo Vadis?
 ----------
@@ -84,7 +84,7 @@ become great hunters.
 Human Population Across Time
 ----------------------------
 
-[![]( /image/yid-PUwmA3Q0_OE.jpg)](https://www.youtube.com/watch?v=PUwmA3Q0_OE)
+[![](/image/yid-PUwmA3Q0_OE.jpg)](https://www.youtube.com/watch?v=PUwmA3Q0_OE)
 
 Choose Life
 -----------
@@ -95,12 +95,12 @@ and [Survival](https://youtu.be/TMrtLsQbaok)
 The Sixth Extinction
 --------------------
 
-[![]( /image/yid-kWrPo02e4fo.jpg)](https://www.youtube.com/watch?v=kWrPo02e4fo)
+[![](/image/yid-kWrPo02e4fo.jpg)](https://www.youtube.com/watch?v=kWrPo02e4fo)
 
 Elizabeth Kolbert: How the 6th extinction threatens humans
 ----------------------------------------------------------
 
-[![]( /image/yid-9XzAgMe0WrI.jpg)](https://www.youtube.com/watch?v=9XzAgMe0WrI)
+[![](/image/yid-9XzAgMe0WrI.jpg)](https://www.youtube.com/watch?v=9XzAgMe0WrI)
 
 Elizabeth Kolbert
 -----------------

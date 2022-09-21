@@ -1,7 +1,7 @@
 Why most students are getting the least out of school by Dan Cardinali
 ----------------------------------------------------------------------
 
-[![]( /image/yid-qzALINIvYNQ.jpg)](https://www.youtube.com/watch?v=qzALINIvYNQ)
+[![](/image/yid-qzALINIvYNQ.jpg)](https://www.youtube.com/watch?v=qzALINIvYNQ)
 
 Poverty Of Mind Comes From Lack Of Non Cognitive Skills
 -------------------------------------------------------
@@ -77,7 +77,7 @@ depression.
 The Power of a Teacher by Adam Saenz
 ------------------------------------
 
-[![]( /image/yid-AyogyD7vXbw.jpg)](https://www.youtube.com/watch?v=AyogyD7vXbw)
+[![](/image/yid-AyogyD7vXbw.jpg)](https://www.youtube.com/watch?v=AyogyD7vXbw)
 
 A Place of Healing
 ------------------
@@ -95,7 +95,7 @@ Today school is a bad place. Just another broken promise.
 Elon Musk knocks the college experience
 ---------------------------------------
 
-[![]( /image/yid-Io3sdAAcZLw.jpg)](https://www.youtube.com/watch?v=Io3sdAAcZLw)
+[![](/image/yid-Io3sdAAcZLw.jpg)](https://www.youtube.com/watch?v=Io3sdAAcZLw)
 
 Quote by Elon Musk
 ------------------
@@ -168,7 +168,7 @@ came to her rescue, that is so brave and so sweet.
 CIS Alum Talitha Halley appears on MSNBC 5/5/15
 -----------------------------------------------
 
-[![]( /image/yid-0NPO3lEcPyU.jpg)](https://www.youtube.com/watch?v=0NPO3lEcPyU)
+[![](/image/yid-0NPO3lEcPyU.jpg)](https://www.youtube.com/watch?v=0NPO3lEcPyU)
 
 Non Cognitive Skills Must Come First
 ------------------------------------

@@ -15,7 +15,7 @@ norm, because they are clearly more successful.
 How to escape education's death valley by Sir Ken Robinson
 ----------------------------------------------------------
 
-[![]( /image/yid-wX78iKhInsc.jpg)](https://www.youtube.com/watch?v=wX78iKhInsc)
+[![](/image/yid-wX78iKhInsc.jpg)](https://www.youtube.com/watch?v=wX78iKhInsc)
 
 Extreme Ownership
 -----------------
@@ -29,7 +29,7 @@ gravity of the words Extreme Ownership.
 Extreme Ownership by Jocko Willink
 ----------------------------------
 
-[![]( /image/yid-ljqra3BcqWM.jpg)](https://www.youtube.com/watch?v=ljqra3BcqWM)
+[![](/image/yid-ljqra3BcqWM.jpg)](https://www.youtube.com/watch?v=ljqra3BcqWM)
 
 Extreme Ownership
 -----------------
@@ -55,7 +55,7 @@ serves as an example of what it means to Self Educate.
 Astra Taylor on the Unschooled Life
 -----------------------------------
 
-[![]( /image/yid-LwIyy1Fi-4Q.jpg)](https://www.youtube.com/watch?v=LwIyy1Fi-4Q)
+[![](/image/yid-LwIyy1Fi-4Q.jpg)](https://www.youtube.com/watch?v=LwIyy1Fi-4Q)
 
 Science Popularizers
 --------------------
@@ -72,12 +72,12 @@ how they think, of their energy and class.
 The Great Debate: THE STORYTELLING OF SCIENCE, part 1 of 2
 ----------------------------------------------------------
 
-[![]( /image/yid-_J4QPz52Sfo.jpg)](https://www.youtube.com/watch?v=_J4QPz52Sfo)
+[![](/image/yid-_J4QPz52Sfo.jpg)](https://www.youtube.com/watch?v=_J4QPz52Sfo)
 
 The Great Debate: THE STORYTELLING OF SCIENCEi, part 2 of 2
 -----------------------------------------------------------
 
-[![]( /image/yid-40YIIaF1qiw.jpg)](https://www.youtube.com/watch?v=40YIIaF1qiw)
+[![](/image/yid-40YIIaF1qiw.jpg)](https://www.youtube.com/watch?v=40YIIaF1qiw)
 
 Self Education
 --------------
@@ -96,7 +96,7 @@ ownership of your own Self Education.
 We Are All Connected
 --------------------
 
-[![]( /image/yid-XGK84Poeynk.jpg)](https://www.youtube.com/watch?v=XGK84Poeynk)
+[![](/image/yid-XGK84Poeynk.jpg)](https://www.youtube.com/watch?v=XGK84Poeynk)
 
 Bill Bryson
 -----------
@@ -104,7 +104,7 @@ Bill Bryson
 Talking Science: Bill Bryson on A Short History of Nearly Everything
 --------------------------------------------------------------------
 
-[![]( /image/yid-4gb-hnbHbjw.jpg)](https://www.youtube.com/watch?v=4gb-hnbHbjw)
+[![](/image/yid-4gb-hnbHbjw.jpg)](https://www.youtube.com/watch?v=4gb-hnbHbjw)
 
 Bill Bryson
 -----------
@@ -117,7 +117,7 @@ Howard Zinn
 Howard Zinn: A People's History of the United States (1999)
 -----------------------------------------------------------
 
-[![]( /image/yid-Vn_m9WCd-88.jpg)](https://www.youtube.com/watch?v=Vn_m9WCd-88)
+[![](/image/yid-Vn_m9WCd-88.jpg)](https://www.youtube.com/watch?v=Vn_m9WCd-88)
 
 A People’s History
 ------------------
@@ -133,7 +133,7 @@ Stoicism
 The philosophy of Stoicism by Massimo Pigliucci
 -----------------------------------------------
 
-[![]( /image/yid-R9OCA6UFE-0.jpg)](https://www.youtube.com/watch?v=R9OCA6UFE-0)
+[![](/image/yid-R9OCA6UFE-0.jpg)](https://www.youtube.com/watch?v=R9OCA6UFE-0)
 
 Crash Course Philosophy
 -----------------------

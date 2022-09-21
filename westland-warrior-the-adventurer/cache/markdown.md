@@ -1,7 +1,7 @@
 Nordhouse Dunes: Backpacking in a Snowstorm on Lake Michigan
 ------------------------------------------------------------
 
-[![]( /image/yid-68jy3_ABvRo.jpg)](https://www.youtube.com/watch?v=68jy3_ABvRo)
+[![](/image/yid-68jy3_ABvRo.jpg)](https://www.youtube.com/watch?v=68jy3_ABvRo)
 
 Endless Horizons
 ----------------
@@ -34,7 +34,7 @@ Endless Horizons
 Eddie Vedder - Guaranteed
 -------------------------
 
-[![]( /image/yid-Mwx3RvDWvDM.jpg)](https://www.youtube.com/watch?v=Mwx3RvDWvDM)
+[![](/image/yid-Mwx3RvDWvDM.jpg)](https://www.youtube.com/watch?v=Mwx3RvDWvDM)
 
 Courage
 -------
@@ -52,7 +52,7 @@ journey.
 Carine McCandless
 -----------------
 
-[![]( /image/yid-DJXM8HjyVSo.jpg)](https://www.youtube.com/watch?v=DJXM8HjyVSo)
+[![](/image/yid-DJXM8HjyVSo.jpg)](https://www.youtube.com/watch?v=DJXM8HjyVSo)
 
 Quote by Robinson Jeffers
 -------------------------

@@ -38,7 +38,7 @@ not be present had the virtues still mattered to an overwhelming majority.
 Your Move Chief
 ---------------
 
-[![]( /image/yid-oRG2jlQWCsY.jpg)](https://www.youtube.com/watch?v=oRG2jlQWCsY)
+[![](/image/yid-oRG2jlQWCsY.jpg)](https://www.youtube.com/watch?v=oRG2jlQWCsY)
 
 Forbearance and Largesse
 ------------------------
@@ -49,7 +49,7 @@ example of a modern gentleman with class, integrity, and authenticity.
 Why Chivalry Still has a Chance by Anthony Rudolf
 -------------------------------------------------
 
-[![]( /image/yid-VLAM6YxV_gA.jpg)](https://www.youtube.com/watch?v=VLAM6YxV_gA)
+[![](/image/yid-VLAM6YxV_gA.jpg)](https://www.youtube.com/watch?v=VLAM6YxV_gA)
 
 Definition
 ----------

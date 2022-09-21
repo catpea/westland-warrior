@@ -8,64 +8,64 @@ Demoscene
 Commodore 64 Demoscene - February 2019
 --------------------------------------
 
-[![]( /image/yid-9dZj33gr-yw.jpg)](https://www.youtube.com/watch?v=9dZj33gr-yw)
+[![](/image/yid-9dZj33gr-yw.jpg)](https://www.youtube.com/watch?v=9dZj33gr-yw)
 
 Demoscene - fermi paradox - mercury
 -----------------------------------
 
-[![]( /image/yid-JZ6ZzJeWgpY.jpg)](https://www.youtube.com/watch?v=JZ6ZzJeWgpY)
+[![](/image/yid-JZ6ZzJeWgpY.jpg)](https://www.youtube.com/watch?v=JZ6ZzJeWgpY)
 
 Demoscene, The Strangest (and Coolest) Computer Subculture - Inside Gaming Explains
 -----------------------------------------------------------------------------------
 
-[![]( /image/yid-VENFVhQqGls.jpg)](https://www.youtube.com/watch?v=VENFVhQqGls)
+[![](/image/yid-VENFVhQqGls.jpg)](https://www.youtube.com/watch?v=VENFVhQqGls)
 
 Commodore 64 Black Box 4 Super Cartrige PL
 ------------------------------------------
 
-[![]( /image/yid-JwNCNO615qQ.jpg)](https://www.youtube.com/watch?v=JwNCNO615qQ)
+[![](/image/yid-JwNCNO615qQ.jpg)](https://www.youtube.com/watch?v=JwNCNO615qQ)
 
 Intro by Fairlight
 ------------------
 
-[![]( /image/yid-78D9MwLPidw.jpg)](https://www.youtube.com/watch?v=78D9MwLPidw)
+[![](/image/yid-78D9MwLPidw.jpg)](https://www.youtube.com/watch?v=78D9MwLPidw)
 
 Triad Intro Collection! Commodore 64 (C64) !
 --------------------------------------------
 
-[![]( /image/yid-dwHUWC4P0rw.jpg)](https://www.youtube.com/watch?v=dwHUWC4P0rw)
+[![](/image/yid-dwHUWC4P0rw.jpg)](https://www.youtube.com/watch?v=dwHUWC4P0rw)
 
 Ikari Intro Collection ! Commodore 64 (C64)
 -------------------------------------------
 
-[![]( /image/yid-dTLswakQHKo.jpg)](https://www.youtube.com/watch?v=dTLswakQHKo)
+[![](/image/yid-dTLswakQHKo.jpg)](https://www.youtube.com/watch?v=dTLswakQHKo)
 
 64 Legendary C64 Crack Intros
 -----------------------------
 
-[![]( /image/yid-SFqBkSJOYOQ.jpg)](https://www.youtube.com/watch?v=SFqBkSJOYOQ)
+[![](/image/yid-SFqBkSJOYOQ.jpg)](https://www.youtube.com/watch?v=SFqBkSJOYOQ)
 
 C64 SID Music Compilation
 -------------------------
 
-[![]( /image/yid-2wbwKdV89pE.jpg)](https://www.youtube.com/watch?v=2wbwKdV89pE)
+[![](/image/yid-2wbwKdV89pE.jpg)](https://www.youtube.com/watch?v=2wbwKdV89pE)
 
 SID music, Jeff revisited in stereo Dolby Headphone
 ---------------------------------------------------
 
-[![]( /image/yid-MiSlPuCqEoM.jpg)](https://www.youtube.com/watch?v=MiSlPuCqEoM)
+[![](/image/yid-MiSlPuCqEoM.jpg)](https://www.youtube.com/watch?v=MiSlPuCqEoM)
 
 Amiga Music, Jogeir Liljedahl Compilation #1
 --------------------------------------------
 
-[![]( /image/yid-eclMFa0mD1c.jpg)](https://www.youtube.com/watch?v=eclMFa0mD1c)
+[![](/image/yid-eclMFa0mD1c.jpg)](https://www.youtube.com/watch?v=eclMFa0mD1c)
 
 The Black Lotus - Eon - Amiga Demo (50 FPS)
 -------------------------------------------
 
-[![]( /image/yid-uAjEUEbmCJw.jpg)](https://www.youtube.com/watch?v=uAjEUEbmCJw)
+[![](/image/yid-uAjEUEbmCJw.jpg)](https://www.youtube.com/watch?v=uAjEUEbmCJw)
 
 Commodore Amiga best demos 1989-2004
 ------------------------------------
 
-[![]( /image/yid-b9J03KNy2mE.jpg)](https://www.youtube.com/watch?v=b9J03KNy2mE)
+[![](/image/yid-b9J03KNy2mE.jpg)](https://www.youtube.com/watch?v=b9J03KNy2mE)

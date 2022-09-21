@@ -71,12 +71,12 @@ recreations of the lost arts.
 King Arthur's Origins
 ---------------------
 
-[![]( /image/yid-RBsY88Lir-A.jpg)](https://www.youtube.com/watch?v=RBsY88Lir-A)
+[![](/image/yid-RBsY88Lir-A.jpg)](https://www.youtube.com/watch?v=RBsY88Lir-A)
 
 Swordplay and the Lost Art of Knighthood
 ----------------------------------------
 
-[![]( /image/yid-mZeqgjC6gtE.jpg)](https://www.youtube.com/watch?v=mZeqgjC6gtE)
+[![](/image/yid-mZeqgjC6gtE.jpg)](https://www.youtube.com/watch?v=mZeqgjC6gtE)
 
 Above the Common Levels
 -----------------------

@@ -8,12 +8,12 @@ Quote by Henry Ford
 Coming Home
 -----------
 
-[![]( /image/yid-k84QxVJd0tI.jpg)](https://www.youtube.com/watch?v=k84QxVJd0tI)
+[![](/image/yid-k84QxVJd0tI.jpg)](https://www.youtube.com/watch?v=k84QxVJd0tI)
 
 Lucy Lawrence & James Lawrence: Breaking endurance barriers, one step at a time
 -------------------------------------------------------------------------------
 
-[![]( /image/yid-WnoziOPQ3HA.jpg)](https://www.youtube.com/watch?v=WnoziOPQ3HA)
+[![](/image/yid-WnoziOPQ3HA.jpg)](https://www.youtube.com/watch?v=WnoziOPQ3HA)
 
 Quote by Bruce Lee
 ------------------
@@ -26,7 +26,7 @@ Quote by Bruce Lee
 Bruce Lee
 ---------
 
-[![]( /image/yid--U5zA7gNPKo.jpg)](https://www.youtube.com/watch?v=-U5zA7gNPKo)
+[![](/image/yid--U5zA7gNPKo.jpg)](https://www.youtube.com/watch?v=-U5zA7gNPKo)
 
 Endurance Training
 ------------------
@@ -51,7 +51,7 @@ Quote by Dean Karnazes
 Dean Karnazes
 -------------
 
-[![]( /image/yid-Mtp65SWoyWc.jpg)](https://www.youtube.com/watch?v=Mtp65SWoyWc)
+[![](/image/yid-Mtp65SWoyWc.jpg)](https://www.youtube.com/watch?v=Mtp65SWoyWc)
 
 Quote by Dean Karnazes
 ----------------------
@@ -81,7 +81,7 @@ friends, does not hurt.
 Imagine Dragons - Believer
 --------------------------
 
-[![]( /image/yid-7wtfhZwyrcc.jpg)](https://www.youtube.com/watch?v=7wtfhZwyrcc)
+[![](/image/yid-7wtfhZwyrcc.jpg)](https://www.youtube.com/watch?v=7wtfhZwyrcc)
 
 There Is No Later
 -----------------
@@ -94,7 +94,7 @@ eventually.
 Make me young again
 -------------------
 
-[![]( /image/yid-wxmRulRQsLc.jpg)](https://www.youtube.com/watch?v=wxmRulRQsLc)
+[![](/image/yid-wxmRulRQsLc.jpg)](https://www.youtube.com/watch?v=wxmRulRQsLc)
 
 Make Me Young
 -------------
@@ -110,7 +110,7 @@ can see where we are headed, and end up where we always wished to be.
 Nietzsche's Eternal Recurrence
 ------------------------------
 
-[![]( /image/yid-EknD3KRtgDk.jpg)](https://www.youtube.com/watch?v=EknD3KRtgDk)
+[![](/image/yid-EknD3KRtgDk.jpg)](https://www.youtube.com/watch?v=EknD3KRtgDk)
 
 Eternal Recurrence
 ------------------

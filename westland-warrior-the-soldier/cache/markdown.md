@@ -48,7 +48,7 @@ is saved inside out, not outside in.
 What Being a Warrior Really Means
 ---------------------------------
 
-[![]( /image/yid-yDZZTmr_4d4.jpg)](https://www.youtube.com/watch?v=yDZZTmr_4d4)
+[![](/image/yid-yDZZTmr_4d4.jpg)](https://www.youtube.com/watch?v=yDZZTmr_4d4)
 
 Quote by Nitobe Inazō
 ---------------------
@@ -143,17 +143,17 @@ means of the Great Art of Fine Disregard for Rule.
 Stanislav Petrov, who averted possible nuclear war
 --------------------------------------------------
 
-[![]( /image/yid-L7EmLf4Xlq0.jpg)](https://www.youtube.com/watch?v=L7EmLf4Xlq0)
+[![](/image/yid-L7EmLf4Xlq0.jpg)](https://www.youtube.com/watch?v=L7EmLf4Xlq0)
 
 Stanislav Petrov Movie
 ----------------------
 
-[![]( /image/yid-xTFUqnY3E3Q.jpg)](https://www.youtube.com/watch?v=xTFUqnY3E3Q)
+[![](/image/yid-xTFUqnY3E3Q.jpg)](https://www.youtube.com/watch?v=xTFUqnY3E3Q)
 
 The Man Who Saved The World
 ---------------------------
 
-[![]( /image/yid-8TNdihbV5go.jpg)](https://www.youtube.com/watch?v=8TNdihbV5go)
+[![](/image/yid-8TNdihbV5go.jpg)](https://www.youtube.com/watch?v=8TNdihbV5go)
 
 Prevention, not War
 -------------------
@@ -176,7 +176,7 @@ Prevention.
 Mad World Mountain Dew
 ----------------------
 
-[![]( /image/yid-Xcjb1f1qbBA.jpg)](https://www.youtube.com/watch?v=Xcjb1f1qbBA)
+[![](/image/yid-Xcjb1f1qbBA.jpg)](https://www.youtube.com/watch?v=Xcjb1f1qbBA)
 
 Hope
 ----
@@ -208,7 +208,7 @@ emergence of a self taught soldier.
 My path out of poverty by Lashon Amado
 --------------------------------------
 
-[![]( /image/yid-CpaFX6Ei0nU.jpg)](https://www.youtube.com/watch?v=CpaFX6Ei0nU)
+[![](/image/yid-CpaFX6Ei0nU.jpg)](https://www.youtube.com/watch?v=CpaFX6Ei0nU)
 
 Hope
 ----
@@ -224,12 +224,12 @@ of Great Power.
 Homie Industries
 ----------------
 
-[![]( /image/yid-zk--XN4ozr8.jpg)](https://www.youtube.com/watch?v=zk--XN4ozr8)
+[![](/image/yid-zk--XN4ozr8.jpg)](https://www.youtube.com/watch?v=zk--XN4ozr8)
 
 Kennedy Peace Speech
 --------------------
 
-[![]( /image/yid-0fkKnfk4k40.jpg)](https://www.youtube.com/watch?v=0fkKnfk4k40)
+[![](/image/yid-0fkKnfk4k40.jpg)](https://www.youtube.com/watch?v=0fkKnfk4k40)
 
 Prevention
 ----------

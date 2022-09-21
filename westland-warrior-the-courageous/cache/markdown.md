@@ -45,7 +45,7 @@ It will make you tired.
 How dare you? You have stolen my dreams and my childhood.
 ---------------------------------------------------------
 
-[![]( /image/yid-TMrtLsQbaok.jpg)](https://www.youtube.com/watch?v=TMrtLsQbaok)
+[![](/image/yid-TMrtLsQbaok.jpg)](https://www.youtube.com/watch?v=TMrtLsQbaok)
 
 Bad News
 --------
@@ -94,7 +94,7 @@ not a healthy life.
 Faith of the Heart
 ------------------
 
-[![]( /image/yid-TLs4MGTTXRU.jpg)](https://www.youtube.com/watch?v=TLs4MGTTXRU)
+[![](/image/yid-TLs4MGTTXRU.jpg)](https://www.youtube.com/watch?v=TLs4MGTTXRU)
 
 Article One: Inherent Dignity, Nobility.
 ----------------------------------------
@@ -162,32 +162,32 @@ Visit [Cmap Homepage](https://cmap.ihmc.us/) at Florida Institute for Human & Ma
 Want to learn better? Start mind mapping
 ----------------------------------------
 
-[![]( /image/yid-5nTuScU70As.jpg)](https://www.youtube.com/watch?v=5nTuScU70As)
+[![](/image/yid-5nTuScU70As.jpg)](https://www.youtube.com/watch?v=5nTuScU70As)
 
 How to Mind Map
 ---------------
 
-[![]( /image/yid-u5Y4pIsXTV0.jpg)](https://www.youtube.com/watch?v=u5Y4pIsXTV0)
+[![](/image/yid-u5Y4pIsXTV0.jpg)](https://www.youtube.com/watch?v=u5Y4pIsXTV0)
 
 Mind Map vs Concept Map
 -----------------------
 
-[![]( /image/yid-9Pzz6rDMd8c.jpg)](https://www.youtube.com/watch?v=9Pzz6rDMd8c)
+[![](/image/yid-9Pzz6rDMd8c.jpg)](https://www.youtube.com/watch?v=9Pzz6rDMd8c)
 
 Concept Mapping with Cmap
 -------------------------
 
-[![]( /image/yid-22YeW55POBs.jpg)](https://www.youtube.com/watch?v=22YeW55POBs)
+[![](/image/yid-22YeW55POBs.jpg)](https://www.youtube.com/watch?v=22YeW55POBs)
 
 Concept Maps 1
 --------------
 
-[![]( /image/yid-o2Js_9-ek7o.jpg)](https://www.youtube.com/watch?v=o2Js_9-ek7o)
+[![](/image/yid-o2Js_9-ek7o.jpg)](https://www.youtube.com/watch?v=o2Js_9-ek7o)
 
 Concept Maps 2
 --------------
 
-[![]( /image/yid-TXU9UKajpVM.jpg)](https://www.youtube.com/watch?v=TXU9UKajpVM)
+[![](/image/yid-TXU9UKajpVM.jpg)](https://www.youtube.com/watch?v=TXU9UKajpVM)
 
 Behavior-Driven Development (BDD)
 ---------------------------------
@@ -206,7 +206,7 @@ similar.
 What is Behavior Driven Development?
 ------------------------------------
 
-[![]( /image/yid-VS6EEUVZGLE.jpg)](https://www.youtube.com/watch?v=VS6EEUVZGLE)
+[![](/image/yid-VS6EEUVZGLE.jpg)](https://www.youtube.com/watch?v=VS6EEUVZGLE)
 
 Learning Online and Tool Examples
 ---------------------------------

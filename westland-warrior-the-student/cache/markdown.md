@@ -1,52 +1,52 @@
 Astra Taylor on the Unschooled Life
 -----------------------------------
 
-[![]( /image/yid-LwIyy1Fi-4Q.jpg)](https://www.youtube.com/watch?v=LwIyy1Fi-4Q)
+[![](/image/yid-LwIyy1Fi-4Q.jpg)](https://www.youtube.com/watch?v=LwIyy1Fi-4Q)
 
 Texas teacher doesn’t assign homework, and she has amazing reasons why l GMA Digital
 ------------------------------------------------------------------------------------
 
-[![]( /image/yid-Gp6KYTCsrwo.jpg)](https://www.youtube.com/watch?v=Gp6KYTCsrwo)
+[![](/image/yid-Gp6KYTCsrwo.jpg)](https://www.youtube.com/watch?v=Gp6KYTCsrwo)
 
 A Mathematician's Lament
 ------------------------
 
-[![]( /image/yid-Ws6qmXDJgwU.jpg)](https://www.youtube.com/watch?v=Ws6qmXDJgwU)
+[![](/image/yid-Ws6qmXDJgwU.jpg)](https://www.youtube.com/watch?v=Ws6qmXDJgwU)
 
 Skipping School by Lua Martin Wells
 -----------------------------------
 
-[![]( /image/yid-23jVmKXk2I0.jpg)](https://www.youtube.com/watch?v=23jVmKXk2I0)
+[![](/image/yid-23jVmKXk2I0.jpg)](https://www.youtube.com/watch?v=23jVmKXk2I0)
 
 Hackschooling makes me happy by Logan LaPlante
 ----------------------------------------------
 
-[![]( /image/yid-h11u3vtcpaY.jpg)](https://www.youtube.com/watch?v=h11u3vtcpaY)
+[![](/image/yid-h11u3vtcpaY.jpg)](https://www.youtube.com/watch?v=h11u3vtcpaY)
 
 Going natural in education by Lora Smothers
 -------------------------------------------
 
-[![]( /image/yid-T0hQNR5fDKw.jpg)](https://www.youtube.com/watch?v=T0hQNR5fDKw)
+[![](/image/yid-T0hQNR5fDKw.jpg)](https://www.youtube.com/watch?v=T0hQNR5fDKw)
 
 Why school sucks by Jad Khoury
 ------------------------------
 
-[![]( /image/yid-OEqOgtmvkkE.jpg)](https://www.youtube.com/watch?v=OEqOgtmvkkE)
+[![](/image/yid-OEqOgtmvkkE.jpg)](https://www.youtube.com/watch?v=OEqOgtmvkkE)
 
 How School Makes Kids Less Intelligent by Eddy Zhong
 ----------------------------------------------------
 
-[![]( /image/yid-2Yt6raj-S1M.jpg)](https://www.youtube.com/watch?v=2Yt6raj-S1M)
+[![](/image/yid-2Yt6raj-S1M.jpg)](https://www.youtube.com/watch?v=2Yt6raj-S1M)
 
 What standardized tests don't measure by Nikki Adeli
 ----------------------------------------------------
 
-[![]( /image/yid-woVtj8GH678.jpg)](https://www.youtube.com/watch?v=woVtj8GH678)
+[![](/image/yid-woVtj8GH678.jpg)](https://www.youtube.com/watch?v=woVtj8GH678)
 
 Connecting Nature and Education by Bandile Phiri
 ------------------------------------------------
 
-[![]( /image/yid-nVj3qizoWS8.jpg)](https://www.youtube.com/watch?v=nVj3qizoWS8)
+[![](/image/yid-nVj3qizoWS8.jpg)](https://www.youtube.com/watch?v=nVj3qizoWS8)
 
 Quote by Albert Einstein
 ------------------------
@@ -59,22 +59,22 @@ Quote by Albert Einstein
 Inventing 101 by Chase Lewis
 ----------------------------
 
-[![]( /image/yid-StdwWpbokcw.jpg)](https://www.youtube.com/watch?v=StdwWpbokcw)
+[![](/image/yid-StdwWpbokcw.jpg)](https://www.youtube.com/watch?v=StdwWpbokcw)
 
 The problem with inventions by Ann Makosinski
 ---------------------------------------------
 
-[![]( /image/yid-lFDG7w_jAFk.jpg)](https://www.youtube.com/watch?v=lFDG7w_jAFk)
+[![](/image/yid-lFDG7w_jAFk.jpg)](https://www.youtube.com/watch?v=lFDG7w_jAFk)
 
 Ann Makosinski: From Tinkering To Invention | Forbes
 ----------------------------------------------------
 
-[![]( /image/yid-iw4FzMDhU6M.jpg)](https://www.youtube.com/watch?v=iw4FzMDhU6M)
+[![](/image/yid-iw4FzMDhU6M.jpg)](https://www.youtube.com/watch?v=iw4FzMDhU6M)
 
 The Surprising Truth About Learning in Schools by Will Richardson
 -----------------------------------------------------------------
 
-[![]( /image/yid-sxyKNMrhEvY.jpg)](https://www.youtube.com/watch?v=sxyKNMrhEvY)
+[![](/image/yid-sxyKNMrhEvY.jpg)](https://www.youtube.com/watch?v=sxyKNMrhEvY)
 
 Quote by Will Richardson
 ------------------------
@@ -122,4 +122,4 @@ Much more complex, and much greater, and far nobler challenges lie ahead.
 We can end poverty, but this is why we haven't by Teva Sienicki
 ---------------------------------------------------------------
 
-[![]( /image/yid-vvlozhvQPJw.jpg)](https://www.youtube.com/watch?v=vvlozhvQPJw)
+[![](/image/yid-vvlozhvQPJw.jpg)](https://www.youtube.com/watch?v=vvlozhvQPJw)

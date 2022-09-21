@@ -1,7 +1,7 @@
 How To DJ For Beginners | Alison Wonderland
 -------------------------------------------
 
-[![]( /image/yid-rzg8OPPKVdM.jpg)](https://www.youtube.com/watch?v=rzg8OPPKVdM)
+[![](/image/yid-rzg8OPPKVdM.jpg)](https://www.youtube.com/watch?v=rzg8OPPKVdM)
 
 Mariana BO
 ----------
@@ -11,12 +11,12 @@ Mariana BO
 Mariana BO (Tomorrowland Belgium 2019)
 --------------------------------------
 
-[![]( /image/yid-dQRARRAhRLc.jpg)](https://www.youtube.com/watch?v=dQRARRAhRLc)
+[![](/image/yid-dQRARRAhRLc.jpg)](https://www.youtube.com/watch?v=dQRARRAhRLc)
 
 Mariana BO: Shankara
 --------------------
 
-[![]( /image/yid-V7-JQcNm8W0.jpg)](https://www.youtube.com/watch?v=V7-JQcNm8W0)
+[![](/image/yid-V7-JQcNm8W0.jpg)](https://www.youtube.com/watch?v=V7-JQcNm8W0)
 
 MATTN
 -----
@@ -26,12 +26,12 @@ MATTN
 MATTN (Tomorrowland Mainstage 2019)
 -----------------------------------
 
-[![]( /image/yid-ksqBDYwqkHA.jpg)](https://www.youtube.com/watch?v=ksqBDYwqkHA)
+[![](/image/yid-ksqBDYwqkHA.jpg)](https://www.youtube.com/watch?v=ksqBDYwqkHA)
 
 MATTN: Jungle Fever
 -------------------
 
-[![]( /image/yid-F18eozyUKoM.jpg)](https://www.youtube.com/watch?v=F18eozyUKoM)
+[![](/image/yid-F18eozyUKoM.jpg)](https://www.youtube.com/watch?v=F18eozyUKoM)
 
 Peggy Gou
 ---------
@@ -41,12 +41,12 @@ Peggy Gou
 Peggy Gou (Palais des Beaux-Arts de Lille for Cercle)
 -----------------------------------------------------
 
-[![]( /image/yid--UOMvxh4MYU.jpg)](https://www.youtube.com/watch?v=-UOMvxh4MYU)
+[![](/image/yid--UOMvxh4MYU.jpg)](https://www.youtube.com/watch?v=-UOMvxh4MYU)
 
 Peggy Gou: Starry Night
 -----------------------
 
-[![]( /image/yid-r_wwmmo6UGY.jpg)](https://www.youtube.com/watch?v=r_wwmmo6UGY)
+[![](/image/yid-r_wwmmo6UGY.jpg)](https://www.youtube.com/watch?v=r_wwmmo6UGY)
 
 Miss K8
 -------
@@ -56,12 +56,12 @@ Miss K8
 Miss K8 (Qlimax 2019)
 ---------------------
 
-[![]( /image/yid-Z0N1i7LwXXE.jpg)](https://www.youtube.com/watch?v=Z0N1i7LwXXE)
+[![](/image/yid-Z0N1i7LwXXE.jpg)](https://www.youtube.com/watch?v=Z0N1i7LwXXE)
 
 Miss K8: Out Of The Frame
 -------------------------
 
-[![]( /image/yid-k9sC2RcFsQg.jpg)](https://www.youtube.com/watch?v=k9sC2RcFsQg)
+[![](/image/yid-k9sC2RcFsQg.jpg)](https://www.youtube.com/watch?v=k9sC2RcFsQg)
 
 Charlotte de Witte
 ------------------
@@ -71,12 +71,12 @@ Charlotte de Witte
 Charlotte de Witte (Dour Festival 2017)
 ---------------------------------------
 
-[![]( /image/yid-AtZxg-OC5ho.jpg)](https://www.youtube.com/watch?v=AtZxg-OC5ho)
+[![](/image/yid-AtZxg-OC5ho.jpg)](https://www.youtube.com/watch?v=AtZxg-OC5ho)
 
 Charlotte de Witte: Time
 ------------------------
 
-[![]( /image/yid-qNWQ5TGujVI.jpg)](https://www.youtube.com/watch?v=qNWQ5TGujVI)
+[![](/image/yid-qNWQ5TGujVI.jpg)](https://www.youtube.com/watch?v=qNWQ5TGujVI)
 
 NERVO
 -----
@@ -86,12 +86,12 @@ NERVO
 NERVO (Tomorrowland July 22, 2017)
 ----------------------------------
 
-[![]( /image/yid-_m9OgQkdVqQ.jpg)](https://www.youtube.com/watch?v=_m9OgQkdVqQ)
+[![](/image/yid-_m9OgQkdVqQ.jpg)](https://www.youtube.com/watch?v=_m9OgQkdVqQ)
 
 NERVO: The Way We See The World
 -------------------------------
 
-[![]( /image/yid-rTOMpaOd31g.jpg)](https://www.youtube.com/watch?v=rTOMpaOd31g)
+[![](/image/yid-rTOMpaOd31g.jpg)](https://www.youtube.com/watch?v=rTOMpaOd31g)
 
 Alison Wonderland
 -----------------
@@ -101,12 +101,12 @@ Alison Wonderland
 Alison Wonderland (The Lab LA)
 ------------------------------
 
-[![]( /image/yid-HIXwkduDI3w.jpg)](https://www.youtube.com/watch?v=HIXwkduDI3w)
+[![](/image/yid-HIXwkduDI3w.jpg)](https://www.youtube.com/watch?v=HIXwkduDI3w)
 
 Alison Wonderland: Peace
 ------------------------
 
-[![]( /image/yid-KbGV1KEXds4.jpg)](https://www.youtube.com/watch?v=KbGV1KEXds4)
+[![](/image/yid-KbGV1KEXds4.jpg)](https://www.youtube.com/watch?v=KbGV1KEXds4)
 
 Nina Kraviz
 -----------
@@ -116,9 +116,9 @@ Nina Kraviz
 Nina Kraviz (Tour Eiffel for Cercle)
 ------------------------------------
 
-[![]( /image/yid-oFvqo1dil7M.jpg)](https://www.youtube.com/watch?v=oFvqo1dil7M)
+[![](/image/yid-oFvqo1dil7M.jpg)](https://www.youtube.com/watch?v=oFvqo1dil7M)
 
 Nina Kraviz: Dream Machine
 --------------------------
 
-[![]( /image/yid-JDJRg8sowP4.jpg)](https://www.youtube.com/watch?v=JDJRg8sowP4)
+[![](/image/yid-JDJRg8sowP4.jpg)](https://www.youtube.com/watch?v=JDJRg8sowP4)

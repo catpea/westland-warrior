@@ -14,12 +14,12 @@ Y Combinator
 What is Y Combinator?
 ---------------------
 
-[![]( /image/yid-_4JtyLKDjXk.jpg)](https://www.youtube.com/watch?v=_4JtyLKDjXk)
+[![](/image/yid-_4JtyLKDjXk.jpg)](https://www.youtube.com/watch?v=_4JtyLKDjXk)
 
 How and Why to Start A Startup - Sam Altman & Dustin Moskovitz (44 minute lecture)
 ----------------------------------------------------------------------------------
 
-[![]( /image/yid-ZoqgAy3h4OM.jpg)](https://www.youtube.com/watch?v=ZoqgAy3h4OM)
+[![](/image/yid-ZoqgAy3h4OM.jpg)](https://www.youtube.com/watch?v=ZoqgAy3h4OM)
 
 Investors Are Waiting
 ---------------------
@@ -31,27 +31,27 @@ Programming Tools, and Computer Security to name a few.
 YC Partner AMA at the Female Founders Conference
 ------------------------------------------------
 
-[![]( /image/yid-waYiVrIGQ_0.jpg)](https://www.youtube.com/watch?v=waYiVrIGQ_0)
+[![](/image/yid-waYiVrIGQ_0.jpg)](https://www.youtube.com/watch?v=waYiVrIGQ_0)
 
 Fundraising Advice from Female Founders
 ---------------------------------------
 
-[![]( /image/yid-GHoTciAH8Uo.jpg)](https://www.youtube.com/watch?v=GHoTciAH8Uo)
+[![](/image/yid-GHoTciAH8Uo.jpg)](https://www.youtube.com/watch?v=GHoTciAH8Uo)
 
 The Most Important Decision is Getting Started – Laura Behrens Wu
 -----------------------------------------------------------------
 
-[![]( /image/yid-ZAkzs4rgjOo.jpg)](https://www.youtube.com/watch?v=ZAkzs4rgjOo)
+[![](/image/yid-ZAkzs4rgjOo.jpg)](https://www.youtube.com/watch?v=ZAkzs4rgjOo)
 
 Mariya Nurislamova, Founder of Scentbird at the Female Founders Conference
 --------------------------------------------------------------------------
 
-[![]( /image/yid-gmA-BOIVKQU.jpg)](https://www.youtube.com/watch?v=gmA-BOIVKQU)
+[![](/image/yid-gmA-BOIVKQU.jpg)](https://www.youtube.com/watch?v=gmA-BOIVKQU)
 
 Emily Weiss on the Insights That Grew Glossier - With Amy Buechler at the Female Founders Conference
 ----------------------------------------------------------------------------------------------------
 
-[![]( /image/yid-ex-fXyRJTU8.jpg)](https://www.youtube.com/watch?v=ex-fXyRJTU8)
+[![](/image/yid-ex-fXyRJTU8.jpg)](https://www.youtube.com/watch?v=ex-fXyRJTU8)
 
 Techstars
 ---------
@@ -61,22 +61,22 @@ Techstars
 What is Techstars?
 ------------------
 
-[![]( /image/yid-S-3YgWroCdo.jpg)](https://www.youtube.com/watch?v=S-3YgWroCdo)
+[![](/image/yid-S-3YgWroCdo.jpg)](https://www.youtube.com/watch?v=S-3YgWroCdo)
 
 What Techstars Gave Me - Founder Stories
 ----------------------------------------
 
-[![]( /image/yid-Apr2B7Ix0zs.jpg)](https://www.youtube.com/watch?v=Apr2B7Ix0zs)
+[![](/image/yid-Apr2B7Ix0zs.jpg)](https://www.youtube.com/watch?v=Apr2B7Ix0zs)
 
 Mary Haskett, Founder of Blink Identity
 ---------------------------------------
 
-[![]( /image/yid-NE6jxVk7G-8.jpg)](https://www.youtube.com/watch?v=NE6jxVk7G-8)
+[![](/image/yid-NE6jxVk7G-8.jpg)](https://www.youtube.com/watch?v=NE6jxVk7G-8)
 
 Sky Kelley, Founder of Avisare
 ------------------------------
 
-[![]( /image/yid-oRjHsum2ImI.jpg)](https://www.youtube.com/watch?v=oRjHsum2ImI)
+[![](/image/yid-oRjHsum2ImI.jpg)](https://www.youtube.com/watch?v=oRjHsum2ImI)
 
 Quote by Sun Tzu
 ----------------

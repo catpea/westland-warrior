@@ -1,12 +1,12 @@
 What is a Hacker? with Emmanuel Goldstein.
 ------------------------------------------
 
-[![]( /image/yid-5vjMnUX6v4M.jpg)](https://www.youtube.com/watch?v=5vjMnUX6v4M)
+[![](/image/yid-5vjMnUX6v4M.jpg)](https://www.youtube.com/watch?v=5vjMnUX6v4M)
 
 Kids hack their Dad's computer on her Raspberry Pi
 --------------------------------------------------
 
-[![]( /image/yid-W76o_iG7Y7g.jpg)](https://www.youtube.com/watch?v=W76o_iG7Y7g)
+[![](/image/yid-W76o_iG7Y7g.jpg)](https://www.youtube.com/watch?v=W76o_iG7Y7g)
 
 Raspberry Pi
 ------------
@@ -25,12 +25,12 @@ phrases.
 Raspberry Pi 4
 --------------
 
-[![]( /image/yid-sajBySPeYH0.jpg)](https://www.youtube.com/watch?v=sajBySPeYH0)
+[![](/image/yid-sajBySPeYH0.jpg)](https://www.youtube.com/watch?v=sajBySPeYH0)
 
 What's inside the Raspberry Pi 4 Desktop Kit?
 ---------------------------------------------
 
-[![]( /image/yid-88WOo4DIElY.jpg)](https://www.youtube.com/watch?v=88WOo4DIElY)
+[![](/image/yid-88WOo4DIElY.jpg)](https://www.youtube.com/watch?v=88WOo4DIElY)
 
 Portable Monitor
 ----------------
@@ -256,17 +256,17 @@ kind of science” - Oof!.
 Computing a theory of everything
 --------------------------------
 
-[![]( /image/yid-60P7717-XOQ.jpg)](https://www.youtube.com/watch?v=60P7717-XOQ)
+[![](/image/yid-60P7717-XOQ.jpg)](https://www.youtube.com/watch?v=60P7717-XOQ)
 
 Pentesting Android Applications
 -------------------------------
 
-[![]( /image/yid-EF3oi9Ra7IU.jpg)](https://www.youtube.com/watch?v=EF3oi9Ra7IU)
+[![](/image/yid-EF3oi9Ra7IU.jpg)](https://www.youtube.com/watch?v=EF3oi9Ra7IU)
 
 Network Penetration Testing for Beginners
 -----------------------------------------
 
-[![]( /image/yid-3Kq1MIfTWCE.jpg)](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
+[![](/image/yid-3Kq1MIfTWCE.jpg)](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
 
 White Hat Hackers
 -----------------
@@ -279,7 +279,7 @@ us keep our family, homes, and possessions safer and more secure.
 Smarter Every Day on Vulnerabilities in Smart Devices
 -----------------------------------------------------
 
-[![]( /image/yid-ozIKwGt38LQ.jpg)](https://www.youtube.com/watch?v=ozIKwGt38LQ)
+[![](/image/yid-ozIKwGt38LQ.jpg)](https://www.youtube.com/watch?v=ozIKwGt38LQ)
 
 Lock Picking Lawyer
 -------------------
@@ -289,14 +289,14 @@ Lock Picking Lawyer
 My Wife vs. Ben & Jerry’s Ice Cream Lock
 ----------------------------------------
 
-[![]( /image/yid-lod_LUp3ggc.jpg)](https://www.youtube.com/watch?v=lod_LUp3ggc)
+[![](/image/yid-lod_LUp3ggc.jpg)](https://www.youtube.com/watch?v=lod_LUp3ggc)
 
 Fortress Combination Padlock Decoded FAST and Bypassed
 ------------------------------------------------------
 
-[![]( /image/yid-Fah-LJJaPWg.jpg)](https://www.youtube.com/watch?v=Fah-LJJaPWg)
+[![](/image/yid-Fah-LJJaPWg.jpg)](https://www.youtube.com/watch?v=Fah-LJJaPWg)
 
 Gallium vs. Titalium - Abus Padlock Meets a Gruesome End
 --------------------------------------------------------
 
-[![]( /image/yid-jeghGhVdt9s.jpg)](https://www.youtube.com/watch?v=jeghGhVdt9s)
+[![](/image/yid-jeghGhVdt9s.jpg)](https://www.youtube.com/watch?v=jeghGhVdt9s)

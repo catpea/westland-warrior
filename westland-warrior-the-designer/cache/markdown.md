@@ -36,37 +36,37 @@ Paul Robertson
 Indiana Jones and the Fate Of Atlantis (1992)
 ---------------------------------------------
 
-[![]( /image/yid-LZZXJ3zCRDQ.jpg)](https://www.youtube.com/watch?v=LZZXJ3zCRDQ)
+[![](/image/yid-LZZXJ3zCRDQ.jpg)](https://www.youtube.com/watch?v=LZZXJ3zCRDQ)
 
 Maniac Mansion Day of The Tentacle (1993)
 -----------------------------------------
 
-[![]( /image/yid-Xz3Aw5qLcOs.jpg)](https://www.youtube.com/watch?v=Xz3Aw5qLcOs)
+[![](/image/yid-Xz3Aw5qLcOs.jpg)](https://www.youtube.com/watch?v=Xz3Aw5qLcOs)
 
 Sam & Max: Hit the Road (1993)
 ------------------------------
 
-[![]( /image/yid-pdU0Njkek5s.jpg)](https://www.youtube.com/watch?v=pdU0Njkek5s)
+[![](/image/yid-pdU0Njkek5s.jpg)](https://www.youtube.com/watch?v=pdU0Njkek5s)
 
 Flashback (1992)
 ----------------
 
-[![]( /image/yid-wNTnRM77XuE.jpg)](https://www.youtube.com/watch?v=wNTnRM77XuE)
+[![](/image/yid-wNTnRM77XuE.jpg)](https://www.youtube.com/watch?v=wNTnRM77XuE)
 
 Another World (1991)
 --------------------
 
-[![]( /image/yid-utrxk5_PeEY.jpg)](https://www.youtube.com/watch?v=utrxk5_PeEY)
+[![](/image/yid-utrxk5_PeEY.jpg)](https://www.youtube.com/watch?v=utrxk5_PeEY)
 
 Undertale (2015)
 ----------------
 
-[![]( /image/yid-vEVR2FUB3ic.jpg)](https://www.youtube.com/watch?v=vEVR2FUB3ic)
+[![](/image/yid-vEVR2FUB3ic.jpg)](https://www.youtube.com/watch?v=vEVR2FUB3ic)
 
 eBoy and the perfection of pixels
 ---------------------------------
 
-[![]( /image/yid-c1F6EsGGa4U.jpg)](https://www.youtube.com/watch?v=c1F6EsGGa4U)
+[![](/image/yid-c1F6EsGGa4U.jpg)](https://www.youtube.com/watch?v=c1F6EsGGa4U)
 
 Pixelart Watch
 --------------
@@ -129,12 +129,12 @@ Fantasy User Interface
 TRON Legacy: Encom Tower
 ------------------------
 
-[![]( /image/yid-6WrhZsttinA.jpg)](https://www.youtube.com/watch?v=6WrhZsttinA)
+[![](/image/yid-6WrhZsttinA.jpg)](https://www.youtube.com/watch?v=6WrhZsttinA)
 
 It's a unix system
 ------------------
 
-[![]( /image/yid-dxIPcbmo1_U.jpg)](https://www.youtube.com/watch?v=dxIPcbmo1_U)
+[![](/image/yid-dxIPcbmo1_U.jpg)](https://www.youtube.com/watch?v=dxIPcbmo1_U)
 
 Skeuomorphism
 -------------
@@ -177,12 +177,12 @@ Product Ideas
 How To Design Sublimation T-shirts
 ----------------------------------
 
-[![]( /image/yid-E2OL19GbtbY.jpg)](https://www.youtube.com/watch?v=E2OL19GbtbY)
+[![](/image/yid-E2OL19GbtbY.jpg)](https://www.youtube.com/watch?v=E2OL19GbtbY)
 
 Sportswear Printing - All over Print - Cut - Sew ( basketball uniforms)
 -----------------------------------------------------------------------
 
-[![]( /image/yid-o2xOymSeH6I.jpg)](https://www.youtube.com/watch?v=o2xOymSeH6I)
+[![](/image/yid-o2xOymSeH6I.jpg)](https://www.youtube.com/watch?v=o2xOymSeH6I)
 
 Problems with non Cut & Sew
 ---------------------------

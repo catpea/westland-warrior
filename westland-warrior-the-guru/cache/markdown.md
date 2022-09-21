@@ -1,7 +1,7 @@
 Keyboards & Command Line Interfaces
 -----------------------------------
 
-[![]( /image/yid-4RPtJ9UyHS0.jpg)](https://www.youtube.com/watch?v=4RPtJ9UyHS0)
+[![](/image/yid-4RPtJ9UyHS0.jpg)](https://www.youtube.com/watch?v=4RPtJ9UyHS0)
 
 Crash Course Computer Science
 -----------------------------
@@ -45,7 +45,7 @@ or download files across the internet.
 Getting Around in the Unix Command Line Interface
 -------------------------------------------------
 
-[![]( /image/yid-RuusmAGbnOo.jpg)](https://www.youtube.com/watch?v=RuusmAGbnOo)
+[![](/image/yid-RuusmAGbnOo.jpg)](https://www.youtube.com/watch?v=RuusmAGbnOo)
 
 Full Raspberry Pi Tutorial Playlist
 -----------------------------------
@@ -118,7 +118,7 @@ its innards.
 How To Hack Time
 ----------------
 
-[![]( /image/yid-KEkrWRHCDQU.jpg)](https://www.youtube.com/watch?v=KEkrWRHCDQU)
+[![](/image/yid-KEkrWRHCDQU.jpg)](https://www.youtube.com/watch?v=KEkrWRHCDQU)
 
 Simplicity Lost
 ---------------
@@ -170,7 +170,7 @@ Graphical Pipe Editors exists as well, Node-RED is a nice example.
 Node-RED
 --------
 
-[![]( /image/yid-vYreeoCoQPI.jpg)](https://www.youtube.com/watch?v=vYreeoCoQPI)
+[![](/image/yid-vYreeoCoQPI.jpg)](https://www.youtube.com/watch?v=vYreeoCoQPI)
 
 Recap and Summary
 -----------------

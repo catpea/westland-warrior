@@ -1,32 +1,32 @@
 Bertrand Russell - Message To Future Generations (1959)
 -------------------------------------------------------
 
-[![]( /image/yid-ihaB8AFOhZo.jpg)](https://www.youtube.com/watch?v=ihaB8AFOhZo)
+[![](/image/yid-ihaB8AFOhZo.jpg)](https://www.youtube.com/watch?v=ihaB8AFOhZo)
 
 Ancient Greece
 --------------
 
-[![]( /image/yid-1mZYOhYDQog.jpg)](https://www.youtube.com/watch?v=1mZYOhYDQog)
+[![](/image/yid-1mZYOhYDQog.jpg)](https://www.youtube.com/watch?v=1mZYOhYDQog)
 
 Hard Times
 ----------
 
-[![]( /image/yid-iKsbutYbQ6Y.jpg)](https://www.youtube.com/watch?v=iKsbutYbQ6Y)
+[![](/image/yid-iKsbutYbQ6Y.jpg)](https://www.youtube.com/watch?v=iKsbutYbQ6Y)
 
 Hope is The Thing With Feathers
 -------------------------------
 
-[![]( /image/yid--TbqRaBY9K0.jpg)](https://www.youtube.com/watch?v=-TbqRaBY9K0)
+[![](/image/yid--TbqRaBY9K0.jpg)](https://www.youtube.com/watch?v=-TbqRaBY9K0)
 
 Defeat - Kahlil Gibran
 ----------------------
 
-[![]( /image/yid-JE8taOWjVbc.jpg)](https://www.youtube.com/watch?v=JE8taOWjVbc)
+[![](/image/yid-JE8taOWjVbc.jpg)](https://www.youtube.com/watch?v=JE8taOWjVbc)
 
 The Miracle of Man - Robert Ardrey
 ----------------------------------
 
-[![]( /image/yid-tcFfk0Q6Vis.jpg)](https://www.youtube.com/watch?v=tcFfk0Q6Vis)
+[![](/image/yid-tcFfk0Q6Vis.jpg)](https://www.youtube.com/watch?v=tcFfk0Q6Vis)
 
 Quote by Robert Ardrey
 ----------------------
@@ -50,24 +50,24 @@ Quote by Robert Ardrey
 Nietzsche
 ---------
 
-[![]( /image/yid-4WkcYaAecOQ.jpg)](https://www.youtube.com/watch?v=4WkcYaAecOQ)
+[![](/image/yid-4WkcYaAecOQ.jpg)](https://www.youtube.com/watch?v=4WkcYaAecOQ)
 
 Viktor Frankl
 -------------
 
-[![]( /image/yid-FvYAKSXl89c.jpg)](https://www.youtube.com/watch?v=FvYAKSXl89c)
+[![](/image/yid-FvYAKSXl89c.jpg)](https://www.youtube.com/watch?v=FvYAKSXl89c)
 
 State of Mind
 -------------
 
-[![]( /image/yid-m5HKMfRzEgM.jpg)](https://www.youtube.com/watch?v=m5HKMfRzEgM)
+[![](/image/yid-m5HKMfRzEgM.jpg)](https://www.youtube.com/watch?v=m5HKMfRzEgM)
 
 INVICTUS - W. E. Henley
 -----------------------
 
-[![]( /image/yid-JeXKWMA1CcY.jpg)](https://www.youtube.com/watch?v=JeXKWMA1CcY)
+[![](/image/yid-JeXKWMA1CcY.jpg)](https://www.youtube.com/watch?v=JeXKWMA1CcY)
 
 Francine's Interview
 --------------------
 
-[![]( /image/yid-gXGfngjmwLA.jpg)](https://www.youtube.com/watch?v=gXGfngjmwLA)
+[![](/image/yid-gXGfngjmwLA.jpg)](https://www.youtube.com/watch?v=gXGfngjmwLA)

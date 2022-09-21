@@ -1,7 +1,7 @@
 Finding Joe
 -----------
 
-[![]( /image/yid-s8nFACrLxr0.jpg)](https://www.youtube.com/watch?v=s8nFACrLxr0)
+[![](/image/yid-s8nFACrLxr0.jpg)](https://www.youtube.com/watch?v=s8nFACrLxr0)
 
 Quote by Sun Tzu
 ----------------
@@ -14,7 +14,7 @@ Quote by Sun Tzu
 Viktor Frankl
 -------------
 
-[![]( /image/yid-LlC2OdnhIiQ.jpg)](https://www.youtube.com/watch?v=LlC2OdnhIiQ)
+[![](/image/yid-LlC2OdnhIiQ.jpg)](https://www.youtube.com/watch?v=LlC2OdnhIiQ)
 
 Quote by Viktor E. Frankl
 -------------------------
@@ -66,7 +66,7 @@ others to follow.
 Kosmos
 ------
 
-[![]( /image/yid-FyNR_LgiWEc.jpg)](https://www.youtube.com/watch?v=FyNR_LgiWEc)
+[![](/image/yid-FyNR_LgiWEc.jpg)](https://www.youtube.com/watch?v=FyNR_LgiWEc)
 
 Kosmos by Walt Whitman
 ----------------------

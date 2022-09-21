@@ -33,7 +33,7 @@ sound nice together. Break the rules from time to time.
 Percussion Ensemble
 -------------------
 
-[![]( /image/yid-SYSxOj6W7IQ.jpg)](https://www.youtube.com/watch?v=SYSxOj6W7IQ)
+[![](/image/yid-SYSxOj6W7IQ.jpg)](https://www.youtube.com/watch?v=SYSxOj6W7IQ)
 
 Sounds on a Timeline
 --------------------
@@ -45,7 +45,7 @@ Watch the melody.
 Guitar Hero - Simpsons Theme Song
 ---------------------------------
 
-[![]( /image/yid-uGrN6PR44PQ.jpg)](https://www.youtube.com/watch?v=uGrN6PR44PQ)
+[![](/image/yid-uGrN6PR44PQ.jpg)](https://www.youtube.com/watch?v=uGrN6PR44PQ)
 
 Melody & Song Structure
 -----------------------
@@ -68,7 +68,7 @@ notes in a sequence, and you know it is done, and done.
 Musical Form
 ------------
 
-[![]( /image/yid-T5wTqFteQVY.jpg)](https://www.youtube.com/watch?v=T5wTqFteQVY)
+[![](/image/yid-T5wTqFteQVY.jpg)](https://www.youtube.com/watch?v=T5wTqFteQVY)
 
 The Drum Kit
 ------------
@@ -86,7 +86,7 @@ quick sharp sounding things that go along with it.
 Play With Your Rhythm: Drum Patterns
 ------------------------------------
 
-[![]( /image/yid-tm2BgO1VaRY.jpg)](https://www.youtube.com/watch?v=tm2BgO1VaRY)
+[![](/image/yid-tm2BgO1VaRY.jpg)](https://www.youtube.com/watch?v=tm2BgO1VaRY)
 
 The Drum Kit
 ------------
@@ -107,12 +107,12 @@ Clap, that's the sound that clapping your hands makes.
 PROFESSIONAL Drum Programming Made EASY in LMMS!
 ------------------------------------------------
 
-[![]( /image/yid-EY62kFvlbFg.jpg)](https://www.youtube.com/watch?v=EY62kFvlbFg)
+[![](/image/yid-EY62kFvlbFg.jpg)](https://www.youtube.com/watch?v=EY62kFvlbFg)
 
 How To Write A Melody On The Piano (For Beginners)
 --------------------------------------------------
 
-[![]( /image/yid-AvxevjgKBfo.jpg)](https://www.youtube.com/watch?v=AvxevjgKBfo)
+[![](/image/yid-AvxevjgKBfo.jpg)](https://www.youtube.com/watch?v=AvxevjgKBfo)
 
 The Melody
 ----------
@@ -193,7 +193,7 @@ clockwise.
 Chopin - Revolutionary Etude (Op. 10 No. 12)
 --------------------------------------------
 
-[![]( /image/yid-g1uLrHq9TDg.jpg)](https://www.youtube.com/watch?v=g1uLrHq9TDg)
+[![](/image/yid-g1uLrHq9TDg.jpg)](https://www.youtube.com/watch?v=g1uLrHq9TDg)
 
 Lead The Way
 ------------

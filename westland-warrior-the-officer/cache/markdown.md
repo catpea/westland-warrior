@@ -53,7 +53,7 @@ deed:
 West Point Pillow Fight Turns Violent
 -------------------------------------
 
-[![]( /image/yid-85dhw7nulb4.jpg)](https://www.youtube.com/watch?v=85dhw7nulb4)
+[![](/image/yid-85dhw7nulb4.jpg)](https://www.youtube.com/watch?v=85dhw7nulb4)
 
 Modern Day
 ----------
@@ -73,7 +73,7 @@ His poem “If” is a magnificent reminder that growing up is not optional.
 IF, Rudyard Kipling's poem, recited by Sir Michael Caine
 --------------------------------------------------------
 
-[![]( /image/yid-EEFMVIfl2UY.jpg)](https://www.youtube.com/watch?v=EEFMVIfl2UY)
+[![](/image/yid-EEFMVIfl2UY.jpg)](https://www.youtube.com/watch?v=EEFMVIfl2UY)
 
 IF by Rudyard Kipling
 ---------------------

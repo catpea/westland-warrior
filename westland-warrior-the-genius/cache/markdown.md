@@ -53,7 +53,7 @@ alive across centuries even as English evolves.
 Story of Beowulf
 ----------------
 
-[![]( /image/yid-JgOi1YEU7TU.jpg)](https://www.youtube.com/watch?v=JgOi1YEU7TU)
+[![](/image/yid-JgOi1YEU7TU.jpg)](https://www.youtube.com/watch?v=JgOi1YEU7TU)
 
 Land of Monsters?
 -----------------
@@ -128,7 +128,7 @@ These words are still as mighty as the day I found them.
 The Conscience of a Hacker read by The Mentor
 ---------------------------------------------
 
-[![]( /image/yid-0tEnnvZbYek.jpg)](https://www.youtube.com/watch?v=0tEnnvZbYek)
+[![](/image/yid-0tEnnvZbYek.jpg)](https://www.youtube.com/watch?v=0tEnnvZbYek)
 
 You are a Genius.
 -----------------
@@ -152,7 +152,7 @@ information and tools needed to manipulate it.
 Neuro Genesis: You can grow new brain cells. Here's how by Sandrine Thuret
 --------------------------------------------------------------------------
 
-[![]( /image/yid-B_tjKYvEziI.jpg)](https://www.youtube.com/watch?v=B_tjKYvEziI)
+[![](/image/yid-B_tjKYvEziI.jpg)](https://www.youtube.com/watch?v=B_tjKYvEziI)
 
 Genius, like Child Prodigy, is just a stepping stone. Don't stop.
 -----------------------------------------------------------------
@@ -192,7 +192,7 @@ across centuries.
 A History of English Letters
 ----------------------------
 
-[![]( /image/yid-OGeIzmu9DSA.jpg)](https://www.youtube.com/watch?v=OGeIzmu9DSA)
+[![](/image/yid-OGeIzmu9DSA.jpg)](https://www.youtube.com/watch?v=OGeIzmu9DSA)
 
 Good Frameworks come with Easy On-boarding
 ------------------------------------------
@@ -222,7 +222,7 @@ reader to a greater initial spectrum of Mathematics.
 What if Schools Taught Us How to Learn by Jonathan Levi
 -------------------------------------------------------
 
-[![]( /image/yid-vtQzuwnyW6E.jpg)](https://www.youtube.com/watch?v=vtQzuwnyW6E)
+[![](/image/yid-vtQzuwnyW6E.jpg)](https://www.youtube.com/watch?v=vtQzuwnyW6E)
 
 Memorizing πr²
 --------------
@@ -254,7 +254,7 @@ to, learn Mathematics, or be punished.
 Area of a circle, how to get the formula.
 -----------------------------------------
 
-[![]( /image/yid-YokKp3pwVFc.jpg)](https://www.youtube.com/watch?v=YokKp3pwVFc)
+[![](/image/yid-YokKp3pwVFc.jpg)](https://www.youtube.com/watch?v=YokKp3pwVFc)
 
 Just Eyeball
 ------------
@@ -290,12 +290,12 @@ distortion of sound waves, to other things...
 Simple Relativity - Understanding Einstein's Special Theory of Relativity
 -------------------------------------------------------------------------
 
-[![]( /image/yid-TgH9KXEQ0YU.jpg)](https://www.youtube.com/watch?v=TgH9KXEQ0YU)
+[![](/image/yid-TgH9KXEQ0YU.jpg)](https://www.youtube.com/watch?v=TgH9KXEQ0YU)
 
 Einstein's Proof of E=mc2
 -------------------------
 
-[![]( /image/yid-hW7DW9NIO9M.jpg)](https://www.youtube.com/watch?v=hW7DW9NIO9M)
+[![](/image/yid-hW7DW9NIO9M.jpg)](https://www.youtube.com/watch?v=hW7DW9NIO9M)
 
 Math
 ----
@@ -337,7 +337,7 @@ visualizations.
 Karlie Kloss explains how to use math with the artist in Code Studio
 --------------------------------------------------------------------
 
-[![]( /image/yid-BGeT8IyKd2M.jpg)](https://www.youtube.com/watch?v=BGeT8IyKd2M)
+[![](/image/yid-BGeT8IyKd2M.jpg)](https://www.youtube.com/watch?v=BGeT8IyKd2M)
 
 Easy as π
 ---------
@@ -366,7 +366,7 @@ into the world of Math, Computers, Science, Technology.
 Frameworks: Why.
 ----------------
 
-[![]( /image/yid-36GT2zI8lVA.jpg)](https://www.youtube.com/watch?v=36GT2zI8lVA)
+[![](/image/yid-36GT2zI8lVA.jpg)](https://www.youtube.com/watch?v=36GT2zI8lVA)
 
 Genius.
 -------
@@ -387,7 +387,7 @@ the talking - with each new generation, doubly so.
 We are all connected.
 ---------------------
 
-[![]( /image/yid-XGK84Poeynk.jpg)](https://www.youtube.com/watch?v=XGK84Poeynk)
+[![](/image/yid-XGK84Poeynk.jpg)](https://www.youtube.com/watch?v=XGK84Poeynk)
 
 Accept The Responsibility
 -------------------------
@@ -402,7 +402,7 @@ But remember, all problems created by Humans, can be solved by Humans too.
 Those That Can't Do, Teach.
 ---------------------------
 
-[![]( /image/yid-QQskB2JJql4.jpg)](https://www.youtube.com/watch?v=QQskB2JJql4)
+[![](/image/yid-QQskB2JJql4.jpg)](https://www.youtube.com/watch?v=QQskB2JJql4)
 
 Memorization is Over
 --------------------
@@ -448,7 +448,7 @@ Real knowledge will always beat what you memorized and forgot.
 Genius by Mark Diaz
 -------------------
 
-[![]( /image/yid-mQPEZdBTOeE.jpg)](https://www.youtube.com/watch?v=mQPEZdBTOeE)
+[![](/image/yid-mQPEZdBTOeE.jpg)](https://www.youtube.com/watch?v=mQPEZdBTOeE)
 
 The Future, The World
 ---------------------
